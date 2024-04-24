@@ -1,4 +1,4 @@
-### 👋 Welcome to my GitHub Profile!
+### 👋 Hi there!
 
 ----
 <div align="center">
