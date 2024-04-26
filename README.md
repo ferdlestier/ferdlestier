@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photography-of-banana-leaves-TMxUnMAAwFA"><img width="720" src="https://images.unsplash.com/photo-1484506097116-1bcba4fa7568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQwMjUyMzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="photography of banana leaves"></a>
+  <a href="https://unsplash.com/photos/rock-formation-beside-body-of-water-LUBvSohu6D0"><img width="720" src="https://images.unsplash.com/photo-1447957781261-96a39620d6d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQxMTE2NDR8&ixlib=rb-4.0.3&q=80&w=1080" alt="rock formation beside body of water"></a>
   
-  <em>photography of banana leaves</em>
+  <em>rock formation beside body of water</em>
   
-  <em>Palm Leave</em>
+  <em>Mossy gorge</em>
 
-  Photo by [Jakob Owens](https://amap.to/jakobowens/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jakobowens) / [portfolio](https://amap.to/jakobowens/) / [Twitter](https://twitter.com/jakobOwenss)
+  Photo by [Andrew Coelho](http://andrewcoelho.com/photos) on [unsplash.com](https://unsplash.com/) • [portfolio](http://andrewcoelho.com/photos)
   
-  Taken at Unknown • 
+  Taken at Oregon, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.8041334,-120.5542012)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS-1D X Mark II |
-| Exposure Time | 1/640 |
-| Aperture      | 3.5 |
-| Focal Length  | 65.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/20 |
+| Aperture      | 8.0 |
+| Focal Length  | 44.0 |
+| ISO           | 320 |
+| Location      | Oregon, United States (United States) |
+| Coordinates   | Latitude 43.8041334, Longitude -120.5542012 |
 
 </details>
 
