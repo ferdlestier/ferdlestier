@@ -5,15 +5,17 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-under-sky-6ArTTluciuA"><img width="720" src="https://images.unsplash.com/photo-1518837695005-2083093ee35b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQxOTgwNDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water under sky"></a>
+  <a href="https://unsplash.com/photos/island-surrounded-by-water-z_9VmsxR8hs"><img width="720" src="https://images.unsplash.com/photo-1551978429-3dbfed5cacc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQyODQzNzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="island surrounded by water"></a>
   
-  <em>body of water under sky</em>
+  <em>island surrounded by water</em>
   
-  <em>Ocean Ripple - Buy Print: https://society6.com/product/ripple1982828_print?sku=s6-10781771p4a1v3</em>
+  <em>A small isle in the Eibsee at the beginning of November in 2018. Because it was a really nice and warm day some canoeists stayed at the island in the sund to relax.
 
-  Photo by [Matt Hardy](https://www.instagram.com/mattchardy/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mattchardy) / [portfolio](https://www.instagram.com/mattchardy/)
+This is the horizontal version of a photo I already posted last year.</em>
+
+  Photo by [Daniel Seßler](http://danielsessler.photos) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daniel.sessler) / [portfolio](http://danielsessler.photos)
   
-  Taken at Bondi Beach, Australia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-33.89102,151.277726)
+  Taken at Eibsee, Grainau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4562353,10.9728807)
   
   ---
   
@@ -22,13 +24,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6300 |
-| Exposure Time | 1/4000 |
-| Aperture      | 2.8 |
-| Focal Length  | 35.0 |
-| ISO           | 800 |
-| Location      | Bondi Beach, Australia (Australia) |
-| Coordinates   | Latitude -33.89102, Longitude 151.277726 |
+| Camera Model  | ILCE-7R |
+| Exposure Time | 1/160 |
+| Aperture      | 4 |
+| Focal Length  | 95.0 |
+| ISO           | 100 |
+| Location      | Eibsee, Grainau, Germany (Germany) |
+| Coordinates   | Latitude 47.4562353, Longitude 10.9728807 |
 
 </details>
 
