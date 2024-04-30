@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/selective-focus-photography-of-blue-kingfisher-vUNQaTtZeOo"><img width="720" src="https://images.unsplash.com/photo-1444464666168-49d633b86797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQzNzA4NTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photography of blue kingfisher"></a>
+  <a href="https://unsplash.com/photos/a-night-sky-with-trees-and-stars-gKci_AAMfRQ"><img width="720" src="https://images.unsplash.com/photo-1666813721352-ddf3286e653b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ0NTcyMzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="a night sky with trees and stars"></a>
   
-  <em>selective focus photography of blue kingfisher</em>
+  <em>a night sky with trees and stars</em>
   
-  <em>Perched blue and orange bird</em>
+  <em>Sleeping with the stars at Bear Lake - I did my best to stay up as late as I could to capture the milky way. A good amount of moonlight makes capturing the milky way in all of its glory is challenging but the landscape and stars are still as beautiful as can be and awe-inspiring.</em>
 
-  Photo by [Vincent van Zalinge](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentvanzalinge)
+  Photo by [Andy Sanchez](https://andysanchezmarketing.com/portfolio) on [unsplash.com](https://unsplash.com/) • [portfolio](https://andysanchezmarketing.com/portfolio)
   
-  Taken at Oostvaardersplassen (Natuurreservaat), Lelystad, Nederland • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.4467258594769,5.41542433618156)
+  Taken at Unknown • 
   
   ---
   
@@ -27,8 +27,8 @@
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Oostvaardersplassen (Natuurreservaat), Lelystad, Nederland (Nederland) |
-| Coordinates   | Latitude 52.4467258594769, Longitude 5.41542433618156 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
