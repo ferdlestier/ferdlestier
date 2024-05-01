@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-night-sky-with-trees-and-stars-gKci_AAMfRQ"><img width="720" src="https://images.unsplash.com/photo-1666813721352-ddf3286e653b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ0NTcyMzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="a night sky with trees and stars"></a>
+  <a href="https://unsplash.com/photos/macro-photography-of-red-flowers-zjk0Tx6-M6Q"><img width="720" src="https://images.unsplash.com/photo-1465990138262-b7c355d1ef90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ1NDM2OTN8&ixlib=rb-4.0.3&q=80&w=1080" alt="macro photography of red flowers"></a>
   
-  <em>a night sky with trees and stars</em>
+  <em>macro photography of red flowers</em>
   
-  <em>Sleeping with the stars at Bear Lake - I did my best to stay up as late as I could to capture the milky way. A good amount of moonlight makes capturing the milky way in all of its glory is challenging but the landscape and stars are still as beautiful as can be and awe-inspiring.</em>
+  <em></em>
 
-  Photo by [Andy Sanchez](https://andysanchezmarketing.com/portfolio) on [unsplash.com](https://unsplash.com/) • [portfolio](https://andysanchezmarketing.com/portfolio)
+  Photo by [Monica Galentino](https://www.flickr.com/photos/98998691@N00/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lidivien78) / [portfolio](https://www.flickr.com/photos/98998691@N00/)
   
-  Taken at Unknown • 
+  Taken at Poppies, Pienza, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.0644078836124,11.637083015039)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/100 |
+| Aperture      | 1.8 |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
+| Location      | Poppies, Pienza, Italy (Italy) |
+| Coordinates   | Latitude 43.0644078836124, Longitude 11.637083015039 |
 
 </details>
 
