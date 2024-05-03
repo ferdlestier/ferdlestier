@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/white-sand-RsRTIofe0HE"><img width="720" src="https://images.unsplash.com/photo-1554147090-e1221a04a025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ2MzAwMzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="white sand"></a>
+  <a href="https://unsplash.com/photos/sepia-photography-of-bare-trees-zvf7cZ0PC20"><img width="720" src="https://images.unsplash.com/photo-1442473483905-95eb436675f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ3MTY0MzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="sepia photography of bare trees"></a>
   
-  <em>white sand</em>
+  <em>sepia photography of bare trees</em>
   
-  <em>Taken near sunset at White Sands National Monument, New Mexico, USA</em>
+  <em></em>
 
-  Photo by [John Fowler](http://www.flickr.com/photos/snowpeak) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnd.fowler) / [portfolio](http://www.flickr.com/photos/snowpeak)
+  Photo by [Dikaseva](http://dikaseva.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dikaseva) / [portfolio](http://dikaseva.com/)
   
-  Taken at White Sands National Monument, Socorro NM, United States • 
+  Taken at Kota Garut, Indonesia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-7.227906,107.908699)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800E |
-| Exposure Time | 1/200 |
-| Aperture      | 9.0 |
-| Focal Length  | 120.0 |
-| ISO           | 400 |
-| Location      | White Sands National Monument, Socorro NM, United States (United States) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 650D |
+| Exposure Time | 1/30 |
+| Aperture      | 22.0 |
+| Focal Length  | 11.0 |
+| ISO           | 100 |
+| Location      | Kota Garut, Indonesia (Indonesia) |
+| Coordinates   | Latitude -7.227906, Longitude 107.908699 |
 
 </details>
 
