@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/sepia-photography-of-bare-trees-zvf7cZ0PC20"><img width="720" src="https://images.unsplash.com/photo-1442473483905-95eb436675f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ3MTY0MzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="sepia photography of bare trees"></a>
+  <a href="https://unsplash.com/photos/low-light-photo-of-forest-2ShvY8Lf6l0"><img width="720" src="https://images.unsplash.com/photo-1426170042593-200f250dfdaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ4MDI3OTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="low-light photo of forest"></a>
   
-  <em>sepia photography of bare trees</em>
+  <em>low-light photo of forest</em>
   
-  <em></em>
+  <em>Sun peeking through the trees</em>
 
-  Photo by [Dikaseva](http://dikaseva.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dikaseva) / [portfolio](http://dikaseva.com/)
+  Photo by [Lukasz Szmigiel](https://photo.szmigiel.design/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
   
-  Taken at Kota Garut, Indonesia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-7.227906,107.908699)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 650D |
-| Exposure Time | 1/30 |
-| Aperture      | 22.0 |
-| Focal Length  | 11.0 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 1/800 |
+| Aperture      | 1.8 |
+| Focal Length  | 50.0 |
 | ISO           | 100 |
-| Location      | Kota Garut, Indonesia (Indonesia) |
-| Coordinates   | Latitude -7.227906, Longitude 107.908699 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
