@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/closeup-photo-of-purple-petaled-flower-zr6HawGeAUc"><img width="720" src="https://images.unsplash.com/photo-1523991600108-3b5858570d19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ4ODkyMDJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="closeup photo of purple petaled flower"></a>
+  <a href="https://unsplash.com/photos/a-group-of-trees-at-night-0zlFdYEa25k"><img width="720" src="https://images.unsplash.com/photo-1663375732859-21b6c2f25611?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ5NzU2Njh8&ixlib=rb-4.0.3&q=80&w=1080" alt="a group of trees at night"></a>
   
-  <em>closeup photo of purple petaled flower</em>
+  <em>a group of trees at night</em>
   
-  <em>Lavender</em>
+  <em>Sleeping with the stars at Bear Lake - I did my best to stay up as late as I could to capture the milky way. A good amount of moonlight makes capturing the milky way in all of its glory is challenging but the landscape and stars are still as beautiful as can be and awe-inspiring.</em>
 
-  Photo by [Bart van Geffen](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bartvangeffen)
+  Photo by [Andy Sanchez](https://andysanchezmarketing.com/portfolio) on [unsplash.com](https://unsplash.com/) • [portfolio](https://andysanchezmarketing.com/portfolio)
   
-  Taken at Unknown • 
+  Taken at Bear Lake Trail, Estes Park, CO, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=40.314255,-105.647532)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7200 |
-| Exposure Time | 1/100 |
-| Aperture      | 4 |
-| Focal Length  | 150.0 |
-| ISO           | 320 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Bear Lake Trail, Estes Park, CO, USA (United States) |
+| Coordinates   | Latitude 40.314255, Longitude -105.647532 |
 
 </details>
 
