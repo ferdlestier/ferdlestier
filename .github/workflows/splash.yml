@@ -26,4 +26,4 @@ jobs:
             unsplash_token: ${{ secrets.UNSPLASH_TOKEN }} # Required
             github_token: ${{ secrets.GITHUB_TOKEN }} # Required
             template: ./template.md # Required
-            query: "mountains, universe, space, galaxy, planets, nature" # Optional
+            query: "mountains, universe, space, guitars, saxophone, viola, jazz, programming, galaxy, planets, nature" # Optional
