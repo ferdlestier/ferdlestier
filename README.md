@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-pane-trees-_NM6bXPqaCE"><img width="720" src="https://images.unsplash.com/photo-1488489153583-89ce18dd4968?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU0OTQwMzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pane trees"></a>
+  <a href="https://unsplash.com/photos/body-of-water-dYO_5KOMEkA"><img width="720" src="https://images.unsplash.com/photo-1460501501851-d5946a18e552?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU1ODA0NjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water"></a>
   
-  <em>green pane trees</em>
+  <em>body of water</em>
   
-  <em>Drone Forest</em>
+  <em>close-up-sea-tawharanui</em>
 
-  Photo by [Geranimo](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gerandeklerk) / [Twitter](https://twitter.com/gerandeklerk)
+  Photo by [Tim Marshall](http://instagram.com/timmarshall.nz) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timmarshall.nz) / [portfolio](http://instagram.com/timmarshall.nz)
   
-  Taken at Gävle, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.6748796,17.1412726)
+  Taken at Tawharanui Peninsula, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-36.3809207,174.7597489)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC300X |
-| Exposure Time | 1/120 |
-| Aperture      | 2.8 |
-| Focal Length  | 3.6 |
+| Camera Model  | Canon EOS M |
+| Exposure Time | 1/640 |
+| Aperture      | 4.0 |
+| Focal Length  | 22.0 |
 | ISO           | 100 |
-| Location      | Gävle, Sweden (Sweden) |
-| Coordinates   | Latitude 60.6748796, Longitude 17.1412726 |
+| Location      | Tawharanui Peninsula, New Zealand (New Zealand) |
+| Coordinates   | Latitude -36.3809207, Longitude 174.7597489 |
 
 </details>
 
