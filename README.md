@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/waves-crashing-rocks-during-daytime-Rnqa6jOpnHw"><img width="720" src="https://images.unsplash.com/photo-1546942113-a6c43b63104a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU2NjY5MTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="waves crashing rocks during daytime"></a>
+  <a href="https://unsplash.com/photos/man-standing-in-the-forest-eWBseWsTEpA"><img width="720" src="https://images.unsplash.com/uploads/1411589183965bdf6e141/5f468e98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU3NTMyNDV8&ixlib=rb-4.0.3&q=80&w=1080" alt="man standing in the forest"></a>
   
-  <em>waves crashing rocks during daytime</em>
+  <em>man standing in the forest</em>
   
-  <em>If you venture through the doorway, will you find your dreams or nightmares? There’s only one way to find out…</em>
+  <em>Hike in the woods</em>
 
-  Photo by [Joshua Sortino](http://sortino.co) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joshuasortino) / [portfolio](http://sortino.co) / [Twitter](https://twitter.com/sortino)
+  Photo by [Dustin Scarpitti](http://dustyblanco.vsco.co) on [unsplash.com](https://unsplash.com/) • [portfolio](http://dustyblanco.vsco.co)
   
-  Taken at Doorway to Heaven, Big Sur, California • 
+  Taken at Unknown • 
   
   ---
   
@@ -22,12 +22,12 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Doorway to Heaven, Big Sur, California (California) |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 1/200 |
+| Aperture      | 7.1 |
+| Focal Length  | 28.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 </details>
