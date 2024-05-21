@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-during-daytime-eXHeq48Z-Q4"><img width="720" src="https://images.unsplash.com/photo-1476673160081-cf065607f449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTYxODUyNjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water during daytime"></a>
+  <a href="https://unsplash.com/photos/ocean-wave-UCDiLtfDRgU"><img width="720" src="https://images.unsplash.com/photo-1493441883526-0ed85220dc0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTYyNzE3MDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="ocean wave"></a>
   
-  <em>body of water during daytime</em>
+  <em>ocean wave</em>
   
-  <em>Sunrise above a sandy beach</em>
+  <em>La Jolla Waves</em>
 
-  Photo by [frank mckenna](http://blog.frankiefoto.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/frankiefoto) / [portfolio](http://blog.frankiefoto.com)
+  Photo by [Matt Howard](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/thematthoward)
   
-  Taken at San Diego, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.715738,-117.1610838)
+  Taken at Children's Pool Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.849005,-117.27712)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D4 |
-| Exposure Time | 1/2500 |
-| Aperture      | 4.0 |
-| Focal Length  | 14.0 |
-| ISO           | 500 |
-| Location      | San Diego, United States (United States) |
-| Coordinates   | Latitude 32.715738, Longitude -117.1610838 |
+| Camera Model  | FC300X |
+| Exposure Time | 1/50 |
+| Aperture      | 2.8 |
+| Focal Length  | 3.6 |
+| ISO           | 100 |
+| Location      | Children's Pool Beach, United States (United States) |
+| Coordinates   | Latitude 32.849005, Longitude -117.27712 |
 
 </details>
 
