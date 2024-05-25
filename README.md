@@ -5,15 +5,17 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/view-of-sunset-KHD_FA43aMw"><img width="720" src="https://images.unsplash.com/photo-1515497957908-4d6377430754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY1MzA4NTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="view of sunset"></a>
+  <a href="https://unsplash.com/photos/antelope-canyon-4xv3lqnanYc"><img width="720" src="https://images.unsplash.com/photo-1464800959563-472c0567132f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY2MTcyMTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="Antelope Canyon"></a>
   
-  <em>view of sunset</em>
+  <em>Antelope Canyon</em>
   
-  <em>Good morning England</em>
+  <em>If you like and use my photos, I would love a small donation (even just $2 would help) to my GoFundMe account to buy back my stolen gear (yes, I lost everything!) Thanks! 
 
-  Photo by [Zoltan Tasi](https://foundation.app/@zoltan_tasi) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/zoltan_tasi) / [portfolio](https://foundation.app/@zoltan_tasi)
+https://www.gofundme.com/buy-back-stolen-gear</em>
+
+  Photo by [Joe Gardner](http://josephgardnerphotography.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/josephgardnerphotography) / [portfolio](http://josephgardnerphotography.com)
   
-  Taken at New Romney, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.9660937244519,0.961445656249907)
+  Taken at Antelope Canyon, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.8619103,-111.3743302)
   
   ---
   
@@ -22,13 +24,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T1 |
-| Exposure Time | 1/180 |
-| Aperture      | 8 |
-| Focal Length  | 200 |
-| ISO           | 250 |
-| Location      | New Romney, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 50.9660937244519, Longitude 0.961445656249907 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/60 |
+| Aperture      | 4.0 |
+| Focal Length  | 17.0 |
+| ISO           | 500 |
+| Location      | Antelope Canyon, United States (United States) |
+| Coordinates   | Latitude 36.8619103, Longitude -111.3743302 |
 
 </details>
 
