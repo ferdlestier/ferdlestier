@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-trees-and-purple-lightning-jh2KTqHLMjE"><img width="720" src="https://images.unsplash.com/photo-1472145246862-b24cf25c4a36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3MDM2MTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette of trees and purple lightning"></a>
+  <a href="https://unsplash.com/photos/sea-of-clouds-fHXP17AxOEk"><img width="720" src="https://images.unsplash.com/photo-1475727946784-2890c8fdb9c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3OTAxMTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="sea of clouds"></a>
   
-  <em>silhouette of trees and purple lightning</em>
+  <em>sea of clouds</em>
   
-  <em>Lightning and trees</em>
+  <em></em>
 
-  Photo by [Jeremy Thomas](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jeremythomasphoto) / [Twitter](https://twitter.com/Jeremytphoto)
+  Photo by [Arto Marttinen](https://wandervisions.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/arto_marttinen) / [portfolio](https://wandervisions.com)
   
   Taken at Unknown • 
   
@@ -22,10 +22,10 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T4i |
-| Exposure Time | 10 |
-| Aperture      | 6.3 |
-| Focal Length  | 50.0 |
+| Camera Model  | ILCE-7SM2 |
+| Exposure Time | 1/80 |
+| Aperture      | 8.0 |
+| Focal Length  | 24.0 |
 | ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
