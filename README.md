@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/sea-of-clouds-fHXP17AxOEk"><img width="720" src="https://images.unsplash.com/photo-1475727946784-2890c8fdb9c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3OTAxMTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="sea of clouds"></a>
+  <a href="https://unsplash.com/photos/dried-soil-8EFA86nI6yg"><img width="720" src="https://images.unsplash.com/photo-1451418280345-67a6b4d10bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY4NzY0NTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="dried soil"></a>
   
-  <em>sea of clouds</em>
+  <em>dried soil</em>
   
-  <em></em>
+  <em>Cracks in the Earth</em>
 
-  Photo by [Arto Marttinen](https://wandervisions.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/arto_marttinen) / [portfolio](https://wandervisions.com)
+  Photo by [Brad Helmink](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Unknown • 
+  Taken at Anniversary Narrows • 
   
   ---
   
@@ -22,12 +22,12 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7SM2 |
-| Exposure Time | 1/80 |
-| Aperture      | 8.0 |
-| Focal Length  | 24.0 |
+| Camera Model  | Canon EOS REBEL T3i |
+| Exposure Time | 1/250 |
+| Aperture      | 10.0 |
+| Focal Length  | 55.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
+| Location      | Anniversary Narrows (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 </details>
