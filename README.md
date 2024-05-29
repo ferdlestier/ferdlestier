@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/dried-soil-8EFA86nI6yg"><img width="720" src="https://images.unsplash.com/photo-1451418280345-67a6b4d10bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY4NzY0NTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="dried soil"></a>
+  <a href="https://unsplash.com/photos/green-pine-trees-on-foggy-weather-7b39feeIMO0"><img width="720" src="https://images.unsplash.com/photo-1588204784390-d3b85c298e29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY5NjI4NjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pine trees on foggy weather"></a>
   
-  <em>dried soil</em>
+  <em>green pine trees on foggy weather</em>
   
-  <em>Cracks in the Earth</em>
+  <em>I took 5 whole minutes to take in this beautiful view when I first saw it.</em>
 
-  Photo by [Brad Helmink](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Ali Kazal](https://www.lureofadventure.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/LureOfAdventure) / [portfolio](https://www.lureofadventure.com/) / [Twitter](https://twitter.com/LureOfAdventure)
   
-  Taken at Anniversary Narrows • 
+  Taken at Jacques-Cartier National Park, Chemin du Parc-National, Stoneham-et-Tewkesbury, QC, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.174089,-71.367727)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T3i |
-| Exposure Time | 1/250 |
-| Aperture      | 10.0 |
-| Focal Length  | 55.0 |
-| ISO           | 100 |
-| Location      | Anniversary Narrows (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Pixel |
+| Exposure Time | 1/500 |
+| Aperture      | 2 |
+| Focal Length  | 4.7 |
+| ISO           | 51 |
+| Location      | Jacques-Cartier National Park, Chemin du Parc-National, Stoneham-et-Tewkesbury, QC, Canada (Canada) |
+| Coordinates   | Latitude 47.174089, Longitude -71.367727 |
 
 </details>
 
