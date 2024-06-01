@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/low-angle-photo-of-pine-trees-WJkc3xZjSXw"><img width="720" src="https://images.unsplash.com/photo-1473773508845-188df298d2d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcxMzU2ODB8&ixlib=rb-4.0.3&q=80&w=1080" alt="low angle photo of pine trees"></a>
+  <a href="https://unsplash.com/photos/body-of-water-under-cloudy-sky-during-daytime-4pvfpUkmR6I"><img width="720" src="https://images.unsplash.com/photo-1598449356475-b9f71db7d847?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcyMjIwMTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water under cloudy sky during daytime"></a>
   
-  <em>low angle photo of pine trees</em>
+  <em>body of water under cloudy sky during daytime</em>
   
-  <em>Remote forest path</em>
+  <em>Clouds and Water</em>
 
-  Photo by [Geranimo](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gerandeklerk) / [Twitter](https://twitter.com/gerandeklerk)
+  Photo by [Dave Hoefler](https://www.davehoefler.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/just_midwest_rock) / [portfolio](https://www.davehoefler.com/)
   
-  Taken at Gävle, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.6748796,17.1412726)
+  Taken at Door County, WI, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.83413,-87.377049)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC300X |
-| Exposure Time | 1/100 |
-| Aperture      | 2.8 |
-| Focal Length  | 3.6 |
-| ISO           | 103 |
-| Location      | Gävle, Sweden (Sweden) |
-| Coordinates   | Latitude 60.6748796, Longitude 17.1412726 |
+| Camera Model  | Canon EOS 5D Mark IV |
+| Exposure Time | 1/4 |
+| Aperture      | 8.0 |
+| Focal Length  | 135.0 |
+| ISO           | 100 |
+| Location      | Door County, WI, USA (United States) |
+| Coordinates   | Latitude 44.83413, Longitude -87.377049 |
 
 </details>
 
