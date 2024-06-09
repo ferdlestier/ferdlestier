@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-boat-near-dock-qkfxBc2NQ18"><img width="720" src="https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc4MjY4MDZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown boat near dock"></a>
+  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc5MTMyNDR8&ixlib=rb-4.0.3&q=80&w=1080" alt="seashore during golden hour"></a>
   
-  <em>brown boat near dock</em>
+  <em>seashore during golden hour</em>
   
-  <em></em>
+  <em>The last night of a two week stay on the North Shore of Oahu, Hawaii.</em>
 
-  Photo by [Johannes Plenio](http://www.coolfreepix.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
+  Photo by [Sean Oulashin](http://www.seanoulashin.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
   
-  Taken at Unknown • 
+  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 1/200 |
-| Aperture      | 8.0 |
-| Focal Length  | 105.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS REBEL T3i |
+| Exposure Time | 1/250 |
+| Aperture      | 4.5 |
+| Focal Length  | 10.0 |
+| ISO           | 200 |
+| Location      | North Shore, Waialua, United States (United States) |
+| Coordinates   | Latitude 21.5616575, Longitude -158.0715983 |
 
 </details>
 
