@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-underwater-1braZySlEKA"><img width="720" src="https://images.unsplash.com/photo-1464925257126-6450e871c667?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgxNzI0Nzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of underwater"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-footbridge-surrounded-by-pink-petaled-flowers-with-creek-underneath-during-daytime-pYyOZ8q7AII"><img width="720" src="https://images.unsplash.com/photo-1432958576632-8a39f6b97dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgyNTg4ODJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"></a>
   
-  <em>photo of underwater</em>
+  <em>brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime</em>
   
-  <em></em>
+  <em>Mystical garden</em>
 
-  Photo by [Jeremy Bishop](https://www.jeremybishopphotography.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
+  Photo by [Cosmic Timetraveler](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cosmictimetraveler)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | HERO4 Silver |
-| Exposure Time | 1/480 |
-| Aperture      | 2.8 |
-| Focal Length  | 3.0 |
-| ISO           | 100 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
