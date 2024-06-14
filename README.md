@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-footbridge-surrounded-by-pink-petaled-flowers-with-creek-underneath-during-daytime-pYyOZ8q7AII"><img width="720" src="https://images.unsplash.com/photo-1432958576632-8a39f6b97dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgyNTg4ODJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"></a>
+  <a href="https://unsplash.com/photos/white-petaled-flower-field-below-cloudy-sky-r1XwWjI4PyE"><img width="720" src="https://images.unsplash.com/10/caroline_sada_landscape.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgzNDUyOTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="white petaled flower field below cloudy sky"></a>
   
-  <em>brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime</em>
+  <em>white petaled flower field below cloudy sky</em>
   
-  <em>Mystical garden</em>
+  <em>Green and white meadow</em>
 
-  Photo by [Cosmic Timetraveler](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cosmictimetraveler)
+  Photo by [Caroline Sada](https://carolinesada.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/carolinesada) / [portfolio](https://carolinesada.com)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/500 |
+| Aperture      | 8.0 |
+| Focal Length  | 26.0 |
+| ISO           | 800 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
