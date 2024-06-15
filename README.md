@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/white-petaled-flower-field-below-cloudy-sky-r1XwWjI4PyE"><img width="720" src="https://images.unsplash.com/10/caroline_sada_landscape.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgzNDUyOTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="white petaled flower field below cloudy sky"></a>
+  <a href="https://unsplash.com/photos/sepia-photography-of-bare-trees-zvf7cZ0PC20"><img width="720" src="https://images.unsplash.com/photo-1442473483905-95eb436675f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg0MzE2MTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="sepia photography of bare trees"></a>
   
-  <em>white petaled flower field below cloudy sky</em>
+  <em>sepia photography of bare trees</em>
   
-  <em>Green and white meadow</em>
+  <em></em>
 
-  Photo by [Caroline Sada](https://carolinesada.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/carolinesada) / [portfolio](https://carolinesada.com)
+  Photo by [Dikaseva](http://dikaseva.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dikaseva) / [portfolio](http://dikaseva.com/)
   
-  Taken at Unknown • 
+  Taken at Kota Garut, Indonesia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-7.227906,107.908699)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/500 |
-| Aperture      | 8.0 |
-| Focal Length  | 26.0 |
-| ISO           | 800 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 650D |
+| Exposure Time | 1/30 |
+| Aperture      | 22.0 |
+| Focal Length  | 11.0 |
+| ISO           | 100 |
+| Location      | Kota Garut, Indonesia (Indonesia) |
+| Coordinates   | Latitude -7.227906, Longitude 107.908699 |
 
 </details>
 
