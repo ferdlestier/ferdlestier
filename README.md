@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/sepia-photography-of-bare-trees-zvf7cZ0PC20"><img width="720" src="https://images.unsplash.com/photo-1442473483905-95eb436675f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg2OTA4NzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="sepia photography of bare trees"></a>
+  <a href="https://unsplash.com/photos/forest-with-brown-trees-_Mu6-0cwyEU"><img width="720" src="https://images.unsplash.com/photo-1461397821064-32d6b3c91b9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg3NzcyODV8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest with brown trees"></a>
   
-  <em>sepia photography of bare trees</em>
+  <em>forest with brown trees</em>
   
-  <em></em>
+  <em>Trees in Sequoia National Park</em>
 
-  Photo by [Dikaseva](http://dikaseva.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dikaseva) / [portfolio](http://dikaseva.com/)
+  Photo by [Susan Q Yin](https://www.syinq.fyi/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/syinq) / [portfolio](https://www.syinq.fyi/) / [Twitter](https://twitter.com/franklymiaoxiao)
   
-  Taken at Kota Garut, Indonesia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-7.227906,107.908699)
+  Taken at Sequoia National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.4863668,-118.5657516)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 650D |
-| Exposure Time | 1/30 |
-| Aperture      | 22.0 |
-| Focal Length  | 11.0 |
-| ISO           | 100 |
-| Location      | Kota Garut, Indonesia (Indonesia) |
-| Coordinates   | Latitude -7.227906, Longitude 107.908699 |
+| Camera Model  | DMC-GX7 |
+| Exposure Time | 1/1600 |
+| Aperture      | 4.1 |
+| Focal Length  | 20.0 |
+| ISO           | 200 |
+| Location      | Sequoia National Park, United States (United States) |
+| Coordinates   | Latitude 36.4863668, Longitude -118.5657516 |
 
 </details>
 
