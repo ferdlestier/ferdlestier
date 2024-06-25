@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/shallow-focus-photography-of-white-flowers-urUdKCxsTUI"><img width="720" src="https://images.unsplash.com/photo-1489537235181-fc05daed5805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkyMDkyODZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="shallow focus photography of white flowers"></a>
+  <a href="https://unsplash.com/photos/white-bird-flying-under-body-of-water-vb-hPUzfpBo"><img width="720" src="https://images.unsplash.com/photo-1518563077661-23ad56581d77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkyOTU2NzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="white bird flying under body of water"></a>
   
-  <em>shallow focus photography of white flowers</em>
+  <em>white bird flying under body of water</em>
   
-  <em>Spring flower blossoms on branch</em>
+  <em>Seagull habitat</em>
 
-  Photo by [Anthony DELANOIX](http://instagram.com/amour.etc) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/amour.etc) / [portfolio](http://instagram.com/amour.etc) / [Twitter](https://twitter.com/anthonydelanoix)
+  Photo by [Thanos Pal](https://bessawissa.myportfolio.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/thanospal) / [portfolio](https://bessawissa.myportfolio.com/) / [Twitter](https://twitter.com/ThanosPal)
   
-  Taken at Paris, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.856614,2.35222190000002)
+  Taken at Ancona, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=40.27979167,21.47679722)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark IV |
-| Exposure Time | 1/2500 |
-| Aperture      | 1.4 |
-| Focal Length  | 50.0 |
-| ISO           | 100 |
-| Location      | Paris, France (France) |
-| Coordinates   | Latitude 48.856614, Longitude 2.35222190000002 |
+| Camera Model  | X-T10 |
+| Exposure Time | 1/4000 |
+| Aperture      | 2.0 |
+| Focal Length  | 35.0 |
+| ISO           | 320 |
+| Location      | Ancona, Italy (Italy) |
+| Coordinates   | Latitude 40.27979167, Longitude 21.47679722 |
 
 </details>
 
