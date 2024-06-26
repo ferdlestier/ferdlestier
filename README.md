@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/white-bird-flying-under-body-of-water-vb-hPUzfpBo"><img width="720" src="https://images.unsplash.com/photo-1518563077661-23ad56581d77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkyOTU2NzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="white bird flying under body of water"></a>
+  <a href="https://unsplash.com/photos/brown-sand-under-blue-sky-during-night-time-OtXJhYjbKeg"><img width="720" src="https://images.unsplash.com/photo-1612892483236-52d32a0e0ac1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkzODIwODJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown sand under blue sky during night time"></a>
   
-  <em>white bird flying under body of water</em>
+  <em>brown sand under blue sky during night time</em>
   
-  <em>Seagull habitat</em>
+  <em>I'm a solo traveller & photographer If you appreciate my work and my color you can follow me on Instagram @Daniele71043, Thank you!</em>
 
-  Photo by [Thanos Pal](https://bessawissa.myportfolio.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/thanospal) / [portfolio](https://bessawissa.myportfolio.com/) / [Twitter](https://twitter.com/ThanosPal)
+  Photo by [Daniele Colucci](https://www.instagram.com/daniele71043/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Daniele71043) / [portfolio](https://www.instagram.com/daniele71043/) / [Twitter](https://twitter.com/Daniele71043)
   
-  Taken at Ancona, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=40.27979167,21.47679722)
+  Taken at Wadi Rum Village, Giordania • [Google Maps](https://www.google.com/maps/search/?api=1&query=29.574299,35.421037)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/4000 |
-| Aperture      | 2.0 |
+| Camera Model  | A7II |
+| Exposure Time | 1/320 |
+| Aperture      | 3.5 |
 | Focal Length  | 35.0 |
-| ISO           | 320 |
-| Location      | Ancona, Italy (Italy) |
-| Coordinates   | Latitude 40.27979167, Longitude 21.47679722 |
+| ISO           | 400 |
+| Location      | Wadi Rum Village, Giordania (Giordania) |
+| Coordinates   | Latitude 29.574299, Longitude 35.421037 |
 
 </details>
 
