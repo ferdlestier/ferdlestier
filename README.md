@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-antelope-cave-k-wRtwkF27k"><img width="720" src="https://images.unsplash.com/photo-1517416451146-496a3e48ab6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk5MDA1NDJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of antelope cave"></a>
+  <a href="https://unsplash.com/photos/macro-photography-of-red-rose-3wbxAMUj7sg"><img width="720" src="https://images.unsplash.com/photo-1462733441571-9312d0b53818?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk5ODY5MzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="macro photography of red rose"></a>
   
-  <em>photo of antelope cave</em>
+  <em>macro photography of red rose</em>
   
-  <em>Endless</em>
+  <em>Dew on a vibrant red flower</em>
 
-  Photo by [George Fitzmaurice](http://fitzysphotos.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Fitzmaug) / [portfolio](http://fitzysphotos.com) / [Twitter](https://twitter.com/Fitzmaug)
+  Photo by [Roksolana Zasiadko](null) on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/Bayun_rocks)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | E-M1MarkII |
-| Exposure Time | 2 |
-| Aperture      | 4.0 |
-| Focal Length  | 13.0 |
-| ISO           | 200 |
+| Camera Model  | Canon EOS 1100D |
+| Exposure Time | 1/160 |
+| Aperture      | 1.4 |
+| Focal Length  | 50.0 |
+| ISO           | 400 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
