@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photography-of-tall-trees-at-daytime-MMJx78V7xS8"><img width="720" src="https://images.unsplash.com/photo-1425913397330-cf8af2ff40a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjAwNzMyODJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="photography of tall trees at daytime"></a>
+  <a href="https://unsplash.com/photos/selective-focus-photo-of-frozen-round-red-fruits-AgWVcQz1bOA"><img width="720" src="https://images.unsplash.com/photo-1484313544071-4d67c88b99be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjAxNTk3MTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photo of frozen round red fruits"></a>
   
-  <em>photography of tall trees at daytime</em>
+  <em>selective focus photo of frozen round red fruits</em>
   
-  <em>Illuminated woods</em>
+  <em></em>
 
-  Photo by [Steven Kamenar](http://www.stevenkamenar.com) on [unsplash.com](https://unsplash.com/) • [portfolio](http://www.stevenkamenar.com)
+  Photo by [Galina N](null) on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 5c |
-| Exposure Time | 1/120 |
-| Aperture      | 2.4 |
-| Focal Length  | 4.1 |
-| ISO           | 50 |
+| Camera Model  | ILCE-5000 |
+| Exposure Time | 1/40 |
+| Aperture      | 3.5 |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
