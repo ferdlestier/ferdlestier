@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/selective-focus-photo-of-frozen-round-red-fruits-AgWVcQz1bOA"><img width="720" src="https://images.unsplash.com/photo-1484313544071-4d67c88b99be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjAxNTk3MTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photo of frozen round red fruits"></a>
+  <a href="https://unsplash.com/photos/photography-of-banana-leaves-TMxUnMAAwFA"><img width="720" src="https://images.unsplash.com/photo-1484506097116-1bcba4fa7568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjAyNDYwMTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="photography of banana leaves"></a>
   
-  <em>selective focus photo of frozen round red fruits</em>
+  <em>photography of banana leaves</em>
   
-  <em></em>
+  <em>Palm Leave</em>
 
-  Photo by [Galina N](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Jakob Owens](https://amap.to/jakobowens/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jakobowens) / [portfolio](https://amap.to/jakobowens/) / [Twitter](https://twitter.com/jakobOwenss)
   
   Taken at Unknown • 
   
@@ -22,10 +22,10 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-5000 |
-| Exposure Time | 1/40 |
+| Camera Model  | Canon EOS-1D X Mark II |
+| Exposure Time | 1/640 |
 | Aperture      | 3.5 |
-| Focal Length  | 50.0 |
+| Focal Length  | 65.0 |
 | ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
