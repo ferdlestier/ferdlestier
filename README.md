@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leaves-F6Da4r2x5to"><img width="720" src="https://images.unsplash.com/photo-1500829243541-74b677fecc30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjAzMzI0NzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leaves"></a>
+  <a href="https://unsplash.com/photos/gray-and-brown-rock-formation-and-mountain-near-body-of-water-zfLVcDeDKes"><img width="720" src="https://images.unsplash.com/photo-1544738502-849ab3c63e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA0MTg5MDF8&ixlib=rb-4.0.3&q=80&w=1080" alt="gray and brown rock formation and mountain near body of water"></a>
   
-  <em>green leaves</em>
+  <em>gray and brown rock formation and mountain near body of water</em>
   
-  <em>native plants @ South Ural travel</em>
+  <em>This arch formed as a result of two caves weathering away and meeting together. In fact, the shape of the Green Bridge has changed as recently as October 2017, when Storm Ophelia knocked a good chunk off the “knee” of the arch.</em>
 
-  Photo by [Daniil Silantev](https://www.instagram.com/silantevdan) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/silantevdan) / [portfolio](https://www.instagram.com/silantevdan) / [Twitter](https://twitter.com/betagamma)
+  Photo by [Ian Cylkowski](https://www.iancylkowski.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/iancylkowskiphotography) / [portfolio](https://www.iancylkowski.com)
   
-  Taken at Chelyabinsk, Russia • [Google Maps](https://www.google.com/maps/search/?api=1&query=55.351291163542,61.4007942108399)
+  Taken at Green Bridge of Wales, Castlemartin, Wales • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.610488,-4.999835)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/125 |
-| Aperture      | 6.3 |
-| Focal Length  | 24.0 |
-| ISO           | 125 |
-| Location      | Chelyabinsk, Russia (Russia) |
-| Coordinates   | Latitude 55.351291163542, Longitude 61.4007942108399 |
+| Camera Model  | dp0 Quattro |
+| Exposure Time | null |
+| Aperture      | 11 |
+| Focal Length  | 14 |
+| ISO           | 100 |
+| Location      | Green Bridge of Wales, Castlemartin, Wales (Wales) |
+| Coordinates   | Latitude 51.610488, Longitude -4.999835 |
 
 </details>
 
