@@ -5,15 +5,17 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-desert-cNagAGEok9k"><img width="720" src="https://images.unsplash.com/photo-1527519135413-1e146b552e10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA4NTA4Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of desert"></a>
+  <a href="https://unsplash.com/photos/antelope-canyon-4xv3lqnanYc"><img width="720" src="https://images.unsplash.com/photo-1464800959563-472c0567132f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA5MzczMTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="Antelope Canyon"></a>
   
-  <em>landscape photography of desert</em>
+  <em>Antelope Canyon</em>
   
-  <em>Desert Shapes #2</em>
+  <em>If you like and use my photos, I would love a small donation (even just $2 would help) to my GoFundMe account to buy back my stolen gear (yes, I lost everything!) Thanks! 
 
-  Photo by [Willian Justen de Vasconcellos](https://willianjusten.com.br/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/will_justen) / [portfolio](https://willianjusten.com.br/) / [Twitter](https://twitter.com/Willian_justen)
+https://www.gofundme.com/buy-back-stolen-gear</em>
+
+  Photo by [Joe Gardner](http://josephgardnerphotography.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/josephgardnerphotography) / [portfolio](http://josephgardnerphotography.com)
   
-  Taken at Huacachina, Peru • [Google Maps](https://www.google.com/maps/search/?api=1&query=-14.0874587,-75.762586)
+  Taken at Antelope Canyon, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.8619103,-111.3743302)
   
   ---
   
@@ -22,13 +24,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6500 |
-| Exposure Time | 1/1000 |
-| Aperture      | 8.0 |
-| Focal Length  | 16.0 |
-| ISO           | 800 |
-| Location      | Huacachina, Peru (Peru) |
-| Coordinates   | Latitude -14.0874587, Longitude -75.762586 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/60 |
+| Aperture      | 4.0 |
+| Focal Length  | 17.0 |
+| ISO           | 500 |
+| Location      | Antelope Canyon, United States (United States) |
+| Coordinates   | Latitude 36.8619103, Longitude -111.3743302 |
 
 </details>
 
