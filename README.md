@@ -5,17 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/antelope-canyon-4xv3lqnanYc"><img width="720" src="https://images.unsplash.com/photo-1464800959563-472c0567132f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA5MzczMTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="Antelope Canyon"></a>
+  <a href="https://unsplash.com/photos/low-angle-photo-of-cherry-blossoms-tree-sKJ7zSylUao"><img width="720" src="https://images.unsplash.com/photo-1462275646964-a0e3386b89fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjEwMjM2OTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="low angle photo of cherry blossoms tree"></a>
   
-  <em>Antelope Canyon</em>
+  <em>low angle photo of cherry blossoms tree</em>
   
-  <em>If you like and use my photos, I would love a small donation (even just $2 would help) to my GoFundMe account to buy back my stolen gear (yes, I lost everything!) Thanks! 
+  <em>Kungsträdgården cherry blossom Love the work? buy me a coffee ☕ PayPal - a.smit@mac.com</em>
 
-https://www.gofundme.com/buy-back-stolen-gear</em>
-
-  Photo by [Joe Gardner](http://josephgardnerphotography.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/josephgardnerphotography) / [portfolio](http://josephgardnerphotography.com)
+  Photo by [Arno Smit](https://www.instagram.com/_entreprenerd) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/_entreprenerd) / [portfolio](https://www.instagram.com/_entreprenerd) / [Twitter](https://twitter.com/_entreprenerd)
   
-  Taken at Antelope Canyon, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.8619103,-111.3743302)
+  Taken at Kungsträdgården, Stockholm, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3314805,18.0715003)
   
   ---
   
@@ -24,13 +22,13 @@ https://www.gofundme.com/buy-back-stolen-gear</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/60 |
-| Aperture      | 4.0 |
-| Focal Length  | 17.0 |
-| ISO           | 500 |
-| Location      | Antelope Canyon, United States (United States) |
-| Coordinates   | Latitude 36.8619103, Longitude -111.3743302 |
+| Camera Model  | X-T10 |
+| Exposure Time | 1/2000 |
+| Aperture      | 2.8 |
+| Focal Length  | 35.0 |
+| ISO           | 200 |
+| Location      | Kungsträdgården, Stockholm, Sweden (Sweden) |
+| Coordinates   | Latitude 59.3314805, Longitude 18.0715003 |
 
 </details>
 
