@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leaves-at-daytime-Ui3bOgnjtl0"><img width="720" src="https://images.unsplash.com/photo-1461230185679-aad82a673415?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjExOTY0OTh8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leaves at daytime"></a>
+  <a href="https://unsplash.com/photos/trees-in-forest-7zg5bnhm2X0"><img width="720" src="https://images.unsplash.com/photo-1541959833400-049d37f98ccd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjEyODI4NzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="trees in forest"></a>
   
-  <em>green leaves at daytime</em>
+  <em>trees in forest</em>
   
   <em></em>
 
-  Photo by [Rémi Walle](http://atelierphotoderemiwalle.weebly.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/confluxr) / [portfolio](http://atelierphotoderemiwalle.weebly.com)
+  Photo by [Karl Anderson](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karlkiwi90)
   
-  Taken at Amsterdam, Netherlands • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.3702157,4.89516789999993)
+  Taken at Te Rata Bay, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-38.2429239,176.437709)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5100 |
-| Exposure Time | 1/500 |
-| Aperture      | 2.0 |
-| Focal Length  | 35.0 |
-| ISO           | 100 |
-| Location      | Amsterdam, Netherlands (Netherlands) |
-| Coordinates   | Latitude 52.3702157, Longitude 4.89516789999993 |
+| Camera Model  | NIKON D3300 |
+| Exposure Time | 1/60 |
+| Aperture      | 4.0 |
+| Focal Length  | 18.0 |
+| ISO           | 400 |
+| Location      | Te Rata Bay, New Zealand (New Zealand) |
+| Coordinates   | Latitude -38.2429239, Longitude 176.437709 |
 
 </details>
 
