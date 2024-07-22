@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-river-between-green-mountains-ycG0A6DlvOk"><img width="720" src="https://images.unsplash.com/photo-1506355683710-bd071c0a5828?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE1NDIwMTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of river between green mountains"></a>
+  <a href="https://unsplash.com/photos/forest-with-brown-trees-_Mu6-0cwyEU"><img width="720" src="https://images.unsplash.com/photo-1461397821064-32d6b3c91b9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE2Mjg1MDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest with brown trees"></a>
   
-  <em>landscape photography of river between green mountains</em>
+  <em>forest with brown trees</em>
   
-  <em>Green Canyon</em>
+  <em>Trees in Sequoia National Park</em>
 
-  Photo by [Martin Sanchez](http://paypal.me/martinezequiel) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/martysanchezz) / [portfolio](http://paypal.me/martinezequiel)
+  Photo by [Susan Q Yin](https://www.syinq.fyi/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/syinq) / [portfolio](https://www.syinq.fyi/) / [Twitter](https://twitter.com/franklymiaoxiao)
   
-  Taken at Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=64.963051,-19.020835)
+  Taken at Sequoia National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.4863668,-118.5657516)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6300 |
-| Exposure Time | 1/60 |
-| Aperture      | 5.0 |
-| Focal Length  | 35.0 |
-| ISO           | 160 |
-| Location      | Iceland (Iceland) |
-| Coordinates   | Latitude 64.963051, Longitude -19.020835 |
+| Camera Model  | DMC-GX7 |
+| Exposure Time | 1/1600 |
+| Aperture      | 4.1 |
+| Focal Length  | 20.0 |
+| ISO           | 200 |
+| Location      | Sequoia National Park, United States (United States) |
+| Coordinates   | Latitude 36.4863668, Longitude -118.5657516 |
 
 </details>
 
