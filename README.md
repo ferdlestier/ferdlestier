@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-river-between-green-mountains-ycG0A6DlvOk"><img width="720" src="https://images.unsplash.com/photo-1506355683710-bd071c0a5828?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE3MTQ4NzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of river between green mountains"></a>
+  <a href="https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4"><img width="720" src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE4MDEyOTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="closeup photography of plant on ground"></a>
   
-  <em>landscape photography of river between green mountains</em>
+  <em>closeup photography of plant on ground</em>
   
-  <em>Green Canyon</em>
+  <em></em>
 
-  Photo by [Martin Sanchez](http://paypal.me/martinezequiel) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/martysanchezz) / [portfolio](http://paypal.me/martinezequiel)
+  Photo by [Jeremy Bishop](https://www.jeremybishopphotography.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
   
-  Taken at Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=64.963051,-19.020835)
+  Taken at Sunshine Coast, Australia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-26.6559759,153.0918365)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6300 |
-| Exposure Time | 1/60 |
-| Aperture      | 5.0 |
-| Focal Length  | 35.0 |
-| ISO           | 160 |
-| Location      | Iceland (Iceland) |
-| Coordinates   | Latitude 64.963051, Longitude -19.020835 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 1/40 |
+| Aperture      | 1.8 |
+| Focal Length  | 50.0 |
+| ISO           | 800 |
+| Location      | Sunshine Coast, Australia (Australia) |
+| Coordinates   | Latitude -26.6559759, Longitude 153.0918365 |
 
 </details>
 
