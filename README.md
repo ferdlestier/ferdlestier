@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/white-dandelion-flowers-pQDBGxtiDEo"><img width="720" src="https://images.unsplash.com/reserve/d1Ntvq9mSVmV0RcnWN1Y_23rd%20Studios%20Photography%20Boulder%20Colorado.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI1Nzg5NDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="white dandelion flowers"></a>
+  <a href="https://unsplash.com/photos/a-person-riding-a-camel-in-the-desert-3picpvVQiVM"><img width="720" src="https://images.unsplash.com/photo-1516074269859-f54ee0d65fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI2NjUyNzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="a person riding a camel in the desert"></a>
   
-  <em>white dandelion flowers</em>
+  <em>a person riding a camel in the desert</em>
   
-  <em>Dandelion umbrellas in macro</em>
+  <em>Driving from Dubai to Oman experiencing the desert</em>
 
-  Photo by [Paul Talbot](http://www.23rdstudios.com) on [unsplash.com](https://unsplash.com/) • [portfolio](http://www.23rdstudios.com)
+  Photo by [Kalle Kortelainen](https://www.custodiancontent.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/custodiancontent) / [portfolio](https://www.custodiancontent.com) / [Twitter](https://twitter.com/custodian_co)
   
-  Taken at Unknown • 
+  Taken at Dubai, United Arab Emirates • [Google Maps](https://www.google.com/maps/search/?api=1&query=25.2048493,55.2707828)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 1/2000 |
-| Aperture      | 2.8 |
-| Focal Length  | 100.0 |
-| ISO           | 640 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon PowerShot G11 |
+| Exposure Time | 1/1000 |
+| Aperture      | 4.5 |
+| Focal Length  | 30.5 |
+| ISO           | 80 |
+| Location      | Dubai, United Arab Emirates (United Arab Emirates) |
+| Coordinates   | Latitude 25.2048493, Longitude 55.2707828 |
 
 </details>
 
