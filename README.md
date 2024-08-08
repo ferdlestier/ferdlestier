@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photo-of-forest-trees-dU5KI3Iap2g"><img width="720" src="https://images.unsplash.com/photo-1474983797926-3939622ca489?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMwMTA5MDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of forest trees"></a>
+  <a href="https://unsplash.com/photos/low-light-photo-of-forest-2ShvY8Lf6l0"><img width="720" src="https://images.unsplash.com/photo-1426170042593-200f250dfdaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMwOTcyOTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="low-light photo of forest"></a>
   
-  <em>silhouette photo of forest trees</em>
+  <em>low-light photo of forest</em>
   
-  <em>Dark branches at dusk</em>
+  <em>Sun peeking through the trees</em>
 
-  Photo by [Vladimir Agafonkin](http://agafonkin.com/en) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mournerv) / [portfolio](http://agafonkin.com/en) / [Twitter](https://twitter.com/mourner)
+  Photo by [Lukasz Szmigiel](https://photo.szmigiel.design/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
   
-  Taken at Hora Chatyrdah • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.7363889,34.2822222)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 450D |
-| Exposure Time | 30 |
-| Aperture      | 7.1 |
-| Focal Length  | 18.0 |
-| ISO           | 400 |
-| Location      | Hora Chatyrdah (null) |
-| Coordinates   | Latitude 44.7363889, Longitude 34.2822222 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 1/800 |
+| Aperture      | 1.8 |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
