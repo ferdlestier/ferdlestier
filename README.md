@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/low-light-photo-of-forest-2ShvY8Lf6l0"><img width="720" src="https://images.unsplash.com/photo-1426170042593-200f250dfdaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMwOTcyOTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="low-light photo of forest"></a>
+  <a href="https://unsplash.com/photos/selective-focus-photography-of-green-succulent-plant-vHnVtLK8rCc"><img width="720" src="https://images.unsplash.com/photo-1528715471579-d1bcf0ba5e83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMxODM3MjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photography of green succulent plant"></a>
   
-  <em>low-light photo of forest</em>
+  <em>selective focus photography of green succulent plant</em>
   
-  <em>Sun peeking through the trees</em>
+  <em>Water lily</em>
 
-  Photo by [Lukasz Szmigiel](https://photo.szmigiel.design/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
+  Photo by [Zoltan Tasi](https://foundation.app/@zoltan_tasi) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/zoltan_tasi) / [portfolio](https://foundation.app/@zoltan_tasi)
   
-  Taken at Unknown • 
+  Taken at Penshurst Place & Gardens, Penshurst, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.1746265,0.183677699999976)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 7D |
-| Exposure Time | 1/800 |
-| Aperture      | 1.8 |
-| Focal Length  | 50.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | X-T1 |
+| Exposure Time | 1/2000 |
+| Aperture      | 0.95 |
+| Focal Length  | 35.0 |
+| ISO           | 200 |
+| Location      | Penshurst Place & Gardens, Penshurst, United Kingdom (United Kingdom) |
+| Coordinates   | Latitude 51.1746265, Longitude 0.183677699999976 |
 
 </details>
 
