@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/selective-focus-photography-of-green-succulent-plant-vHnVtLK8rCc"><img width="720" src="https://images.unsplash.com/photo-1528715471579-d1bcf0ba5e83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMxODM3MjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photography of green succulent plant"></a>
+  <a href="https://unsplash.com/photos/brown-sand-under-blue-sky-during-night-time-OtXJhYjbKeg"><img width="720" src="https://images.unsplash.com/photo-1612892483236-52d32a0e0ac1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMyNzAwMzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown sand under blue sky during night time"></a>
   
-  <em>selective focus photography of green succulent plant</em>
+  <em>brown sand under blue sky during night time</em>
   
-  <em>Water lily</em>
+  <em>I'm a solo traveller & photographer If you appreciate my work and my color you can follow me on Instagram @Daniele71043, Thank you!</em>
 
-  Photo by [Zoltan Tasi](https://foundation.app/@zoltan_tasi) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/zoltan_tasi) / [portfolio](https://foundation.app/@zoltan_tasi)
+  Photo by [Daniele Colucci](https://www.instagram.com/daniele71043/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Daniele71043) / [portfolio](https://www.instagram.com/daniele71043/) / [Twitter](https://twitter.com/Daniele71043)
   
-  Taken at Penshurst Place & Gardens, Penshurst, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.1746265,0.183677699999976)
+  Taken at Wadi Rum Village, Giordania • [Google Maps](https://www.google.com/maps/search/?api=1&query=29.574299,35.421037)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T1 |
-| Exposure Time | 1/2000 |
-| Aperture      | 0.95 |
+| Camera Model  | A7II |
+| Exposure Time | 1/320 |
+| Aperture      | 3.5 |
 | Focal Length  | 35.0 |
-| ISO           | 200 |
-| Location      | Penshurst Place & Gardens, Penshurst, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 51.1746265, Longitude 0.183677699999976 |
+| ISO           | 400 |
+| Location      | Wadi Rum Village, Giordania (Giordania) |
+| Coordinates   | Latitude 29.574299, Longitude 35.421037 |
 
 </details>
 
