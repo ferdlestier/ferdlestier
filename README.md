@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-person-riding-a-camel-in-the-desert-3picpvVQiVM"><img width="720" src="https://images.unsplash.com/photo-1516074269859-f54ee0d65fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjM1MjkzMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="a person riding a camel in the desert"></a>
+  <a href="https://unsplash.com/photos/green-leafed-tree-4yK5lLfRDWE"><img width="720" src="https://images.unsplash.com/photo-1545840893-d59d0bf89825?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjM2MTU2OTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="green-leafed tree"></a>
   
-  <em>a person riding a camel in the desert</em>
+  <em>green-leafed tree</em>
   
-  <em>Driving from Dubai to Oman experiencing the desert</em>
+  <em>Tuluk River & Rocks</em>
 
-  Photo by [Kalle Kortelainen](https://www.custodiancontent.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/custodiancontent) / [portfolio](https://www.custodiancontent.com) / [Twitter](https://twitter.com/custodian_co)
+  Photo by [Daniil Silantev](https://www.instagram.com/silantevdan) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/silantevdan) / [portfolio](https://www.instagram.com/silantevdan) / [Twitter](https://twitter.com/betagamma)
   
-  Taken at Dubai, United Arab Emirates • [Google Maps](https://www.google.com/maps/search/?api=1&query=25.2048493,55.2707828)
+  Taken at Tuluk River • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon PowerShot G11 |
-| Exposure Time | 1/1000 |
-| Aperture      | 4.5 |
-| Focal Length  | 30.5 |
-| ISO           | 80 |
-| Location      | Dubai, United Arab Emirates (United Arab Emirates) |
-| Coordinates   | Latitude 25.2048493, Longitude 55.2707828 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/60 |
+| Aperture      | 7.1 |
+| Focal Length  | 24.0 |
+| ISO           | 100 |
+| Location      | Tuluk River (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
