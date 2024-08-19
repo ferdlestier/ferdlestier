@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leaf-with-water-drops-dXYE1d08BiY"><img width="720" src="https://images.unsplash.com/photo-1495584816685-4bdbf1b5057e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjM5NjEyNDJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leaf with water drops"></a>
+  <a href="https://unsplash.com/photos/waves-crashing-rocks-during-daytime-Rnqa6jOpnHw"><img width="720" src="https://images.unsplash.com/photo-1546942113-a6c43b63104a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQwNDc3MTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="waves crashing rocks during daytime"></a>
   
-  <em>green leaf with water drops</em>
+  <em>waves crashing rocks during daytime</em>
   
-  <em>Pooling Water</em>
+  <em>If you venture through the doorway, will you find your dreams or nightmares? There’s only one way to find out…</em>
 
-  Photo by [Aaron Burden](http://aaronburden.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aaronburden) / [portfolio](http://aaronburden.com) / [Twitter](https://twitter.com/theaaronburden)
+  Photo by [Joshua Sortino](http://sortino.co) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joshuasortino) / [portfolio](http://sortino.co) / [Twitter](https://twitter.com/sortino)
   
-  Taken at Unknown • 
+  Taken at Doorway to Heaven, Big Sur, California • 
   
   ---
   
@@ -22,12 +22,12 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | E-M10MarkII |
-| Exposure Time | 1/1250 |
-| Aperture      | 2.8 |
-| Focal Length  | 60.0 |
-| ISO           | 1000 |
-| Location      | Unknown (null) |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Doorway to Heaven, Big Sur, California (California) |
 | Coordinates   | Latitude null, Longitude null |
 
 </details>
