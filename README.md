@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-footbridge-surrounded-by-pink-petaled-flowers-with-creek-underneath-during-daytime-pYyOZ8q7AII"><img width="720" src="https://images.unsplash.com/photo-1432958576632-8a39f6b97dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ0Nzk2NTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"></a>
+  <a href="https://unsplash.com/photos/brown-and-green-leaf-tree-utqJcneoFjo"><img width="720" src="https://images.unsplash.com/photo-1446080501695-8e929f879f2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ1NjYwNjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown and green leaf tree"></a>
   
-  <em>brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime</em>
+  <em>brown and green leaf tree</em>
   
-  <em>Mystical garden</em>
+  <em></em>
 
-  Photo by [Cosmic Timetraveler](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cosmictimetraveler)
+  Photo by [Jakub Sejkora](http://www.instagram.com/jakubsejkora) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jakubsejkora) / [portfolio](http://www.instagram.com/jakubsejkora)
   
-  Taken at Unknown • 
+  Taken at Suché skály, Koberovy, Czech Republic • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.637074,15.211285)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | HERO4 Black |
+| Exposure Time | 1/12 |
+| Aperture      | 2.8 |
+| Focal Length  | 3.0 |
+| ISO           | 100 |
+| Location      | Suché skály, Koberovy, Czech Republic (Czech Republic) |
+| Coordinates   | Latitude 50.637074, Longitude 15.211285 |
 
 </details>
 
