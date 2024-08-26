@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-and-green-leaf-tree-utqJcneoFjo"><img width="720" src="https://images.unsplash.com/photo-1446080501695-8e929f879f2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ1NjYwNjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown and green leaf tree"></a>
+  <a href="https://unsplash.com/photos/two-people-standing-in-desert-field-during-daytime-UVyavSwslOg"><img width="720" src="https://images.unsplash.com/photo-1488572749058-7f52dd70e0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ2NTI1MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="two people standing in desert field during daytime"></a>
   
-  <em>brown and green leaf tree</em>
+  <em>two people standing in desert field during daytime</em>
   
-  <em></em>
+  <em>I was in Namibia directing a professional stills and video crew for a commercial commission. Tracks can take months to be erased by the wind so we had to trek for miles around potential scenes so no to disturb the pristine sand dunes.</em>
 
-  Photo by [Jakub Sejkora](http://www.instagram.com/jakubsejkora) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jakubsejkora) / [portfolio](http://www.instagram.com/jakubsejkora)
+  Photo by [Keith Hardy](https://www.keith-hardy.co.uk) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/keith_hardy_2001) / [portfolio](https://www.keith-hardy.co.uk)
   
-  Taken at Suché skály, Koberovy, Czech Republic • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.637074,15.211285)
+  Taken at Namib Desert • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | HERO4 Black |
-| Exposure Time | 1/12 |
-| Aperture      | 2.8 |
-| Focal Length  | 3.0 |
-| ISO           | 100 |
-| Location      | Suché skály, Koberovy, Czech Republic (Czech Republic) |
-| Coordinates   | Latitude 50.637074, Longitude 15.211285 |
+| Camera Model  | NIKON D80 |
+| Exposure Time | 1/800 |
+| Aperture      | 7.1 |
+| Focal Length  | 80.0 |
+| ISO           | 320 |
+| Location      | Namib Desert (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
