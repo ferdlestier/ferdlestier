@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/focused-photo-of-a-snow-flake-5AiWn2U10cw"><img width="720" src="https://images.unsplash.com/photo-1457269449834-928af64c684d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ3Mzg5MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="focused photo of a snow flake"></a>
+  <a href="https://unsplash.com/photos/sand-dune-7Y0NshQLohk"><img width="720" src="https://images.unsplash.com/photo-1504548840739-580b10ae7715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ4MjUzMjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="sand dune"></a>
   
-  <em>focused photo of a snow flake</em>
+  <em>sand dune</em>
   
-  <em>Snowflake macro</em>
+  <em>White wavy texture</em>
 
-  Photo by [Aaron Burden](http://aaronburden.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aaronburden) / [portfolio](http://aaronburden.com) / [Twitter](https://twitter.com/theaaronburden)
+  Photo by [Sumner Mahaffey](null) on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 6s |
-| Exposure Time | 1/500 |
+| Camera Model  | Canon EOS 70D |
+| Exposure Time | 1/1600 |
 | Aperture      | 2.2 |
-| Focal Length  | 4.2 |
-| ISO           | 25 |
+| Focal Length  | 50.0 |
+| ISO           | 125 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
