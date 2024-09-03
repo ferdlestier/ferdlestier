@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/dried-soil-8EFA86nI6yg"><img width="720" src="https://images.unsplash.com/photo-1451418280345-67a6b4d10bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjUyNTczNDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="dried soil"></a>
+  <a href="https://unsplash.com/photos/aerial-view-photography-of-forest-A-fubu9QJxE"><img width="720" src="https://images.unsplash.com/photo-1508144322886-717c284ab392?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjUzNDM3MDV8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial view photography of forest"></a>
   
-  <em>dried soil</em>
+  <em>aerial view photography of forest</em>
   
-  <em>Cracks in the Earth</em>
+  <em></em>
 
-  Photo by [Brad Helmink](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Luca Bravo](https://instagram.com/lucabravo/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Anniversary Narrows • 
+  Taken at Sorapiss, Auronzo di Cadore, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5955065889738,12.2647689260255)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T3i |
-| Exposure Time | 1/250 |
-| Aperture      | 10.0 |
+| Camera Model  | X-T20 |
+| Exposure Time | 1/60 |
+| Aperture      | 9.0 |
 | Focal Length  | 55.0 |
-| ISO           | 100 |
-| Location      | Anniversary Narrows (null) |
-| Coordinates   | Latitude null, Longitude null |
+| ISO           | 500 |
+| Location      | Sorapiss, Auronzo di Cadore, Italy (Italy) |
+| Coordinates   | Latitude 46.5955065889738, Longitude 12.2647689260255 |
 
 </details>
 
