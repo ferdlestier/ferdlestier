@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-starfish-on-blue-sand-2M_sDJ_agvs"><img width="720" src="https://images.unsplash.com/photo-1490365728022-deae76380607?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU0MzAxMjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown starfish on blue sand"></a>
+  <a href="https://unsplash.com/photos/blue-and-brown-steel-bridge-eOpewngf68w"><img width="720" src="https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU1MTY1MTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="blue and brown steel bridge"></a>
   
-  <em>brown starfish on blue sand</em>
+  <em>blue and brown steel bridge</em>
   
-  <em>lone star</em>
+  <em>Whangarei Falls footbridge</em>
 
-  Photo by [Amy Humphries](http://www.amyjoyhumphries.squarespace.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/amyjoyhumphries) / [portfolio](http://www.amyjoyhumphries.squarespace.com)
+  Photo by [Tim Swaan](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timswaan) / [Twitter](https://twitter.com/TimSwaan)
   
-  Taken at Guantánamo Bay • [Google Maps](https://www.google.com/maps/search/?api=1&query=20.011737,-75.1216254)
+  Taken at Whangarei Falls, Whangarei, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-35.6843923,174.3357673)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon PowerShot D30 |
+| Camera Model  | Canon EOS 6D |
 | Exposure Time | 1/250 |
-| Aperture      | 8.0 |
-| Focal Length  | 5.0 |
-| ISO           | 200 |
-| Location      | Guantánamo Bay (null) |
-| Coordinates   | Latitude 20.011737, Longitude -75.1216254 |
+| Aperture      | 9.0 |
+| Focal Length  | 28.0 |
+| ISO           | 1250 |
+| Location      | Whangarei Falls, Whangarei, New Zealand (New Zealand) |
+| Coordinates   | Latitude -35.6843923, Longitude 174.3357673 |
 
 </details>
 
