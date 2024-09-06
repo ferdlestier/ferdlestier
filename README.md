@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/blue-and-brown-steel-bridge-eOpewngf68w"><img width="720" src="https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU1MTY1MTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="blue and brown steel bridge"></a>
+  <a href="https://unsplash.com/photos/sand-dune-7Y0NshQLohk"><img width="720" src="https://images.unsplash.com/photo-1504548840739-580b10ae7715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU2MDI5MTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="sand dune"></a>
   
-  <em>blue and brown steel bridge</em>
+  <em>sand dune</em>
   
-  <em>Whangarei Falls footbridge</em>
+  <em>White wavy texture</em>
 
-  Photo by [Tim Swaan](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timswaan) / [Twitter](https://twitter.com/TimSwaan)
+  Photo by [Sumner Mahaffey](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Whangarei Falls, Whangarei, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-35.6843923,174.3357673)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/250 |
-| Aperture      | 9.0 |
-| Focal Length  | 28.0 |
-| ISO           | 1250 |
-| Location      | Whangarei Falls, Whangarei, New Zealand (New Zealand) |
-| Coordinates   | Latitude -35.6843923, Longitude 174.3357673 |
+| Camera Model  | Canon EOS 70D |
+| Exposure Time | 1/1600 |
+| Aperture      | 2.2 |
+| Focal Length  | 50.0 |
+| ISO           | 125 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
