@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/blue-and-brown-steel-bridge-eOpewngf68w"><img width="720" src="https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU2ODkyNTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="blue and brown steel bridge"></a>
+  <a href="https://unsplash.com/photos/selective-focus-photograph-of-mushroom-M9F8VR0jEPM"><img width="720" src="https://images.unsplash.com/photo-1430933964450-0aefb85717c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU3NzU2NjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photograph of mushroom"></a>
   
-  <em>blue and brown steel bridge</em>
+  <em>selective focus photograph of mushroom</em>
   
-  <em>Whangarei Falls footbridge</em>
+  <em>We were walking throught the forest in autum, all around were mushrooms as as an explosion of life. I hope this shot reflect this concept.</em>
 
-  Photo by [Tim Swaan](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timswaan) / [Twitter](https://twitter.com/TimSwaan)
+  Photo by [Manuel Barroso Parejo](http://www.domestika.org/es/lute3d/portfolio) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/manubarpar) / [portfolio](http://www.domestika.org/es/lute3d/portfolio) / [Twitter](https://twitter.com/manubarpar)
   
-  Taken at Whangarei Falls, Whangarei, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-35.6843923,174.3357673)
+  Taken at Hervás, España • [Google Maps](https://www.google.com/maps/search/?api=1&query=40.272872,-5.861097)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/250 |
-| Aperture      | 9.0 |
-| Focal Length  | 28.0 |
-| ISO           | 1250 |
-| Location      | Whangarei Falls, Whangarei, New Zealand (New Zealand) |
-| Coordinates   | Latitude -35.6843923, Longitude 174.3357673 |
+| Camera Model  | Canon EOS 1000D |
+| Exposure Time | 1/200 |
+| Aperture      | 2.5 |
+| Focal Length  | 50.0 |
+| ISO           | 200 |
+| Location      | Hervás, España (España) |
+| Coordinates   | Latitude 40.272872, Longitude -5.861097 |
 
 </details>
 
