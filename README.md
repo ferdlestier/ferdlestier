@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/low-angle-photo-of-cherry-blossoms-tree-sKJ7zSylUao"><img width="720" src="https://images.unsplash.com/photo-1462275646964-a0e3386b89fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY0NjY5NzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="low angle photo of cherry blossoms tree"></a>
+  <a href="https://unsplash.com/photos/ocean-wave-under-cloudy-sky-yEOCA6oiVqg"><img width="720" src="https://images.unsplash.com/photo-1452723312111-3a7d0db0e024?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY1NTMzMzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="ocean wave under cloudy sky"></a>
   
-  <em>low angle photo of cherry blossoms tree</em>
+  <em>ocean wave under cloudy sky</em>
   
-  <em>Kungsträdgården cherry blossom Love the work? buy me a coffee ☕ PayPal - a.smit@mac.com</em>
+  <em></em>
 
-  Photo by [Arno Smit](https://www.instagram.com/_entreprenerd) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/_entreprenerd) / [portfolio](https://www.instagram.com/_entreprenerd) / [Twitter](https://twitter.com/_entreprenerd)
+  Photo by [Tim Marshall](http://instagram.com/timmarshall.nz) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timmarshall.nz) / [portfolio](http://instagram.com/timmarshall.nz)
   
-  Taken at Kungsträdgården, Stockholm, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3314805,18.0715003)
+  Taken at Mount Maunganui, Tauranga, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-37.6386541,176.1836273)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/2000 |
-| Aperture      | 2.8 |
-| Focal Length  | 35.0 |
-| ISO           | 200 |
-| Location      | Kungsträdgården, Stockholm, Sweden (Sweden) |
-| Coordinates   | Latitude 59.3314805, Longitude 18.0715003 |
+| Camera Model  | Canon EOS M |
+| Exposure Time | 1/250 |
+| Aperture      | 4.0 |
+| Focal Length  | 24.0 |
+| ISO           | 800 |
+| Location      | Mount Maunganui, Tauranga, New Zealand (New Zealand) |
+| Coordinates   | Latitude -37.6386541, Longitude 176.1836273 |
 
 </details>
 
