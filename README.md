@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/low-light-photo-of-forest-2ShvY8Lf6l0"><img width="720" src="https://images.unsplash.com/photo-1426170042593-200f250dfdaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY2Mzk3Mzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="low-light photo of forest"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-frame-DuMeluMTKZk"><img width="720" src="https://images.unsplash.com/photo-1524335397764-f98987c51095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY3MjYxNDR8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden frame"></a>
   
-  <em>low-light photo of forest</em>
+  <em>brown wooden frame</em>
   
-  <em>Sun peeking through the trees</em>
+  <em>One of my favorite things to photograph are tree stumps. Rattlesnake Lake in Washington offers a plethora of tree stumps to photograph. I spent 3 hours on this particular day photographing tree stumps. It was awesome.</em>
 
-  Photo by [Lukasz Szmigiel](https://photo.szmigiel.design/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
+  Photo by [Dave Hoefler](https://www.davehoefler.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/just_midwest_rock) / [portfolio](https://www.davehoefler.com/)
   
-  Taken at Unknown • 
+  Taken at Rattlesnake Lake, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4307783,-121.7750516)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 7D |
-| Exposure Time | 1/800 |
-| Aperture      | 1.8 |
-| Focal Length  | 50.0 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 40 |
+| Aperture      | 10.0 |
+| Focal Length  | 135.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Rattlesnake Lake, United States (United States) |
+| Coordinates   | Latitude 47.4307783, Longitude -121.7750516 |
 
 </details>
 
