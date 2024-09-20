@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-frame-DuMeluMTKZk"><img width="720" src="https://images.unsplash.com/photo-1524335397764-f98987c51095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY3MjYxNDR8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden frame"></a>
+  <a href="https://unsplash.com/photos/empty-road-between-trees-on-forest-v4e3JI7DDHI"><img width="720" src="https://images.unsplash.com/photo-1446329813274-7c9036bd9a1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY4MTI1Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="empty road between trees on forest"></a>
   
-  <em>brown wooden frame</em>
+  <em>empty road between trees on forest</em>
   
-  <em>One of my favorite things to photograph are tree stumps. Rattlesnake Lake in Washington offers a plethora of tree stumps to photograph. I spent 3 hours on this particular day photographing tree stumps. It was awesome.</em>
+  <em></em>
 
-  Photo by [Dave Hoefler](https://www.davehoefler.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/just_midwest_rock) / [portfolio](https://www.davehoefler.com/)
+  Photo by [Sebastian Unrau](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
   
-  Taken at Rattlesnake Lake, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4307783,-121.7750516)
+  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 40 |
-| Aperture      | 10.0 |
-| Focal Length  | 135.0 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 0.3 |
+| Aperture      | 16.0 |
+| Focal Length  | 16.0 |
 | ISO           | 100 |
-| Location      | Rattlesnake Lake, United States (United States) |
-| Coordinates   | Latitude 47.4307783, Longitude -121.7750516 |
+| Location      | Bad Pyrmont, Deutschland (Deutschland) |
+| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
 
 </details>
 
