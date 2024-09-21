@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/empty-road-between-trees-on-forest-v4e3JI7DDHI"><img width="720" src="https://images.unsplash.com/photo-1446329813274-7c9036bd9a1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY4MTI1Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="empty road between trees on forest"></a>
+  <a href="https://unsplash.com/photos/house-near-trees-and-river-qv5yb436qRI"><img width="720" src="https://images.unsplash.com/photo-1430000589629-f04107b5597c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY4OTg4NzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="house near trees and river"></a>
   
-  <em>empty road between trees on forest</em>
+  <em>house near trees and river</em>
   
-  <em></em>
+  <em>Cabin over a misty pond</em>
 
-  Photo by [Sebastian Unrau](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
+  Photo by [Vidar Kristiansen](http://alturisten) on [unsplash.com](https://unsplash.com/) • [portfolio](http://alturisten)
   
-  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
+  Taken at Unnamed Road, 1890 Rakkestad, Norway, Rakkestad • [Google Maps](https://www.google.com/maps/search/?api=1&query=59.44405806,11.54521333)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 0.3 |
-| Aperture      | 16.0 |
-| Focal Length  | 16.0 |
-| ISO           | 100 |
-| Location      | Bad Pyrmont, Deutschland (Deutschland) |
-| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
+| Camera Model  | Nokia 800 |
+| Exposure Time | 1/191 |
+| Aperture      | 2.2 |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Unnamed Road, 1890 Rakkestad, Norway, Rakkestad (Norway) |
+| Coordinates   | Latitude 59.44405806, Longitude 11.54521333 |
 
 </details>
 
