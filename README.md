@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-footbridge-surrounded-by-pink-petaled-flowers-with-creek-underneath-during-daytime-pYyOZ8q7AII"><img width="720" src="https://images.unsplash.com/photo-1432958576632-8a39f6b97dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc1OTAwNzN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"></a>
+  <a href="https://unsplash.com/photos/fox-laying-on-snow-qQUtvVdurHg"><img width="720" src="https://images.unsplash.com/photo-1470165511815-34e78ff7a111?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc2NzY1ODJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="fox laying on snow"></a>
   
-  <em>brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime</em>
+  <em>fox laying on snow</em>
   
-  <em>Mystical garden</em>
+  <em></em>
 
-  Photo by [Cosmic Timetraveler](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cosmictimetraveler)
+  Photo by [Ray Hennessy](http://www.rayhennessy.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/rayhennessy_wildlife) / [portfolio](http://www.rayhennessy.com)
   
-  Taken at Unknown • 
+  Taken at Lanoka Harbor, Berkeley Township, New Jersey, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.85611167,-74.08521667)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D4S |
+| Exposure Time | 1/320 |
+| Aperture      | 4.0 |
+| Focal Length  | 500.0 |
+| ISO           | 4000 |
+| Location      | Lanoka Harbor, Berkeley Township, New Jersey, United States (United States) |
+| Coordinates   | Latitude 39.85611167, Longitude -74.08521667 |
 
 </details>
 
