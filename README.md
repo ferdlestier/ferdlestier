@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/selective-focus-photography-of-green-leaf-tb4wis6XoQk"><img width="720" src="https://images.unsplash.com/photo-1442508748335-fde9c3f58fd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc3NjI5NjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photography of green leaf"></a>
+  <a href="https://unsplash.com/photos/green-leaf-trees-9SW9IvKD9OY"><img width="720" src="https://images.unsplash.com/photo-1467767079704-1e5389c42c9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc4NDkzNTN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leaf trees"></a>
   
-  <em>selective focus photography of green leaf</em>
+  <em>green leaf trees</em>
   
-  <em></em>
+  <em>Tree archway in a park</em>
 
-  Photo by [Aaron Burden](http://aaronburden.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aaronburden) / [portfolio](http://aaronburden.com) / [Twitter](https://twitter.com/theaaronburden)
+  Photo by [Ashley Knedler](http://ashleyknedler.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ashkned) / [portfolio](http://ashleyknedler.com) / [Twitter](https://twitter.com/ashkned)
   
-  Taken at Unknown • 
+  Taken at Savannah, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.0835407,-81.0998342)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-GX7 |
-| Exposure Time | 1/320 |
-| Aperture      | 2.8 |
-| Focal Length  | 60.0 |
-| ISO           | 125 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/80 |
+| Aperture      | 5.0 |
+| Focal Length  | 58.0 |
+| ISO           | 800 |
+| Location      | Savannah, United States (United States) |
+| Coordinates   | Latitude 32.0835407, Longitude -81.0998342 |
 
 </details>
 
