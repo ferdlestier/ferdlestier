@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leaf-trees-9SW9IvKD9OY"><img width="720" src="https://images.unsplash.com/photo-1467767079704-1e5389c42c9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc4NDkzNTN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leaf trees"></a>
+  <a href="https://unsplash.com/photos/forest-surrounded-by-fog-at-daytime-payOjEt5qYY"><img width="720" src="https://images.unsplash.com/photo-1502136928196-0ebd524bdf97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc5MzU3MzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest surrounded by fog at daytime"></a>
   
-  <em>green leaf trees</em>
+  <em>forest surrounded by fog at daytime</em>
   
-  <em>Tree archway in a park</em>
+  <em>Large trees in fog</em>
 
-  Photo by [Ashley Knedler](http://ashleyknedler.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ashkned) / [portfolio](http://ashleyknedler.com) / [Twitter](https://twitter.com/ashkned)
+  Photo by [Julie Marsh](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/juliemarshphotography)
   
-  Taken at Savannah, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.0835407,-81.0998342)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/80 |
-| Aperture      | 5.0 |
-| Focal Length  | 58.0 |
-| ISO           | 800 |
-| Location      | Savannah, United States (United States) |
-| Coordinates   | Latitude 32.0835407, Longitude -81.0998342 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | 0 |
+| Focal Length  | 0.0 |
+| ISO           | null |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
