@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-surrounded-by-fog-at-daytime-payOjEt5qYY"><img width="720" src="https://images.unsplash.com/photo-1502136928196-0ebd524bdf97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc5MzU3MzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest surrounded by fog at daytime"></a>
+  <a href="https://unsplash.com/photos/sunlight-reflects-on-trees-and-river-T41noNW7esg"><img width="720" src="https://images.unsplash.com/photo-1545852528-fa22f7fcd63e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgwMjIxMzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="sunlight reflects on trees and river"></a>
   
-  <em>forest surrounded by fog at daytime</em>
+  <em>sunlight reflects on trees and river</em>
   
-  <em>Large trees in fog</em>
+  <em>Beautiful scenery on a simple stroll in the Zügen-Gorge. It’s once again astonishing how amazing nature can be. You don’t have to go far, you just have to go. I love when the fog clears while the sun is peaking through the forest.</em>
 
-  Photo by [Julie Marsh](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/juliemarshphotography)
+  Photo by [Damian Markutt](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/wildandfree_photography)
   
-  Taken at Unknown • 
+  Taken at Zügenschlucht, Davos, Switzerland • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
+| Camera Model  | EOS 6D |
 | Exposure Time | null |
-| Aperture      | 0 |
-| Focal Length  | 0.0 |
+| Aperture      | null |
+| Focal Length  | null |
 | ISO           | null |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Location      | Zügenschlucht, Davos, Switzerland (Switzerland) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
