@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/sunlight-reflects-on-trees-and-river-T41noNW7esg"><img width="720" src="https://images.unsplash.com/photo-1545852528-fa22f7fcd63e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgwMjIxMzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="sunlight reflects on trees and river"></a>
+  <a href="https://unsplash.com/photos/brown-turtle-swimming-in-ocean-LVnJlyfa7Zk"><img width="720" src="https://images.unsplash.com/photo-1496196614460-48988a57fccf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgxMDg0Nzh8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown turtle swimming in ocean"></a>
   
-  <em>sunlight reflects on trees and river</em>
+  <em>brown turtle swimming in ocean</em>
   
-  <em>Beautiful scenery on a simple stroll in the Zügen-Gorge. It’s once again astonishing how amazing nature can be. You don’t have to go far, you just have to go. I love when the fog clears while the sun is peaking through the forest.</em>
+  <em>Sea turtle swimming</em>
 
-  Photo by [Damian Markutt](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/wildandfree_photography)
+  Photo by [Randall  Ruiz](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/topo2k)
   
-  Taken at Zügenschlucht, Davos, Switzerland • 
+  Taken at Kaputas Beach, Turkey • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | EOS 6D |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Zügenschlucht, Davos, Switzerland (Switzerland) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | COOLPIX AW100 |
+| Exposure Time | 1/400 |
+| Aperture      | 3.9 |
+| Focal Length  | 5.5 |
+| ISO           | 125 |
+| Location      | Kaputas Beach, Turkey (Turkey) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
