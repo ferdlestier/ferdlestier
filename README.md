@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-turtle-swimming-in-ocean-LVnJlyfa7Zk"><img width="720" src="https://images.unsplash.com/photo-1496196614460-48988a57fccf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgxMDg0Nzh8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown turtle swimming in ocean"></a>
+  <a href="https://unsplash.com/photos/closeup-photo-of-green-leafed-plants-sFLVTqNzG2I"><img width="720" src="https://images.unsplash.com/photo-1463107971871-fbac9ddb920f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgxOTQ4Nzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="closeup photo of green leafed plants"></a>
   
-  <em>brown turtle swimming in ocean</em>
+  <em>closeup photo of green leafed plants</em>
   
-  <em>Sea turtle swimming</em>
+  <em>Dew on rolled-up leaves</em>
 
-  Photo by [Randall  Ruiz](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/topo2k)
+  Photo by [Joey Kyber](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joey_kyber)
   
-  Taken at Kaputas Beach, Turkey • 
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | COOLPIX AW100 |
-| Exposure Time | 1/400 |
-| Aperture      | 3.9 |
-| Focal Length  | 5.5 |
-| ISO           | 125 |
-| Location      | Kaputas Beach, Turkey (Turkey) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 1/25 |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
