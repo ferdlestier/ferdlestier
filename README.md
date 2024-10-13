@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/two-roads-between-trees-u0vgcIOQG08"><img width="720" src="https://images.unsplash.com/photo-1429743305873-d4065c15f93e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg3MTMyNjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="two roads between trees"></a>
+  <a href="https://unsplash.com/photos/snow-covered-tree-near-body-of-water-r6TLRDY4Ll0"><img width="720" src="https://images.unsplash.com/photo-1455156218388-5e61b526818b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg3OTk3MDJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="snow-covered tree near body of water"></a>
   
-  <em>two roads between trees</em>
+  <em>snow-covered tree near body of water</em>
   
-  <em>Forking forest path</em>
+  <em></em>
 
-  Photo by [Jens Lelie](http://leliejens.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/leliejens) / [portfolio](http://leliejens.com) / [Twitter](https://twitter.com/madebyjens)
+  Photo by [Colby Thomas](https://jrnxf.co) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/_jrnxf) / [portfolio](https://jrnxf.co) / [Twitter](https://twitter.com/_jrnxf)
   
-  Taken at Unknown • 
+  Taken at Tibble Fork Reservoir, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=40.4823404,-111.6440872)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D60 |
-| Exposure Time | 1/60 |
-| Aperture      | 9.0 |
-| Focal Length  | 20.0 |
-| ISO           | 1600 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 5D Mark II |
+| Exposure Time | 1/800 |
+| Aperture      | 2.8 |
+| Focal Length  | 40.0 |
+| ISO           | 100 |
+| Location      | Tibble Fork Reservoir, United States (United States) |
+| Coordinates   | Latitude 40.4823404, Longitude -111.6440872 |
 
 </details>
 
