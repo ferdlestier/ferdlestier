@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-tree-near-body-of-water-r6TLRDY4Ll0"><img width="720" src="https://images.unsplash.com/photo-1455156218388-5e61b526818b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg3OTk3MDJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="snow-covered tree near body of water"></a>
+  <a href="https://unsplash.com/photos/sand-dune-7Y0NshQLohk"><img width="720" src="https://images.unsplash.com/photo-1504548840739-580b10ae7715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg4ODYxODB8&ixlib=rb-4.0.3&q=80&w=1080" alt="sand dune"></a>
   
-  <em>snow-covered tree near body of water</em>
+  <em>sand dune</em>
   
-  <em></em>
+  <em>White wavy texture</em>
 
-  Photo by [Colby Thomas](https://jrnxf.co) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/_jrnxf) / [portfolio](https://jrnxf.co) / [Twitter](https://twitter.com/_jrnxf)
+  Photo by [Sumner Mahaffey](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Tibble Fork Reservoir, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=40.4823404,-111.6440872)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 1/800 |
-| Aperture      | 2.8 |
-| Focal Length  | 40.0 |
-| ISO           | 100 |
-| Location      | Tibble Fork Reservoir, United States (United States) |
-| Coordinates   | Latitude 40.4823404, Longitude -111.6440872 |
+| Camera Model  | Canon EOS 70D |
+| Exposure Time | 1/1600 |
+| Aperture      | 2.2 |
+| Focal Length  | 50.0 |
+| ISO           | 125 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
