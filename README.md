@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/sand-dune-7Y0NshQLohk"><img width="720" src="https://images.unsplash.com/photo-1504548840739-580b10ae7715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg4ODYxODB8&ixlib=rb-4.0.3&q=80&w=1080" alt="sand dune"></a>
+  <a href="https://unsplash.com/photos/calm-lake-with-mist-during-daytime--zZ60jFNKWI"><img width="720" src="https://images.unsplash.com/photo-1506385131333-6cd291d2501a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg5NzI1NjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm lake with mist during daytime"></a>
   
-  <em>sand dune</em>
+  <em>calm lake with mist during daytime</em>
   
-  <em>White wavy texture</em>
+  <em></em>
 
-  Photo by [Sumner Mahaffey](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Joel Cross](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joel.cross) / [Twitter](https://twitter.com/joeIcross)
   
-  Taken at Unknown • 
+  Taken at Kwai Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.6973489,-125.3374423)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 70D |
-| Exposure Time | 1/1600 |
-| Aperture      | 2.2 |
-| Focal Length  | 50.0 |
-| ISO           | 125 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/500 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 400 |
+| Location      | Kwai Lake, Canada (Canada) |
+| Coordinates   | Latitude 49.6973489, Longitude -125.3374423 |
 
 </details>
 
