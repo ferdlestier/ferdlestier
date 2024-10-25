@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/sun-rays-through-silhouette-of-trees-tLNRTxieD7k"><img width="720" src="https://images.unsplash.com/photo-1462290625486-c142817fb94d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk3NTAxNjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="sun rays through silhouette of trees"></a>
+  <a href="https://unsplash.com/photos/white-sand-RsRTIofe0HE"><img width="720" src="https://images.unsplash.com/photo-1554147090-e1221a04a025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk4MzY1NTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="white sand"></a>
   
-  <em>sun rays through silhouette of trees</em>
+  <em>white sand</em>
   
-  <em>Sunrise breaking into the forest</em>
+  <em>Taken near sunset at White Sands National Monument, New Mexico, USA</em>
 
-  Photo by [Kristine Weilert](http://www.kristineweilert.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kristineweilert) / [portfolio](http://www.kristineweilert.com)
+  Photo by [John Fowler](http://www.flickr.com/photos/snowpeak) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnd.fowler) / [portfolio](http://www.flickr.com/photos/snowpeak)
   
-  Taken at Unknown • 
+  Taken at White Sands National Monument, Socorro NM, United States • 
   
   ---
   
@@ -22,12 +22,12 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T1 |
-| Exposure Time | 1/4000 |
-| Aperture      | 3.2 |
-| Focal Length  | 23.0 |
+| Camera Model  | NIKON D800E |
+| Exposure Time | 1/200 |
+| Aperture      | 9.0 |
+| Focal Length  | 120.0 |
 | ISO           | 400 |
-| Location      | Unknown (null) |
+| Location      | White Sands National Monument, Socorro NM, United States (United States) |
 | Coordinates   | Latitude null, Longitude null |
 
 </details>
