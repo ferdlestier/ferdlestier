@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leafed-tree-4yK5lLfRDWE"><img width="720" src="https://images.unsplash.com/photo-1545840893-d59d0bf89825?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzAwOTU3OTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green-leafed tree"></a>
+  <a href="https://unsplash.com/photos/body-of-water-under-sky-6ArTTluciuA"><img width="720" src="https://images.unsplash.com/photo-1518837695005-2083093ee35b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzAxODIxODF8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water under sky"></a>
   
-  <em>green-leafed tree</em>
+  <em>body of water under sky</em>
   
-  <em>Tuluk River & Rocks</em>
+  <em>Ocean Ripple</em>
 
-  Photo by [Daniil Silantev](https://www.instagram.com/silantevdan) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/silantevdan) / [portfolio](https://www.instagram.com/silantevdan) / [Twitter](https://twitter.com/betagamma)
+  Photo by [Matt Hardy](https://www.instagram.com/mattchardy/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mattchardy) / [portfolio](https://www.instagram.com/mattchardy/)
   
-  Taken at Tuluk River • 
+  Taken at Bondi Beach, Australia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-33.89102,151.277726)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/60 |
-| Aperture      | 7.1 |
-| Focal Length  | 24.0 |
-| ISO           | 100 |
-| Location      | Tuluk River (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-6300 |
+| Exposure Time | 1/4000 |
+| Aperture      | 2.8 |
+| Focal Length  | 35.0 |
+| ISO           | 800 |
+| Location      | Bondi Beach, Australia (Australia) |
+| Coordinates   | Latitude -33.89102, Longitude 151.277726 |
 
 </details>
 
