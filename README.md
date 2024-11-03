@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-tree-Rmp3qc71x10"><img width="720" src="https://images.unsplash.com/photo-1473679624748-2c182dc54bf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA1Mjc3MDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of tree"></a>
+  <a href="https://unsplash.com/photos/selective-focus-photography-of-blue-kingfisher-vUNQaTtZeOo"><img width="720" src="https://images.unsplash.com/photo-1444464666168-49d633b86797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA2MTQxNDV8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photography of blue kingfisher"></a>
   
-  <em>photo of tree</em>
+  <em>selective focus photography of blue kingfisher</em>
   
-  <em>Arching tree in a jungle</em>
+  <em>Perched blue and orange bird</em>
 
-  Photo by [Jose Urbano](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jfsurbano)
+  Photo by [Vincent van Zalinge](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentvanzalinge)
   
-  Taken at Vietnam • [Google Maps](https://www.google.com/maps/search/?api=1&query=14.058324,108.277199)
+  Taken at Oostvaardersplassen (Natuurreservaat), Lelystad, Nederland • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.4467258594769,5.41542433618156)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 600D |
-| Exposure Time | 1/1600 |
-| Aperture      | 4.5 |
-| Focal Length  | 10.0 |
-| ISO           | 800 |
-| Location      | Vietnam (Vietnam) |
-| Coordinates   | Latitude 14.058324, Longitude 108.277199 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Oostvaardersplassen (Natuurreservaat), Lelystad, Nederland (Nederland) |
+| Coordinates   | Latitude 52.4467258594769, Longitude 5.41542433618156 |
 
 </details>
 
