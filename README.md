@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/two-person-walking-on-desert-during-daytime-9i9RquPtXsg"><img width="720" src="https://images.unsplash.com/photo-1465328610639-388f315eb31b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE0NzgxNTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="two person walking on desert during daytime"></a>
+  <a href="https://unsplash.com/photos/rock-formation-beside-body-of-water-LUBvSohu6D0"><img width="720" src="https://images.unsplash.com/photo-1447957781261-96a39620d6d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE1NjQ1NjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="rock formation beside body of water"></a>
   
-  <em>two person walking on desert during daytime</em>
+  <em>rock formation beside body of water</em>
   
-  <em></em>
+  <em>Mossy gorge</em>
 
-  Photo by [Lionello DelPiccolo](http://liodpmedia.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/liodp) / [portfolio](http://liodpmedia.com) / [Twitter](https://twitter.com/liodp)
+  Photo by [Andrew Coelho](http://andrewcoelho.com/photos) on [unsplash.com](https://unsplash.com/) • [portfolio](http://andrewcoelho.com/photos)
   
-  Taken at Great Sand Dunes National Park and Preserve, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7915959,-105.5943276)
+  Taken at Oregon, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.8041334,-120.5542012)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6300 |
-| Exposure Time | 1/400 |
-| Aperture      | 5.6 |
-| Focal Length  | 126.0 |
-| ISO           | 100 |
-| Location      | Great Sand Dunes National Park and Preserve, United States (United States) |
-| Coordinates   | Latitude 37.7915959, Longitude -105.5943276 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/20 |
+| Aperture      | 8.0 |
+| Focal Length  | 44.0 |
+| ISO           | 320 |
+| Location      | Oregon, United States (United States) |
+| Coordinates   | Latitude 43.8041334, Longitude -120.5542012 |
 
 </details>
 
