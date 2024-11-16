@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leaf-with-raindrops-JSmc0GmSV1o"><img width="720" src="https://images.unsplash.com/photo-1423530990185-af7dde1155fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE2NTE0MDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leaf with raindrops"></a>
+  <a href="https://unsplash.com/photos/selective-focus-photography-of-green-leaf-tb4wis6XoQk"><img width="720" src="https://images.unsplash.com/photo-1442508748335-fde9c3f58fd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE3MzczMTh8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photography of green leaf"></a>
   
-  <em>green leaf with raindrops</em>
+  <em>selective focus photography of green leaf</em>
   
-  <em>Dew on shiny leaves</em>
+  <em></em>
 
-  Photo by [Kyle Szegedi](http://www.kyleszegediphoto.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kyleszegedi) / [portfolio](http://www.kyleszegediphoto.com)
+  Photo by [Aaron Burden](http://aaronburden.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aaronburden) / [portfolio](http://aaronburden.com) / [Twitter](https://twitter.com/theaaronburden)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 60D |
-| Exposure Time | 1/60 |
-| Aperture      | 5.6 |
-| Focal Length  | 64.0 |
-| ISO           | 200 |
+| Camera Model  | DMC-GX7 |
+| Exposure Time | 1/320 |
+| Aperture      | 2.8 |
+| Focal Length  | 60.0 |
+| ISO           | 125 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
