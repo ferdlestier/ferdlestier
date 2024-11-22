@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-trees-e6XsI7qqvAA"><img width="720" src="https://images.unsplash.com/photo-1462717585237-7fafe19c5448?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIxNjkzNzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette of trees"></a>
+  <a href="https://unsplash.com/photos/airplane-on-ground-surrounded-with-trees-G85VuTpw6jg"><img width="720" src="https://images.unsplash.com/photo-1508138221679-760a23a2285b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIyNTU3NzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="airplane on ground surrounded with trees"></a>
   
-  <em>silhouette of trees</em>
+  <em>airplane on ground surrounded with trees</em>
   
-  <em></em>
+  <em>Middle of Nowhere</em>
 
-  Photo by [Ju On](http://www.hyenas.at) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/juon44) / [portfolio](http://www.hyenas.at) / [Twitter](https://twitter.com/juon44)
+  Photo by [David Kovalenko](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/iamdavidko)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
+| Camera Model  | FC220 |
+| Exposure Time | 1/60 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.7 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
