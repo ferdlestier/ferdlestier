@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/fox-laying-on-snow-qQUtvVdurHg"><img width="720" src="https://images.unsplash.com/photo-1470165511815-34e78ff7a111?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI2MDEzNzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="fox laying on snow"></a>
+  <a href="https://unsplash.com/photos/low-angle-photography-of-purple-sky-NvesrDbsrL4"><img width="720" src="https://images.unsplash.com/photo-1517315003714-a071486bd9ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI2ODc3ODh8&ixlib=rb-4.0.3&q=80&w=1080" alt="low angle photography of purple sky"></a>
   
-  <em>fox laying on snow</em>
+  <em>low angle photography of purple sky</em>
   
-  <em></em>
+  <em>Celestial eruption</em>
 
-  Photo by [Ray Hennessy](http://www.rayhennessy.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/rayhennessy_wildlife) / [portfolio](http://www.rayhennessy.com)
+  Photo by [eberhard 🖐 grossgasteiger](https://narrateography.art) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/eberhard_grossgasteiger) / [portfolio](https://narrateography.art)
   
-  Taken at Lanoka Harbor, Berkeley Township, New Jersey, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.85611167,-74.08521667)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D4S |
-| Exposure Time | 1/320 |
-| Aperture      | 4.0 |
-| Focal Length  | 500.0 |
-| ISO           | 4000 |
-| Location      | Lanoka Harbor, Berkeley Township, New Jersey, United States (United States) |
-| Coordinates   | Latitude 39.85611167, Longitude -74.08521667 |
+| Camera Model  | SM-G935F |
+| Exposure Time | 1/50 |
+| Aperture      | 1.7 |
+| Focal Length  | 4.2 |
+| ISO           | 125 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
