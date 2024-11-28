@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/low-angle-photography-of-purple-sky-NvesrDbsrL4"><img width="720" src="https://images.unsplash.com/photo-1517315003714-a071486bd9ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI2ODc3ODh8&ixlib=rb-4.0.3&q=80&w=1080" alt="low angle photography of purple sky"></a>
+  <a href="https://unsplash.com/photos/green-pine-trees-d6kSvT2xZQo"><img width="720" src="https://images.unsplash.com/photo-1440581572325-0bea30075d9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI3NzQxODl8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pine trees"></a>
   
-  <em>low angle photography of purple sky</em>
+  <em>green pine trees</em>
   
-  <em>Celestial eruption</em>
+  <em></em>
 
-  Photo by [eberhard 🖐 grossgasteiger](https://narrateography.art) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/eberhard_grossgasteiger) / [portfolio](https://narrateography.art)
+  Photo by [Gustav Gullstrand](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Unknown • 
+  Taken at Hästhult, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.3179923,13.5620081)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | SM-G935F |
-| Exposure Time | 1/50 |
-| Aperture      | 1.7 |
+| Camera Model  | iPhone 5s |
+| Exposure Time | 1/120 |
+| Aperture      | 2.2 |
 | Focal Length  | 4.2 |
-| ISO           | 125 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| ISO           | 40 |
+| Location      | Hästhult, Sweden (Sweden) |
+| Coordinates   | Latitude 56.3179923, Longitude 13.5620081 |
 
 </details>
 
