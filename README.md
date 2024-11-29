@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-pine-trees-d6kSvT2xZQo"><img width="720" src="https://images.unsplash.com/photo-1440581572325-0bea30075d9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI3NzQxODl8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pine trees"></a>
+  <a href="https://unsplash.com/photos/snow-covered-tree-near-body-of-water-r6TLRDY4Ll0"><img width="720" src="https://images.unsplash.com/photo-1455156218388-5e61b526818b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI4NjA1ODB8&ixlib=rb-4.0.3&q=80&w=1080" alt="snow-covered tree near body of water"></a>
   
-  <em>green pine trees</em>
+  <em>snow-covered tree near body of water</em>
   
   <em></em>
 
-  Photo by [Gustav Gullstrand](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Colby Thomas](https://jrnxf.co) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/_jrnxf) / [portfolio](https://jrnxf.co) / [Twitter](https://twitter.com/_jrnxf)
   
-  Taken at Hästhult, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.3179923,13.5620081)
+  Taken at Tibble Fork Reservoir, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=40.4823404,-111.6440872)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 5s |
-| Exposure Time | 1/120 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.2 |
-| ISO           | 40 |
-| Location      | Hästhult, Sweden (Sweden) |
-| Coordinates   | Latitude 56.3179923, Longitude 13.5620081 |
+| Camera Model  | Canon EOS 5D Mark II |
+| Exposure Time | 1/800 |
+| Aperture      | 2.8 |
+| Focal Length  | 40.0 |
+| ISO           | 100 |
+| Location      | Tibble Fork Reservoir, United States (United States) |
+| Coordinates   | Latitude 40.4823404, Longitude -111.6440872 |
 
 </details>
 
