@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/star-fish-under-water-n5wwck8ES4w"><img width="720" src="https://images.unsplash.com/photo-1487252015168-776961549aca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzMyMDYxOTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="star fish under water"></a>
+  <a href="https://unsplash.com/photos/orange-leafed-trees-vHeXw6Nj_BM"><img width="720" src="https://images.unsplash.com/photo-1420585250056-371a656025ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzMyOTI2MDF8&ixlib=rb-4.0.3&q=80&w=1080" alt="orange leafed trees"></a>
   
-  <em>star fish under water</em>
+  <em>orange leafed trees</em>
   
-  <em>Starfish</em>
+  <em>Birch trees in autumn</em>
 
-  Photo by [Jakob Owens](https://amap.to/jakobowens/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jakobowens) / [portfolio](https://amap.to/jakobowens/) / [Twitter](https://twitter.com/jakobOwenss)
+  Photo by [John Price](http://www.johnpriceonline.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnpriceonline) / [portfolio](http://www.johnpriceonline.com) / [Twitter](https://twitter.com/johnpriceonline)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/1000 |
+| Camera Model  | Canon EOS 60D |
+| Exposure Time | 1/320 |
 | Aperture      | 5.0 |
-| Focal Length  | 24.0 |
-| ISO           | 125 |
+| Focal Length  | 70.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
