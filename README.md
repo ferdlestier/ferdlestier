@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/waves-crashing-rocks-during-daytime-Rnqa6jOpnHw"><img width="720" src="https://images.unsplash.com/photo-1546942113-a6c43b63104a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM0NjUzODR8&ixlib=rb-4.0.3&q=80&w=1080" alt="waves crashing rocks during daytime"></a>
+  <a href="https://unsplash.com/photos/coconut-trees-in-forest-covered-with-mist-at-daytime--RQ8tGcn2EY"><img width="720" src="https://images.unsplash.com/photo-1432298026442-0eabd0a98870?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM1NTE3MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="coconut trees in forest covered with mist at daytime"></a>
   
-  <em>waves crashing rocks during daytime</em>
+  <em>coconut trees in forest covered with mist at daytime</em>
   
-  <em>If you venture through the doorway, will you find your dreams or nightmares? There’s only one way to find out…</em>
+  <em>Palm tree forest</em>
 
-  Photo by [Joshua Sortino](http://sortino.co) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joshuasortino) / [portfolio](http://sortino.co) / [Twitter](https://twitter.com/sortino)
+  Photo by [Hans Eiskonen](https://hanseiskonen.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/hanseiskonen) / [portfolio](https://hanseiskonen.com) / [Twitter](https://twitter.com/hanseiskonen)
   
-  Taken at Doorway to Heaven, Big Sur, California • 
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
+| Camera Model  | Canon PowerShot G6 |
+| Exposure Time | 1/640 |
+| Aperture      | 4 |
+| Focal Length  | 17.6 |
 | ISO           | null |
-| Location      | Doorway to Heaven, Big Sur, California (California) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
