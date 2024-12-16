@@ -5,15 +5,17 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/coconut-trees-in-forest-covered-with-mist-at-daytime--RQ8tGcn2EY"><img width="720" src="https://images.unsplash.com/photo-1432298026442-0eabd0a98870?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQyNDI5Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="coconut trees in forest covered with mist at daytime"></a>
+  <a href="https://unsplash.com/photos/antelope-canyon-4xv3lqnanYc"><img width="720" src="https://images.unsplash.com/photo-1464800959563-472c0567132f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQzMjk0NTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="Antelope Canyon"></a>
   
-  <em>coconut trees in forest covered with mist at daytime</em>
+  <em>Antelope Canyon</em>
   
-  <em>Palm tree forest</em>
+  <em>If you like and use my photos, I would love a small donation (even just $2 would help) to my GoFundMe account to buy back my stolen gear (yes, I lost everything!) Thanks! 
 
-  Photo by [Hans Eiskonen](https://hanseiskonen.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/hanseiskonen) / [portfolio](https://hanseiskonen.com) / [Twitter](https://twitter.com/hanseiskonen)
+https://www.gofundme.com/buy-back-stolen-gear</em>
+
+  Photo by [Joe Gardner](http://josephgardnerphotography.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/josephgardnerphotography) / [portfolio](http://josephgardnerphotography.com)
   
-  Taken at Unknown • 
+  Taken at Antelope Canyon, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.8619103,-111.3743302)
   
   ---
   
@@ -22,13 +24,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon PowerShot G6 |
-| Exposure Time | 1/640 |
-| Aperture      | 4 |
-| Focal Length  | 17.6 |
-| ISO           | null |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/60 |
+| Aperture      | 4.0 |
+| Focal Length  | 17.0 |
+| ISO           | 500 |
+| Location      | Antelope Canyon, United States (United States) |
+| Coordinates   | Latitude 36.8619103, Longitude -111.3743302 |
 
 </details>
 
