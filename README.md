@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/view-of-sunset-KHD_FA43aMw"><img width="720" src="https://images.unsplash.com/photo-1515497957908-4d6377430754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ4NDc2ODF8&ixlib=rb-4.0.3&q=80&w=1080" alt="view of sunset"></a>
+  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ5MzQxOTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="seashore during golden hour"></a>
   
-  <em>view of sunset</em>
+  <em>seashore during golden hour</em>
   
-  <em>Good morning England</em>
+  <em>The last night of a two week stay on the North Shore of Oahu, Hawaii.</em>
 
-  Photo by [Zoltan Tasi](https://foundation.app/@zoltan_tasi) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/zoltan_tasi) / [portfolio](https://foundation.app/@zoltan_tasi)
+  Photo by [Sean Oulashin](http://www.seanoulashin.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
   
-  Taken at New Romney, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.9660937244519,0.961445656249907)
+  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T1 |
-| Exposure Time | 1/180 |
-| Aperture      | 8 |
-| Focal Length  | 200 |
-| ISO           | 250 |
-| Location      | New Romney, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 50.9660937244519, Longitude 0.961445656249907 |
+| Camera Model  | Canon EOS REBEL T3i |
+| Exposure Time | 1/250 |
+| Aperture      | 4.5 |
+| Focal Length  | 10.0 |
+| ISO           | 200 |
+| Location      | North Shore, Waialua, United States (United States) |
+| Coordinates   | Latitude 21.5616575, Longitude -158.0715983 |
 
 </details>
 
