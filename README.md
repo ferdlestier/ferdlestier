@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-sand-under-blue-sky-during-night-time-OtXJhYjbKeg"><img width="720" src="https://images.unsplash.com/photo-1612892483236-52d32a0e0ac1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUyNzk3Mzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown sand under blue sky during night time"></a>
+  <a href="https://unsplash.com/photos/green-linear-leafed-plants-jqgsM3B9Fpo"><img width="720" src="https://images.unsplash.com/photo-1516528387618-afa90b13e000?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUzNjYwNzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="green linear leafed plants"></a>
   
-  <em>brown sand under blue sky during night time</em>
+  <em>green linear leafed plants</em>
   
-  <em>I'm a solo traveller & photographer If you appreciate my work and my color you can follow me on Instagram @Daniele71043, Thank you!</em>
+  <em>Ferny Hole</em>
 
-  Photo by [Daniele Colucci](https://www.instagram.com/daniele71043/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Daniele71043) / [portfolio](https://www.instagram.com/daniele71043/) / [Twitter](https://twitter.com/Daniele71043)
+  Photo by [Yoal Desurmont](http://www.yoaldesurmont.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yoal.desurmont) / [portfolio](http://www.yoaldesurmont.com)
   
-  Taken at Wadi Rum Village, Giordania • [Google Maps](https://www.google.com/maps/search/?api=1&query=29.574299,35.421037)
+  Taken at New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-40.900557,174.885971)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | A7II |
-| Exposure Time | 1/320 |
-| Aperture      | 3.5 |
-| Focal Length  | 35.0 |
+| Camera Model  | X-T20 |
+| Exposure Time | 1/105 |
+| Aperture      | 5.6 |
+| Focal Length  | 41.8 |
 | ISO           | 400 |
-| Location      | Wadi Rum Village, Giordania (Giordania) |
-| Coordinates   | Latitude 29.574299, Longitude 35.421037 |
+| Location      | New Zealand (Nouvelle-Zélande) |
+| Coordinates   | Latitude -40.900557, Longitude 174.885971 |
 
 </details>
 
