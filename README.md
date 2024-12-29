@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-linear-leafed-plants-jqgsM3B9Fpo"><img width="720" src="https://images.unsplash.com/photo-1516528387618-afa90b13e000?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUzNjYwNzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="green linear leafed plants"></a>
+  <a href="https://unsplash.com/photos/green-leafed-tree-4yK5lLfRDWE"><img width="720" src="https://images.unsplash.com/photo-1545840893-d59d0bf89825?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU0NTI0OTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="green-leafed tree"></a>
   
-  <em>green linear leafed plants</em>
+  <em>green-leafed tree</em>
   
-  <em>Ferny Hole</em>
+  <em>Tuluk River & Rocks</em>
 
-  Photo by [Yoal Desurmont](http://www.yoaldesurmont.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yoal.desurmont) / [portfolio](http://www.yoaldesurmont.com)
+  Photo by [Daniil Silantev](https://www.instagram.com/silantevdan) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/silantevdan) / [portfolio](https://www.instagram.com/silantevdan) / [Twitter](https://twitter.com/betagamma)
   
-  Taken at New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-40.900557,174.885971)
+  Taken at Tuluk River • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T20 |
-| Exposure Time | 1/105 |
-| Aperture      | 5.6 |
-| Focal Length  | 41.8 |
-| ISO           | 400 |
-| Location      | New Zealand (Nouvelle-Zélande) |
-| Coordinates   | Latitude -40.900557, Longitude 174.885971 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/60 |
+| Aperture      | 7.1 |
+| Focal Length  | 24.0 |
+| ISO           | 100 |
+| Location      | Tuluk River (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
