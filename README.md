@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leafed-tree-4yK5lLfRDWE"><img width="720" src="https://images.unsplash.com/photo-1545840893-d59d0bf89825?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU0NTI0OTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="green-leafed tree"></a>
+  <a href="https://unsplash.com/photos/calm-lake-with-mist-during-daytime--zZ60jFNKWI"><img width="720" src="https://images.unsplash.com/photo-1506385131333-6cd291d2501a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU1Mzg5Nzh8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm lake with mist during daytime"></a>
   
-  <em>green-leafed tree</em>
+  <em>calm lake with mist during daytime</em>
   
-  <em>Tuluk River & Rocks</em>
+  <em></em>
 
-  Photo by [Daniil Silantev](https://www.instagram.com/silantevdan) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/silantevdan) / [portfolio](https://www.instagram.com/silantevdan) / [Twitter](https://twitter.com/betagamma)
+  Photo by [Joel Cross](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joel.cross) / [Twitter](https://twitter.com/joeIcross)
   
-  Taken at Tuluk River • 
+  Taken at Kwai Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.6973489,-125.3374423)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/60 |
-| Aperture      | 7.1 |
-| Focal Length  | 24.0 |
-| ISO           | 100 |
-| Location      | Tuluk River (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/500 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 400 |
+| Location      | Kwai Lake, Canada (Canada) |
+| Coordinates   | Latitude 49.6973489, Longitude -125.3374423 |
 
 </details>
 
