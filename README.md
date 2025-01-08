@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/sepia-photography-of-bare-trees-zvf7cZ0PC20"><img width="720" src="https://images.unsplash.com/photo-1442473483905-95eb436675f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzYyMzAxNTN8&ixlib=rb-4.0.3&q=80&w=1080" alt="sepia photography of bare trees"></a>
+  <a href="https://unsplash.com/photos/landscape-photo-of-waterfalls-flowing-into-river-during-daytime-pQMM63GE7fo"><img width="720" src="https://images.unsplash.com/photo-1442850473887-0fb77cd0b337?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzYzMTY1NDV8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photo of waterfalls flowing into river during daytime"></a>
   
-  <em>sepia photography of bare trees</em>
+  <em>landscape photo of waterfalls flowing into river during daytime</em>
   
-  <em></em>
+  <em>Swimming under a waterfall</em>
 
-  Photo by [Dikaseva](http://dikaseva.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dikaseva) / [portfolio](http://dikaseva.com/)
+  Photo by [Milada Vigerova](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/milivigerova)
   
-  Taken at Kota Garut, Indonesia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-7.227906,107.908699)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 650D |
-| Exposure Time | 1/30 |
-| Aperture      | 22.0 |
-| Focal Length  | 11.0 |
-| ISO           | 100 |
-| Location      | Kota Garut, Indonesia (Indonesia) |
-| Coordinates   | Latitude -7.227906, Longitude 107.908699 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
