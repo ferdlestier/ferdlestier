@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-tree-fronting-grass-field-lLZhM6ljp40"><img width="720" src="https://images.unsplash.com/photo-1441936064713-d73d35f4fcb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzY0MDI5NTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette of tree fronting grass field"></a>
+  <a href="https://unsplash.com/photos/trees-and-aurora-rays-ZSMgNjYrHRM"><img width="720" src="https://images.unsplash.com/photo-1430132594682-16e1185b17c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzY0ODkzNTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="trees and aurora rays"></a>
   
-  <em>silhouette of tree fronting grass field</em>
+  <em>trees and aurora rays</em>
   
   <em></em>
 
-  Photo by [Aaron Burden](http://aaronburden.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aaronburden) / [portfolio](http://aaronburden.com) / [Twitter](https://twitter.com/theaaronburden)
+  Photo by [Nelly Volkovich](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nellyvolkovich)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-GH4 |
-| Exposure Time | 1/500 |
-| Aperture      | 5.6 |
-| Focal Length  | 12.0 |
-| ISO           | 200 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 30 |
+| Aperture      | 4.0 |
+| Focal Length  | 24.0 |
+| ISO           | 800 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
