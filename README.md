@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-and-aurora-rays-ZSMgNjYrHRM"><img width="720" src="https://images.unsplash.com/photo-1430132594682-16e1185b17c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzY0ODkzNTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="trees and aurora rays"></a>
+  <a href="https://unsplash.com/photos/macro-photography-of-red-rose-3wbxAMUj7sg"><img width="720" src="https://images.unsplash.com/photo-1462733441571-9312d0b53818?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzY1NzU2ODB8&ixlib=rb-4.0.3&q=80&w=1080" alt="macro photography of red rose"></a>
   
-  <em>trees and aurora rays</em>
+  <em>macro photography of red rose</em>
   
-  <em></em>
+  <em>Dew on a vibrant red flower</em>
 
-  Photo by [Nelly Volkovich](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nellyvolkovich)
+  Photo by [Roksolana Zasiadko](null) on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/Bayun_rocks)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 30 |
-| Aperture      | 4.0 |
-| Focal Length  | 24.0 |
-| ISO           | 800 |
+| Camera Model  | Canon EOS 1100D |
+| Exposure Time | 1/160 |
+| Aperture      | 1.4 |
+| Focal Length  | 50.0 |
+| ISO           | 400 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
