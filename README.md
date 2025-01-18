@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/five-birds-flying-on-the-sea-OD9EOzfSOh0"><img width="720" src="https://images.unsplash.com/photo-1471922694854-ff1b63b20054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzcwOTQxNDh8&ixlib=rb-4.0.3&q=80&w=1080" alt="five birds flying on the sea"></a>
+  <a href="https://unsplash.com/photos/tree-between-green-land-during-golden-hour-T-LfvX-7IVg"><img width="720" src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzcxODA0NjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="tree between green land during golden hour"></a>
   
-  <em>five birds flying on the sea</em>
+  <em>tree between green land during golden hour</em>
   
-  <em></em>
+  <em>Sunset tree in Kenya Safari, Africa</em>
 
-  Photo by [frank mckenna](http://blog.frankiefoto.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/frankiefoto) / [portfolio](http://blog.frankiefoto.com)
+  Photo by [Damian Patkowski](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/damian.patkowski) / [Twitter](https://twitter.com/damianpatkowski)
   
-  Taken at San Diego, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.715738,-117.1610838)
+  Taken at Tsavo East National Park Kenya, Africa, Kenya • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D4 |
-| Exposure Time | 1/800 |
-| Aperture      | 5.0 |
-| Focal Length  | 14.0 |
-| ISO           | 1250 |
-| Location      | San Diego, United States (United States) |
-| Coordinates   | Latitude 32.715738, Longitude -117.1610838 |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/2000 |
+| Aperture      | 8.0 |
+| Focal Length  | 25.0 |
+| ISO           | 400 |
+| Location      | Tsavo East National Park Kenya, Africa, Kenya (Kenya) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
