@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/tree-between-green-land-during-golden-hour-T-LfvX-7IVg"><img width="720" src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzcxODA0NjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="tree between green land during golden hour"></a>
+  <a href="https://unsplash.com/photos/two-person-walking-on-desert-during-daytime-9i9RquPtXsg"><img width="720" src="https://images.unsplash.com/photo-1465328610639-388f315eb31b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzcyNjY4OTN8&ixlib=rb-4.0.3&q=80&w=1080" alt="two person walking on desert during daytime"></a>
   
-  <em>tree between green land during golden hour</em>
+  <em>two person walking on desert during daytime</em>
   
-  <em>Sunset tree in Kenya Safari, Africa</em>
+  <em></em>
 
-  Photo by [Damian Patkowski](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/damian.patkowski) / [Twitter](https://twitter.com/damianpatkowski)
+  Photo by [Lionello DelPiccolo](http://liodpmedia.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/liodp) / [portfolio](http://liodpmedia.com) / [Twitter](https://twitter.com/liodp)
   
-  Taken at Tsavo East National Park Kenya, Africa, Kenya • 
+  Taken at Great Sand Dunes National Park and Preserve, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7915959,-105.5943276)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5200 |
-| Exposure Time | 1/2000 |
-| Aperture      | 8.0 |
-| Focal Length  | 25.0 |
-| ISO           | 400 |
-| Location      | Tsavo East National Park Kenya, Africa, Kenya (Kenya) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-6300 |
+| Exposure Time | 1/400 |
+| Aperture      | 5.6 |
+| Focal Length  | 126.0 |
+| ISO           | 100 |
+| Location      | Great Sand Dunes National Park and Preserve, United States (United States) |
+| Coordinates   | Latitude 37.7915959, Longitude -105.5943276 |
 
 </details>
 
