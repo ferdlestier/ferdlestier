@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/yellow-lights-between-trees-hvrpOmuMrAI"><img width="720" src="https://images.unsplash.com/photo-1500673922987-e212871fec22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc2MTI1NTh8&ixlib=rb-4.0.3&q=80&w=1080" alt="yellow lights between trees"></a>
+  <a href="https://unsplash.com/photos/green-leafed-tree-4yK5lLfRDWE"><img width="720" src="https://images.unsplash.com/photo-1545840893-d59d0bf89825?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc2OTg5NDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green-leafed tree"></a>
   
-  <em>yellow lights between trees</em>
+  <em>green-leafed tree</em>
   
-  <em>Golden forest pathway</em>
+  <em>Tuluk River & Rocks</em>
 
-  Photo by [Johannes Plenio](http://www.coolfreepix.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
+  Photo by [Daniil Silantev](https://www.instagram.com/silantevdan) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/silantevdan) / [portfolio](https://www.instagram.com/silantevdan) / [Twitter](https://twitter.com/betagamma)
   
-  Taken at Unknown • 
+  Taken at Tuluk River • 
   
   ---
   
@@ -22,12 +22,12 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 0.7 |
-| Aperture      | 13.0 |
-| Focal Length  | 104.0 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/60 |
+| Aperture      | 7.1 |
+| Focal Length  | 24.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
+| Location      | Tuluk River (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 </details>
