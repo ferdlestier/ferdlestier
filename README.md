@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-frame-DuMeluMTKZk"><img width="720" src="https://images.unsplash.com/photo-1524335397764-f98987c51095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzkwODEzMDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden frame"></a>
+  <a href="https://unsplash.com/photos/rock-formation-beside-body-of-water-LUBvSohu6D0"><img width="720" src="https://images.unsplash.com/photo-1447957781261-96a39620d6d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzkxNjc3ODh8&ixlib=rb-4.0.3&q=80&w=1080" alt="rock formation beside body of water"></a>
   
-  <em>brown wooden frame</em>
+  <em>rock formation beside body of water</em>
   
-  <em>One of my favorite things to photograph are tree stumps. Rattlesnake Lake in Washington offers a plethora of tree stumps to photograph. I spent 3 hours on this particular day photographing tree stumps. It was awesome.</em>
+  <em>Mossy gorge</em>
 
-  Photo by [Dave Hoefler](https://www.davehoefler.com/) on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.davehoefler.com/)
+  Photo by [Andrew Coelho](http://andrewcoelho.com/photos) on [unsplash.com](https://unsplash.com/) • [portfolio](http://andrewcoelho.com/photos)
   
-  Taken at Rattlesnake Lake, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4307783,-121.7750516)
+  Taken at Oregon, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.8041334,-120.5542012)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 40 |
-| Aperture      | 10.0 |
-| Focal Length  | 135.0 |
-| ISO           | 100 |
-| Location      | Rattlesnake Lake, United States (United States) |
-| Coordinates   | Latitude 47.4307783, Longitude -121.7750516 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/20 |
+| Aperture      | 8.0 |
+| Focal Length  | 44.0 |
+| ISO           | 320 |
+| Location      | Oregon, United States (United States) |
+| Coordinates   | Latitude 43.8041334, Longitude -120.5542012 |
 
 </details>
 
