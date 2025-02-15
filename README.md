@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/two-person-walking-on-desert-during-daytime-9i9RquPtXsg"><img width="720" src="https://images.unsplash.com/photo-1465328610639-388f315eb31b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk1MTMzNDd8&ixlib=rb-4.0.3&q=80&w=1080" alt="two person walking on desert during daytime"></a>
+  <a href="https://unsplash.com/photos/house-near-trees-and-river-qv5yb436qRI"><img width="720" src="https://images.unsplash.com/photo-1430000589629-f04107b5597c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk1OTk2OTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="house near trees and river"></a>
   
-  <em>two person walking on desert during daytime</em>
+  <em>house near trees and river</em>
   
-  <em></em>
+  <em>Cabin over a misty pond</em>
 
-  Photo by [Lionello DelPiccolo](http://liodpmedia.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/liodp) / [portfolio](http://liodpmedia.com) / [Twitter](https://twitter.com/liodp)
+  Photo by [Vidar Kristiansen](http://alturisten) on [unsplash.com](https://unsplash.com/) • [portfolio](http://alturisten)
   
-  Taken at Great Sand Dunes National Park and Preserve, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7915959,-105.5943276)
+  Taken at Unnamed Road, 1890 Rakkestad, Norway, Rakkestad • [Google Maps](https://www.google.com/maps/search/?api=1&query=59.44405806,11.54521333)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6300 |
-| Exposure Time | 1/400 |
-| Aperture      | 5.6 |
-| Focal Length  | 126.0 |
-| ISO           | 100 |
-| Location      | Great Sand Dunes National Park and Preserve, United States (United States) |
-| Coordinates   | Latitude 37.7915959, Longitude -105.5943276 |
+| Camera Model  | Nokia 800 |
+| Exposure Time | 1/191 |
+| Aperture      | 2.2 |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Unnamed Road, 1890 Rakkestad, Norway, Rakkestad (Norway) |
+| Coordinates   | Latitude 59.44405806, Longitude 11.54521333 |
 
 </details>
 
