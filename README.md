@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/house-near-trees-and-river-qv5yb436qRI"><img width="720" src="https://images.unsplash.com/photo-1430000589629-f04107b5597c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk1OTk2OTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="house near trees and river"></a>
+  <a href="https://unsplash.com/photos/low-angle-photography-of-green-leaf-trees-at-daytime-buF62ewDLcQ"><img width="720" src="https://images.unsplash.com/photo-1420745981456-b95fe23f5753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk2ODYwOTN8&ixlib=rb-4.0.3&q=80&w=1080" alt="low-angle photography of green leaf trees at daytime"></a>
   
-  <em>house near trees and river</em>
+  <em>low-angle photography of green leaf trees at daytime</em>
   
-  <em>Cabin over a misty pond</em>
+  <em>Impressive bamboo canopy</em>
 
-  Photo by [Vidar Kristiansen](http://alturisten) on [unsplash.com](https://unsplash.com/) • [portfolio](http://alturisten)
+  Photo by [Jason Ortego](http://www.flickr.com/photos/jasonortego/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jortego) / [portfolio](http://www.flickr.com/photos/jasonortego/) / [Twitter](https://twitter.com/ortego)
   
-  Taken at Unnamed Road, 1890 Rakkestad, Norway, Rakkestad • [Google Maps](https://www.google.com/maps/search/?api=1&query=59.44405806,11.54521333)
+  Taken at Kyoto, Japan • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Nokia 800 |
-| Exposure Time | 1/191 |
-| Aperture      | 2.2 |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Unnamed Road, 1890 Rakkestad, Norway, Rakkestad (Norway) |
-| Coordinates   | Latitude 59.44405806, Longitude 11.54521333 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/30 |
+| Aperture      | 4.5 |
+| Focal Length  | 17.0 |
+| ISO           | 1250 |
+| Location      | Kyoto, Japan (Japan) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
