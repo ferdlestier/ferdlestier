@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-view-of-beach-shore-EwRM05V0VSI"><img width="720" src="https://images.unsplash.com/photo-1489914099268-1dad649f76bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAxMTgxNTN8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial view of beach shore"></a>
+  <a href="https://unsplash.com/photos/shallow-focus-photo-of-green-trees-during-daytime-MFM8ASk4XNs"><img width="720" src="https://images.unsplash.com/photo-1578167597239-14f8fc680b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAyMDQ0OTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="shallow focus photo of green trees during daytime"></a>
   
-  <em>aerial view of beach shore</em>
+  <em>shallow focus photo of green trees during daytime</em>
   
-  <em>Waves</em>
+  <em>Frosty morning in the forest.</em>
 
-  Photo by [Jakob Owens](https://amap.to/jakobowens/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jakobowens) / [portfolio](https://amap.to/jakobowens/) / [Twitter](https://twitter.com/jakobOwenss)
+  Photo by [Alex Dukhanov](https://argtone.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/argtone) / [portfolio](https://argtone.com)
   
-  Taken at Unknown • 
+  Taken at Altai Republic, Россия • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.6181924,86.2199308)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS-1D X Mark II |
-| Exposure Time | 1/1250 |
-| Aperture      | 4.5 |
-| Focal Length  | 35.0 |
-| ISO           | 320 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D3400 |
+| Exposure Time | 1/80 |
+| Aperture      | 6.3 |
+| Focal Length  | 250.0 |
+| ISO           | 100 |
+| Location      | Altai Republic, Россия (Россия) |
+| Coordinates   | Latitude 50.6181924, Longitude 86.2199308 |
 
 </details>
 
