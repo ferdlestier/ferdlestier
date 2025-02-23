@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/shallow-focus-photo-of-green-trees-during-daytime-MFM8ASk4XNs"><img width="720" src="https://images.unsplash.com/photo-1578167597239-14f8fc680b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAyMDQ0OTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="shallow focus photo of green trees during daytime"></a>
+  <a href="https://unsplash.com/photos/jelly-fish-in-water-bviex5lwf3s"><img width="720" src="https://images.unsplash.com/photo-1441260038675-7329ab4cc264?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAyOTA4OTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="jelly fish in water"></a>
   
-  <em>shallow focus photo of green trees during daytime</em>
+  <em>jelly fish in water</em>
   
-  <em>Frosty morning in the forest.</em>
+  <em></em>
 
-  Photo by [Alex Dukhanov](https://argtone.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/argtone) / [portfolio](https://argtone.com)
+  Photo by [Danist Soh](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sushipingdanist)
   
-  Taken at Altai Republic, Россия • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.6181924,86.2199308)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D3400 |
-| Exposure Time | 1/80 |
-| Aperture      | 6.3 |
-| Focal Length  | 250.0 |
-| ISO           | 100 |
-| Location      | Altai Republic, Россия (Россия) |
-| Coordinates   | Latitude 50.6181924, Longitude 86.2199308 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
