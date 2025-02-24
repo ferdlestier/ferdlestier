@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/jelly-fish-in-water-bviex5lwf3s"><img width="720" src="https://images.unsplash.com/photo-1441260038675-7329ab4cc264?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAyOTA4OTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="jelly fish in water"></a>
+  <a href="https://unsplash.com/photos/selective-focus-photography-of-blue-kingfisher-vUNQaTtZeOo"><img width="720" src="https://images.unsplash.com/photo-1444464666168-49d633b86797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAzNzczOTN8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photography of blue kingfisher"></a>
   
-  <em>jelly fish in water</em>
+  <em>selective focus photography of blue kingfisher</em>
   
-  <em></em>
+  <em>Perched blue and orange bird</em>
 
-  Photo by [Danist Soh](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sushipingdanist)
+  Photo by [Vincent van Zalinge](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentvanzalinge)
   
-  Taken at Unknown • 
+  Taken at Oostvaardersplassen (Natuurreservaat), Lelystad, Nederland • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.4467258594769,5.41542433618156)
   
   ---
   
@@ -27,8 +27,8 @@
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Oostvaardersplassen (Natuurreservaat), Lelystad, Nederland (Nederland) |
+| Coordinates   | Latitude 52.4467258594769, Longitude 5.41542433618156 |
 
 </details>
 
