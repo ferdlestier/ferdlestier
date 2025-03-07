@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-sand-under-blue-sky-during-night-time-OtXJhYjbKeg"><img width="720" src="https://images.unsplash.com/photo-1612892483236-52d32a0e0ac1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDEyNDE2MDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown sand under blue sky during night time"></a>
+  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDEzMjc3NjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="seashore during golden hour"></a>
   
-  <em>brown sand under blue sky during night time</em>
+  <em>seashore during golden hour</em>
   
-  <em>I'm a solo traveller & photographer If you appreciate my work and my color you can follow me on Instagram @Daniele71043, Thank you!</em>
+  <em>The last night of a two week stay on the North Shore of Oahu, Hawaii.</em>
 
-  Photo by [Daniele Colucci](https://www.instagram.com/daniele71043/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Daniele71043) / [portfolio](https://www.instagram.com/daniele71043/) / [Twitter](https://twitter.com/Daniele71043)
+  Photo by [Sean Oulashin](http://www.seanoulashin.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
   
-  Taken at Wadi Rum Village, Giordania • [Google Maps](https://www.google.com/maps/search/?api=1&query=29.574299,35.421037)
+  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | A7II |
-| Exposure Time | 1/320 |
-| Aperture      | 3.5 |
-| Focal Length  | 35.0 |
-| ISO           | 400 |
-| Location      | Wadi Rum Village, Giordania (Giordania) |
-| Coordinates   | Latitude 29.574299, Longitude 35.421037 |
+| Camera Model  | Canon EOS REBEL T3i |
+| Exposure Time | 1/250 |
+| Aperture      | 4.5 |
+| Focal Length  | 10.0 |
+| ISO           | 200 |
+| Location      | North Shore, Waialua, United States (United States) |
+| Coordinates   | Latitude 21.5616575, Longitude -158.0715983 |
 
 </details>
 
