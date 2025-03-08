@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDEzMjc3NjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="seashore during golden hour"></a>
+  <a href="https://unsplash.com/photos/brown-and-green-leaf-tree-utqJcneoFjo"><img width="720" src="https://images.unsplash.com/photo-1446080501695-8e929f879f2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE0MTQwNDZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown and green leaf tree"></a>
   
-  <em>seashore during golden hour</em>
+  <em>brown and green leaf tree</em>
   
-  <em>The last night of a two week stay on the North Shore of Oahu, Hawaii.</em>
+  <em></em>
 
-  Photo by [Sean Oulashin](http://www.seanoulashin.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
+  Photo by [Jakub Sejkora](http://www.instagram.com/jakubsejkora) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jakubsejkora) / [portfolio](http://www.instagram.com/jakubsejkora)
   
-  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
+  Taken at Suché skály, Koberovy, Czech Republic • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.637074,15.211285)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T3i |
-| Exposure Time | 1/250 |
-| Aperture      | 4.5 |
-| Focal Length  | 10.0 |
-| ISO           | 200 |
-| Location      | North Shore, Waialua, United States (United States) |
-| Coordinates   | Latitude 21.5616575, Longitude -158.0715983 |
+| Camera Model  | HERO4 Black |
+| Exposure Time | 1/12 |
+| Aperture      | 2.8 |
+| Focal Length  | 3.0 |
+| ISO           | 100 |
+| Location      | Suché skály, Koberovy, Czech Republic (Czech Republic) |
+| Coordinates   | Latitude 50.637074, Longitude 15.211285 |
 
 </details>
 
