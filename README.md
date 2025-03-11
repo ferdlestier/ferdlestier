@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/red-trees-and-body-of-water-view-1ZOyYPOBn7I"><img width="720" src="https://images.unsplash.com/photo-1545105511-839f4a45a030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE1ODY5MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="red trees and body of water view"></a>
+  <a href="https://unsplash.com/photos/forest-with-brown-trees-_Mu6-0cwyEU"><img width="720" src="https://images.unsplash.com/photo-1461397821064-32d6b3c91b9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE2NzMzNzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest with brown trees"></a>
   
-  <em>red trees and body of water view</em>
+  <em>forest with brown trees</em>
   
-  <em>Blue Pond, Hokkaido</em>
+  <em>Trees in Sequoia National Park</em>
 
-  Photo by [Jarrett Kow](http://jarrettkow.vsco.co) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jarrettkow) / [portfolio](http://jarrettkow.vsco.co) / [Twitter](https://twitter.com/Jarrett_Kow)
+  Photo by [Susan Q Yin](https://www.syinq.fyi/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/syinq) / [portfolio](https://www.syinq.fyi/)
   
-  Taken at Unknown • 
+  Taken at Sequoia National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.4863668,-118.5657516)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/500 |
-| Aperture      | null |
-| Focal Length  | null |
+| Camera Model  | DMC-GX7 |
+| Exposure Time | 1/1600 |
+| Aperture      | 4.1 |
+| Focal Length  | 20.0 |
 | ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Sequoia National Park, United States (United States) |
+| Coordinates   | Latitude 36.4863668, Longitude -118.5657516 |
 
 </details>
 
