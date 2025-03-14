@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photography-of-tall-trees-at-daytime-MMJx78V7xS8"><img width="720" src="https://images.unsplash.com/photo-1425913397330-cf8af2ff40a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE4NDYxNzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="photography of tall trees at daytime"></a>
+  <a href="https://unsplash.com/photos/brown-and-green-leaf-tree-utqJcneoFjo"><img width="720" src="https://images.unsplash.com/photo-1446080501695-8e929f879f2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE5MzI1NjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown and green leaf tree"></a>
   
-  <em>photography of tall trees at daytime</em>
+  <em>brown and green leaf tree</em>
   
-  <em>Illuminated woods</em>
+  <em></em>
 
-  Photo by [Steven Kamenar](http://www.stevenkamenar.com) on [unsplash.com](https://unsplash.com/) • [portfolio](http://www.stevenkamenar.com)
+  Photo by [Jakub Sejkora](http://www.instagram.com/jakubsejkora) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jakubsejkora) / [portfolio](http://www.instagram.com/jakubsejkora)
   
-  Taken at Unknown • 
+  Taken at Suché skály, Koberovy, Czech Republic • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.637074,15.211285)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 5c |
-| Exposure Time | 1/120 |
-| Aperture      | 2.4 |
-| Focal Length  | 4.1 |
-| ISO           | 50 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | HERO4 Black |
+| Exposure Time | 1/12 |
+| Aperture      | 2.8 |
+| Focal Length  | 3.0 |
+| ISO           | 100 |
+| Location      | Suché skály, Koberovy, Czech Republic (Czech Republic) |
+| Coordinates   | Latitude 50.637074, Longitude 15.211285 |
 
 </details>
 
