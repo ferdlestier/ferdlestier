@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-and-green-leaf-tree-utqJcneoFjo"><img width="720" src="https://images.unsplash.com/photo-1446080501695-8e929f879f2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE5MzI1NjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown and green leaf tree"></a>
+  <a href="https://unsplash.com/photos/selective-focus-photography-of-blue-kingfisher-vUNQaTtZeOo"><img width="720" src="https://images.unsplash.com/photo-1444464666168-49d633b86797?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIwMTg5MDh8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photography of blue kingfisher"></a>
   
-  <em>brown and green leaf tree</em>
+  <em>selective focus photography of blue kingfisher</em>
   
-  <em></em>
+  <em>Perched blue and orange bird</em>
 
-  Photo by [Jakub Sejkora](http://www.instagram.com/jakubsejkora) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jakubsejkora) / [portfolio](http://www.instagram.com/jakubsejkora)
+  Photo by [Vincent van Zalinge](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentvanzalinge)
   
-  Taken at Suché skály, Koberovy, Czech Republic • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.637074,15.211285)
+  Taken at Oostvaardersplassen (Natuurreservaat), Lelystad, Nederland • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.4467258594769,5.41542433618156)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | HERO4 Black |
-| Exposure Time | 1/12 |
-| Aperture      | 2.8 |
-| Focal Length  | 3.0 |
-| ISO           | 100 |
-| Location      | Suché skály, Koberovy, Czech Republic (Czech Republic) |
-| Coordinates   | Latitude 50.637074, Longitude 15.211285 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Oostvaardersplassen (Natuurreservaat), Lelystad, Nederland (Nederland) |
+| Coordinates   | Latitude 52.4467258594769, Longitude 5.41542433618156 |
 
 </details>
 
