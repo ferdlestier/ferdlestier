@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/sun-rays-through-silhouette-of-trees-tLNRTxieD7k"><img width="720" src="https://images.unsplash.com/photo-1462290625486-c142817fb94d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIyNzgyMDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="sun rays through silhouette of trees"></a>
+  <a href="https://unsplash.com/photos/aerial-view-photography-of-forest-A-fubu9QJxE"><img width="720" src="https://images.unsplash.com/photo-1508144322886-717c284ab392?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIzNjQ1ODJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial view photography of forest"></a>
   
-  <em>sun rays through silhouette of trees</em>
+  <em>aerial view photography of forest</em>
   
-  <em>Sunrise breaking into the forest</em>
+  <em></em>
 
-  Photo by [Kristine Weilert](http://www.kristineweilert.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kristineweilert) / [portfolio](http://www.kristineweilert.com)
+  Photo by [Luca Bravo](https://instagram.com/lucabravo/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Unknown • 
+  Taken at Sorapiss, Auronzo di Cadore, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5955065889738,12.2647689260255)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T1 |
-| Exposure Time | 1/4000 |
-| Aperture      | 3.2 |
-| Focal Length  | 23.0 |
-| ISO           | 400 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | X-T20 |
+| Exposure Time | 1/60 |
+| Aperture      | 9.0 |
+| Focal Length  | 55.0 |
+| ISO           | 500 |
+| Location      | Sorapiss, Auronzo di Cadore, Italy (Italy) |
+| Coordinates   | Latitude 46.5955065889738, Longitude 12.2647689260255 |
 
 </details>
 
