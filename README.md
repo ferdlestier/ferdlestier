@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-with-wind-photo-WtwSsqwYlA0"><img width="720" src="https://images.unsplash.com/photo-1505672678657-cc7037095e60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI0NTA5Nzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="trees with wind photo"></a>
+  <a href="https://unsplash.com/photos/sepia-photography-of-bare-trees-zvf7cZ0PC20"><img width="720" src="https://images.unsplash.com/photo-1442473483905-95eb436675f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI1Mzc0Mzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="sepia photography of bare trees"></a>
   
-  <em>trees with wind photo</em>
+  <em>sepia photography of bare trees</em>
   
-  <em>Lonely Tree</em>
+  <em></em>
 
-  Photo by [Khamkéo](https://www.kham-keo.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mahkeo) / [portfolio](https://www.kham-keo.com/) / [Twitter](https://twitter.com/Mahkeo)
+  Photo by [Dikaseva](http://dikaseva.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dikaseva) / [portfolio](http://dikaseva.com/)
   
-  Taken at Iraty, Biarritz, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.462585,-1.5390218)
+  Taken at Kota Garut, Indonesia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-7.227906,107.908699)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5DS R |
-| Exposure Time | 1/320 |
-| Aperture      | 5.6 |
-| Focal Length  | 17.0 |
-| ISO           | 125 |
-| Location      | Iraty, Biarritz, France (France) |
-| Coordinates   | Latitude 43.462585, Longitude -1.5390218 |
+| Camera Model  | Canon EOS 650D |
+| Exposure Time | 1/30 |
+| Aperture      | 22.0 |
+| Focal Length  | 11.0 |
+| ISO           | 100 |
+| Location      | Kota Garut, Indonesia (Indonesia) |
+| Coordinates   | Latitude -7.227906, Longitude 107.908699 |
 
 </details>
 
