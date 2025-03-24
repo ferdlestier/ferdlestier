@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/desert-under-blue-sky-during-daytime-6KQETG8J-zI"><img width="720" src="https://images.unsplash.com/photo-1581610186406-5f6e9f9edbc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI3MTAxMjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="desert under blue sky during daytime"></a>
+  <a href="https://unsplash.com/photos/lavender-field-c1Jp-fo53U8"><img width="720" src="https://images.unsplash.com/photo-1499002238440-d264edd596ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI3OTY2MjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="lavender field"></a>
   
-  <em>desert under blue sky during daytime</em>
+  <em>lavender field</em>
   
-  <em>A few months ago, I shared the mobile size. Now, I share the original version from Infinity Dunes. I hope you will enjoy it. :)</em>
+  <em>Sunset over a lavender field</em>
 
-  Photo by [Daniel Olah](https://linktr.ee/Danesduet) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/danesduet) / [portfolio](https://linktr.ee/Danesduet) / [Twitter](https://twitter.com/danesduet)
+  Photo by [Léonard Cotte](https://ettocl.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/EttocL) / [portfolio](https://ettocl.com) / [Twitter](https://twitter.com/EttocL)
   
-  Taken at Abu Dhabi - United Arab Emirates • [Google Maps](https://www.google.com/maps/search/?api=1&query=24.453884,54.3773438)
+  Taken at Drôme, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.5298650604467,4.82497987792965)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800 |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Abu Dhabi - United Arab Emirates (United Arab Emirates) |
-| Coordinates   | Latitude 24.453884, Longitude 54.3773438 |
+| Camera Model  | NIKON D5300 |
+| Exposure Time | 1/250 |
+| Aperture      | 8 |
+| Focal Length  | 25.0 |
+| ISO           | 100 |
+| Location      | Drôme, France (France) |
+| Coordinates   | Latitude 44.5298650604467, Longitude 4.82497987792965 |
 
 </details>
 
