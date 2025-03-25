@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/lavender-field-c1Jp-fo53U8"><img width="720" src="https://images.unsplash.com/photo-1499002238440-d264edd596ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI3OTY2MjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="lavender field"></a>
+  <a href="https://unsplash.com/photos/withered-trees-under-clear-blue-sky-S2Q5mdOrrVc"><img width="720" src="https://images.unsplash.com/photo-1559160581-44bd4222d397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI4ODMwMDV8&ixlib=rb-4.0.3&q=80&w=1080" alt="withered trees under clear blue sky"></a>
   
-  <em>lavender field</em>
+  <em>withered trees under clear blue sky</em>
   
-  <em>Sunset over a lavender field</em>
+  <em></em>
 
-  Photo by [Léonard Cotte](https://ettocl.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/EttocL) / [portfolio](https://ettocl.com) / [Twitter](https://twitter.com/EttocL)
+  Photo by [Ashim D’Silva](https://ashim.myportfolio.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
   
-  Taken at Drôme, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.5298650604467,4.82497987792965)
+  Taken at Deadvlei, Sossusvlei, Namibia • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5300 |
-| Exposure Time | 1/250 |
-| Aperture      | 8 |
-| Focal Length  | 25.0 |
-| ISO           | 100 |
-| Location      | Drôme, France (France) |
-| Coordinates   | Latitude 44.5298650604467, Longitude 4.82497987792965 |
+| Camera Model  | X100T |
+| Exposure Time | 1/600 |
+| Aperture      | 5.6 |
+| Focal Length  | 23.0 |
+| ISO           | 200 |
+| Location      | Deadvlei, Sossusvlei, Namibia (Namibia) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
