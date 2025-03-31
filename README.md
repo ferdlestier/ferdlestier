@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/river-beside-trees-and-grass-field-jlVEj8IDPQc"><img width="720" src="https://images.unsplash.com/photo-1528184039930-bd03972bd974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDMzMTQ5MzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="river beside trees and grass field"></a>
+  <a href="https://unsplash.com/photos/shallow-focus-photo-of-green-trees-during-daytime-MFM8ASk4XNs"><img width="720" src="https://images.unsplash.com/photo-1578167597239-14f8fc680b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM0MDE0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="shallow focus photo of green trees during daytime"></a>
   
-  <em>river beside trees and grass field</em>
+  <em>shallow focus photo of green trees during daytime</em>
   
-  <em>On a perfect spring morning Beverley Brook, a small but beautiful river that meanders through London’s Richmond Park, takes on a fairy tail quality in the dawn mist.</em>
+  <em>Frosty morning in the forest.</em>
 
-  Photo by [Simon Wilkes](http://www.simonwilkes.co.uk) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/simonfromengland) / [portfolio](http://www.simonwilkes.co.uk)
+  Photo by [Alex Dukhanov](https://argtone.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/argtone) / [portfolio](https://argtone.com)
   
-  Taken at Beverley Brook, London, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.4522677587573,-0.258248370483443)
+  Taken at Altai Republic, Россия • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.6181924,86.2199308)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100T |
+| Camera Model  | NIKON D3400 |
 | Exposure Time | 1/80 |
-| Aperture      | 2.0 |
-| Focal Length  | 19.0 |
-| ISO           | 200 |
-| Location      | Beverley Brook, London, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 51.4522677587573, Longitude -0.258248370483443 |
+| Aperture      | 6.3 |
+| Focal Length  | 250.0 |
+| ISO           | 100 |
+| Location      | Altai Republic, Россия (Россия) |
+| Coordinates   | Latitude 50.6181924, Longitude 86.2199308 |
 
 </details>
 
