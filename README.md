@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/shallow-focus-photo-of-green-trees-during-daytime-MFM8ASk4XNs"><img width="720" src="https://images.unsplash.com/photo-1578167597239-14f8fc680b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM0MDE0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="shallow focus photo of green trees during daytime"></a>
+  <a href="https://unsplash.com/photos/green-pane-trees-_NM6bXPqaCE"><img width="720" src="https://images.unsplash.com/photo-1488489153583-89ce18dd4968?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM0ODc4MTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pane trees"></a>
   
-  <em>shallow focus photo of green trees during daytime</em>
+  <em>green pane trees</em>
   
-  <em>Frosty morning in the forest.</em>
+  <em>Drone Forest</em>
 
-  Photo by [Alex Dukhanov](https://argtone.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/argtone) / [portfolio](https://argtone.com)
+  Photo by [Geranimo](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gerandeklerk) / [Twitter](https://twitter.com/gerandeklerk)
   
-  Taken at Altai Republic, Россия • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.6181924,86.2199308)
+  Taken at Gävle, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.6748796,17.1412726)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D3400 |
-| Exposure Time | 1/80 |
-| Aperture      | 6.3 |
-| Focal Length  | 250.0 |
+| Camera Model  | FC300X |
+| Exposure Time | 1/120 |
+| Aperture      | 2.8 |
+| Focal Length  | 3.6 |
 | ISO           | 100 |
-| Location      | Altai Republic, Россия (Россия) |
-| Coordinates   | Latitude 50.6181924, Longitude 86.2199308 |
+| Location      | Gävle, Sweden (Sweden) |
+| Coordinates   | Latitude 60.6748796, Longitude 17.1412726 |
 
 </details>
 
