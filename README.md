@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/tree-between-green-land-during-golden-hour-T-LfvX-7IVg"><img width="720" src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM1NzQyMTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="tree between green land during golden hour"></a>
+  <a href="https://unsplash.com/photos/green-pine-trees-on-foggy-weather-7b39feeIMO0"><img width="720" src="https://images.unsplash.com/photo-1588204784390-d3b85c298e29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM2NjA2MTN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pine trees on foggy weather"></a>
   
-  <em>tree between green land during golden hour</em>
+  <em>green pine trees on foggy weather</em>
   
-  <em>Sunset tree in Kenya Safari, Africa</em>
+  <em>I took 5 whole minutes to take in this beautiful view when I first saw it.</em>
 
-  Photo by [Damian Patkowski](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/damian.patkowski) / [Twitter](https://twitter.com/damianpatkowski)
+  Photo by [Ali Kazal](https://www.lureofadventure.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/LureOfAdventure) / [portfolio](https://www.lureofadventure.com/) / [Twitter](https://twitter.com/LureOfAdventure)
   
-  Taken at Tsavo East National Park Kenya, Africa, Kenya • 
+  Taken at Jacques-Cartier National Park, Chemin du Parc-National, Stoneham-et-Tewkesbury, QC, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.174089,-71.367727)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5200 |
-| Exposure Time | 1/2000 |
-| Aperture      | 8.0 |
-| Focal Length  | 25.0 |
-| ISO           | 400 |
-| Location      | Tsavo East National Park Kenya, Africa, Kenya (Kenya) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Pixel |
+| Exposure Time | 1/500 |
+| Aperture      | 2 |
+| Focal Length  | 4.7 |
+| ISO           | 51 |
+| Location      | Jacques-Cartier National Park, Chemin du Parc-National, Stoneham-et-Tewkesbury, QC, Canada (Canada) |
+| Coordinates   | Latitude 47.174089, Longitude -71.367727 |
 
 </details>
 
