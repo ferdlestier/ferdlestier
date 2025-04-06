@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-on-forest-with-sun-rays-sp-p7uuT0tw"><img width="720" src="https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM4MzMzMzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="trees on forest with sun rays"></a>
+  <a href="https://unsplash.com/photos/forest-with-brown-trees-_Mu6-0cwyEU"><img width="720" src="https://images.unsplash.com/photo-1461397821064-32d6b3c91b9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM5MTk3NTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest with brown trees"></a>
   
-  <em>trees on forest with sun rays</em>
+  <em>forest with brown trees</em>
   
-  <em>Entering another dimension...</em>
+  <em>Trees in Sequoia National Park</em>
 
-  Photo by [Sebastian Unrau](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
+  Photo by [Susan Q Yin](https://www.syinq.fyi/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/syinq) / [portfolio](https://www.syinq.fyi/)
   
-  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
+  Taken at Sequoia National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.4863668,-118.5657516)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 1/160 |
-| Aperture      | 8 |
-| Focal Length  | 16.0 |
-| ISO           | 250 |
-| Location      | Bad Pyrmont, Deutschland (Deutschland) |
-| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
+| Camera Model  | DMC-GX7 |
+| Exposure Time | 1/1600 |
+| Aperture      | 4.1 |
+| Focal Length  | 20.0 |
+| ISO           | 200 |
+| Location      | Sequoia National Park, United States (United States) |
+| Coordinates   | Latitude 36.4863668, Longitude -118.5657516 |
 
 </details>
 
