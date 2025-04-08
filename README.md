@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/gray-and-brown-rock-formation-and-mountain-near-body-of-water-zfLVcDeDKes"><img width="720" src="https://images.unsplash.com/photo-1544738502-849ab3c63e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQwMDYyNTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="gray and brown rock formation and mountain near body of water"></a>
+  <a href="https://unsplash.com/photos/forest-with-brown-trees-_Mu6-0cwyEU"><img width="720" src="https://images.unsplash.com/photo-1461397821064-32d6b3c91b9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQwOTI2MTh8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest with brown trees"></a>
   
-  <em>gray and brown rock formation and mountain near body of water</em>
+  <em>forest with brown trees</em>
   
-  <em>This arch formed as a result of two caves weathering away and meeting together. In fact, the shape of the Green Bridge has changed as recently as October 2017, when Storm Ophelia knocked a good chunk off the “knee” of the arch.</em>
+  <em>Trees in Sequoia National Park</em>
 
-  Photo by [Ian Cylkowski](https://www.iancylkowski.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/iancylkowskiphotography) / [portfolio](https://www.iancylkowski.com)
+  Photo by [Susan Q Yin](https://www.syinq.fyi/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/syinq) / [portfolio](https://www.syinq.fyi/)
   
-  Taken at Green Bridge of Wales, Castlemartin, Wales • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.610488,-4.999835)
+  Taken at Sequoia National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.4863668,-118.5657516)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | dp0 Quattro |
-| Exposure Time | null |
-| Aperture      | 11 |
-| Focal Length  | 14 |
-| ISO           | 100 |
-| Location      | Green Bridge of Wales, Castlemartin, Wales (Wales) |
-| Coordinates   | Latitude 51.610488, Longitude -4.999835 |
+| Camera Model  | DMC-GX7 |
+| Exposure Time | 1/1600 |
+| Aperture      | 4.1 |
+| Focal Length  | 20.0 |
+| ISO           | 200 |
+| Location      | Sequoia National Park, United States (United States) |
+| Coordinates   | Latitude 36.4863668, Longitude -118.5657516 |
 
 </details>
 
