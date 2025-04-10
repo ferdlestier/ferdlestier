@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/five-birds-flying-on-the-sea-OD9EOzfSOh0"><img width="720" src="https://images.unsplash.com/photo-1471922694854-ff1b63b20054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQxNzkwMzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="five birds flying on the sea"></a>
+  <a href="https://unsplash.com/photos/green-pine-trees-on-foggy-weather-7b39feeIMO0"><img width="720" src="https://images.unsplash.com/photo-1588204784390-d3b85c298e29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQyNjU0MDZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pine trees on foggy weather"></a>
   
-  <em>five birds flying on the sea</em>
+  <em>green pine trees on foggy weather</em>
   
-  <em></em>
+  <em>I took 5 whole minutes to take in this beautiful view when I first saw it.</em>
 
-  Photo by [frank mckenna](http://blog.frankiefoto.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/frankiefoto) / [portfolio](http://blog.frankiefoto.com)
+  Photo by [Ali Kazal](https://www.lureofadventure.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/LureOfAdventure) / [portfolio](https://www.lureofadventure.com/) / [Twitter](https://twitter.com/LureOfAdventure)
   
-  Taken at San Diego, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.715738,-117.1610838)
+  Taken at Jacques-Cartier National Park, Chemin du Parc-National, Stoneham-et-Tewkesbury, QC, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.174089,-71.367727)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D4 |
-| Exposure Time | 1/800 |
-| Aperture      | 5.0 |
-| Focal Length  | 14.0 |
-| ISO           | 1250 |
-| Location      | San Diego, United States (United States) |
-| Coordinates   | Latitude 32.715738, Longitude -117.1610838 |
+| Camera Model  | Pixel |
+| Exposure Time | 1/500 |
+| Aperture      | 2 |
+| Focal Length  | 4.7 |
+| ISO           | 51 |
+| Location      | Jacques-Cartier National Park, Chemin du Parc-National, Stoneham-et-Tewkesbury, QC, Canada (Canada) |
+| Coordinates   | Latitude 47.174089, Longitude -71.367727 |
 
 </details>
 
