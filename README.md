@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-pine-trees-on-foggy-weather-7b39feeIMO0"><img width="720" src="https://images.unsplash.com/photo-1588204784390-d3b85c298e29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQyNjU0MDZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pine trees on foggy weather"></a>
+  <a href="https://unsplash.com/photos/calm-lake-with-mist-during-daytime--zZ60jFNKWI"><img width="720" src="https://images.unsplash.com/photo-1506385131333-6cd291d2501a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQzNTE4MTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm lake with mist during daytime"></a>
   
-  <em>green pine trees on foggy weather</em>
+  <em>calm lake with mist during daytime</em>
   
-  <em>I took 5 whole minutes to take in this beautiful view when I first saw it.</em>
+  <em></em>
 
-  Photo by [Ali Kazal](https://www.lureofadventure.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/LureOfAdventure) / [portfolio](https://www.lureofadventure.com/) / [Twitter](https://twitter.com/LureOfAdventure)
+  Photo by [Joel Cross](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joel.cross) / [Twitter](https://twitter.com/joeIcross)
   
-  Taken at Jacques-Cartier National Park, Chemin du Parc-National, Stoneham-et-Tewkesbury, QC, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.174089,-71.367727)
+  Taken at Kwai Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.6973489,-125.3374423)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Pixel |
+| Camera Model  | NIKON D5200 |
 | Exposure Time | 1/500 |
-| Aperture      | 2 |
-| Focal Length  | 4.7 |
-| ISO           | 51 |
-| Location      | Jacques-Cartier National Park, Chemin du Parc-National, Stoneham-et-Tewkesbury, QC, Canada (Canada) |
-| Coordinates   | Latitude 47.174089, Longitude -71.367727 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 400 |
+| Location      | Kwai Lake, Canada (Canada) |
+| Coordinates   | Latitude 49.6973489, Longitude -125.3374423 |
 
 </details>
 
