@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/clear-blue-body-of-water-XexawgzYOBc"><img width="720" src="https://images.unsplash.com/photo-1530053969600-caed2596d242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ2MTEwNDF8&ixlib=rb-4.0.3&q=80&w=1080" alt="clear blue body of water"></a>
+  <a href="https://unsplash.com/photos/flying-birds-above-herd-of-animals-near-trees-jj2ab1xIxrg"><img width="720" src="https://images.unsplash.com/photo-1506333438925-a6203045b492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ2OTc0MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="flying birds above herd of animals near trees"></a>
   
-  <em>clear blue body of water</em>
+  <em>flying birds above herd of animals near trees</em>
   
-  <em>Underwater and lights</em>
+  <em>Landscape</em>
 
-  Photo by [Cristian Palmer](https://www.instagram.com/icristianla/?hl=es) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/icristianla) / [portfolio](https://www.instagram.com/icristianla/?hl=es)
+  Photo by [Vincent van Zalinge](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentvanzalinge)
   
-  Taken at Canary Islands, Spain • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.2915637,-16.6291304)
+  Taken at Oostvaardersplassen, Lelystad, Netherlands • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.4656505879563,5.39205570111085)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | HERO6 Black |
-| Exposure Time | 1/240 |
-| Aperture      | 2.8 |
-| Focal Length  | 3.0 |
-| ISO           | 181 |
-| Location      | Canary Islands, Spain (Spain) |
-| Coordinates   | Latitude 28.2915637, Longitude -16.6291304 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Oostvaardersplassen, Lelystad, Netherlands (Netherlands) |
+| Coordinates   | Latitude 52.4656505879563, Longitude 5.39205570111085 |
 
 </details>
 
