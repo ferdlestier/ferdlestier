@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/flying-birds-above-herd-of-animals-near-trees-jj2ab1xIxrg"><img width="720" src="https://images.unsplash.com/photo-1506333438925-a6203045b492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ2OTc0MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="flying birds above herd of animals near trees"></a>
+  <a href="https://unsplash.com/photos/blue-flower-L6g30JaQ5Tc"><img width="720" src="https://images.unsplash.com/photo-1506508839781-65d2a514b73a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ3ODM4MjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="blue flower"></a>
   
-  <em>flying birds above herd of animals near trees</em>
+  <em>blue flower</em>
   
-  <em>Landscape</em>
+  <em>Eyeculent</em>
 
-  Photo by [Vincent van Zalinge](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentvanzalinge)
+  Photo by [Yousef Espanioly](http://instagram.com/yespanioly) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yespanioly) / [portfolio](http://instagram.com/yespanioly)
   
-  Taken at Oostvaardersplassen, Lelystad, Netherlands • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.4656505879563,5.39205570111085)
+  Taken at Nazareth, Israel • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.699635,35.303546)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Oostvaardersplassen, Lelystad, Netherlands (Netherlands) |
-| Coordinates   | Latitude 52.4656505879563, Longitude 5.39205570111085 |
+| Camera Model  | NIKON D3200 |
+| Exposure Time | 1/250 |
+| Aperture      | 2.0 |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
+| Location      | Nazareth, Israel (Israel) |
+| Coordinates   | Latitude 32.699635, Longitude 35.303546 |
 
 </details>
 
