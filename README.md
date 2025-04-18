@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/withered-tree-surrounded-with-snow-during-daytime-Du41jIaI5Ww"><img width="720" src="https://images.unsplash.com/photo-1520262454473-a1a82276a574?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ4NzAyMTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="withered tree surrounded with snow during daytime"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-frame-DuMeluMTKZk"><img width="720" src="https://images.unsplash.com/photo-1524335397764-f98987c51095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ5NTY2MTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden frame"></a>
   
-  <em>withered tree surrounded with snow during daytime</em>
+  <em>brown wooden frame</em>
   
-  <em></em>
+  <em>One of my favorite things to photograph are tree stumps. Rattlesnake Lake in Washington offers a plethora of tree stumps to photograph. I spent 3 hours on this particular day photographing tree stumps. It was awesome.</em>
 
-  Photo by [Fabrice Villard](http://paypal.me/FabriceVillard) on [unsplash.com](https://unsplash.com/) • [portfolio](http://paypal.me/FabriceVillard)
+  Photo by [Dave Hoefler](https://www.davehoefler.com/) on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.davehoefler.com/)
   
-  Taken at Unknown • 
+  Taken at Rattlesnake Lake, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4307783,-121.7750516)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T1 |
-| Exposure Time | 1/140 |
-| Aperture      | 5.0 |
-| Focal Length  | 23.0 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 40 |
+| Aperture      | 10.0 |
+| Focal Length  | 135.0 |
+| ISO           | 100 |
+| Location      | Rattlesnake Lake, United States (United States) |
+| Coordinates   | Latitude 47.4307783, Longitude -121.7750516 |
 
 </details>
 
