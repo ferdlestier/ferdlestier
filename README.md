@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-frame-DuMeluMTKZk"><img width="720" src="https://images.unsplash.com/photo-1524335397764-f98987c51095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ5NTY2MTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden frame"></a>
+  <a href="https://unsplash.com/photos/ocean-wave-UCDiLtfDRgU"><img width="720" src="https://images.unsplash.com/photo-1493441883526-0ed85220dc0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDUwNDI5NDd8&ixlib=rb-4.0.3&q=80&w=1080" alt="ocean wave"></a>
   
-  <em>brown wooden frame</em>
+  <em>ocean wave</em>
   
-  <em>One of my favorite things to photograph are tree stumps. Rattlesnake Lake in Washington offers a plethora of tree stumps to photograph. I spent 3 hours on this particular day photographing tree stumps. It was awesome.</em>
+  <em>La Jolla Waves</em>
 
-  Photo by [Dave Hoefler](https://www.davehoefler.com/) on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.davehoefler.com/)
+  Photo by [Matt Howard](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/thematthoward)
   
-  Taken at Rattlesnake Lake, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4307783,-121.7750516)
+  Taken at Children's Pool Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.849005,-117.27712)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 40 |
-| Aperture      | 10.0 |
-| Focal Length  | 135.0 |
+| Camera Model  | FC300X |
+| Exposure Time | 1/50 |
+| Aperture      | 2.8 |
+| Focal Length  | 3.6 |
 | ISO           | 100 |
-| Location      | Rattlesnake Lake, United States (United States) |
-| Coordinates   | Latitude 47.4307783, Longitude -121.7750516 |
+| Location      | Children's Pool Beach, United States (United States) |
+| Coordinates   | Latitude 32.849005, Longitude -117.27712 |
 
 </details>
 
