@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/orange-leafed-trees-vHeXw6Nj_BM"><img width="720" src="https://images.unsplash.com/photo-1420585250056-371a656025ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDU4MjA5OTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="orange leafed trees"></a>
+  <a href="https://unsplash.com/photos/green-leafed-tree-4yK5lLfRDWE"><img width="720" src="https://images.unsplash.com/photo-1545840893-d59d0bf89825?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDU5MDcwNTN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green-leafed tree"></a>
   
-  <em>orange leafed trees</em>
+  <em>green-leafed tree</em>
   
-  <em>Birch trees in autumn</em>
+  <em>Tuluk River & Rocks</em>
 
-  Photo by [John Price](http://www.johnpriceonline.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnpriceonline) / [portfolio](http://www.johnpriceonline.com) / [Twitter](https://twitter.com/johnpriceonline)
+  Photo by [Daniil Silantev](https://www.instagram.com/silantevdan) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/silantevdan) / [portfolio](https://www.instagram.com/silantevdan) / [Twitter](https://twitter.com/betagamma)
   
-  Taken at Unknown • 
+  Taken at Tuluk River • 
   
   ---
   
@@ -22,12 +22,12 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 60D |
-| Exposure Time | 1/320 |
-| Aperture      | 5.0 |
-| Focal Length  | 70.0 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/60 |
+| Aperture      | 7.1 |
+| Focal Length  | 24.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
+| Location      | Tuluk River (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 </details>
