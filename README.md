@@ -5,15 +5,17 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/red-trees-and-body-of-water-view-1ZOyYPOBn7I"><img width="720" src="https://images.unsplash.com/photo-1545105511-839f4a45a030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDYxNjYyMjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="red trees and body of water view"></a>
+  <a href="https://unsplash.com/photos/island-surrounded-by-water-z_9VmsxR8hs"><img width="720" src="https://images.unsplash.com/photo-1551978429-3dbfed5cacc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDYyNTI1NTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="island surrounded by water"></a>
   
-  <em>red trees and body of water view</em>
+  <em>island surrounded by water</em>
   
-  <em>Blue Pond, Hokkaido</em>
+  <em>A small isle in the Eibsee at the beginning of November in 2018. Because it was a really nice and warm day some canoeists stayed at the island in the sund to relax.
 
-  Photo by [Jarrett Kow](http://jarrettkow.vsco.co) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jarrettkow) / [portfolio](http://jarrettkow.vsco.co) / [Twitter](https://twitter.com/Jarrett_Kow)
+This is the horizontal version of a photo I already posted last year.</em>
+
+  Photo by [Daniel Seßler](http://danielsessler.photos) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daniel.sessler) / [portfolio](http://danielsessler.photos)
   
-  Taken at Unknown • 
+  Taken at Eibsee, Grainau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4562353,10.9728807)
   
   ---
   
@@ -22,13 +24,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/500 |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-7R |
+| Exposure Time | 1/160 |
+| Aperture      | 4 |
+| Focal Length  | 95.0 |
+| ISO           | 100 |
+| Location      | Eibsee, Grainau, Germany (Germany) |
+| Coordinates   | Latitude 47.4562353, Longitude 10.9728807 |
 
 </details>
 
