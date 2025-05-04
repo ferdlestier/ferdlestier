@@ -5,17 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/island-surrounded-by-water-z_9VmsxR8hs"><img width="720" src="https://images.unsplash.com/photo-1551978429-3dbfed5cacc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDYyNTI1NTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="island surrounded by water"></a>
+  <a href="https://unsplash.com/photos/low-angle-photo-of-pine-trees-WJkc3xZjSXw"><img width="720" src="https://images.unsplash.com/photo-1473773508845-188df298d2d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDYzMzg5Njh8&ixlib=rb-4.0.3&q=80&w=1080" alt="low angle photo of pine trees"></a>
   
-  <em>island surrounded by water</em>
+  <em>low angle photo of pine trees</em>
   
-  <em>A small isle in the Eibsee at the beginning of November in 2018. Because it was a really nice and warm day some canoeists stayed at the island in the sund to relax.
+  <em>Remote forest path</em>
 
-This is the horizontal version of a photo I already posted last year.</em>
-
-  Photo by [Daniel Seßler](http://danielsessler.photos) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daniel.sessler) / [portfolio](http://danielsessler.photos)
+  Photo by [Geranimo](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gerandeklerk) / [Twitter](https://twitter.com/gerandeklerk)
   
-  Taken at Eibsee, Grainau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4562353,10.9728807)
+  Taken at Gävle, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.6748796,17.1412726)
   
   ---
   
@@ -24,13 +22,13 @@ This is the horizontal version of a photo I already posted last year.</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7R |
-| Exposure Time | 1/160 |
-| Aperture      | 4 |
-| Focal Length  | 95.0 |
-| ISO           | 100 |
-| Location      | Eibsee, Grainau, Germany (Germany) |
-| Coordinates   | Latitude 47.4562353, Longitude 10.9728807 |
+| Camera Model  | FC300X |
+| Exposure Time | 1/100 |
+| Aperture      | 2.8 |
+| Focal Length  | 3.6 |
+| ISO           | 103 |
+| Location      | Gävle, Sweden (Sweden) |
+| Coordinates   | Latitude 60.6748796, Longitude 17.1412726 |
 
 </details>
 
