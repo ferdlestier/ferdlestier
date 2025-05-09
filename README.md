@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/swamp-surrounded-with-green-pine-trees-during-daytime-I4ScSrKsfIg"><img width="720" src="https://images.unsplash.com/photo-1467625575448-2ef10dabab8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY2ODQ2Mzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="swamp surrounded with green pine trees during daytime"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-trees-and-purple-lightning-jh2KTqHLMjE"><img width="720" src="https://images.unsplash.com/photo-1472145246862-b24cf25c4a36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY3NzEwNjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of trees and purple lightning"></a>
   
-  <em>swamp surrounded with green pine trees during daytime</em>
+  <em>silhouette of trees and purple lightning</em>
   
-  <em></em>
+  <em>Lightning and trees</em>
 
-  Photo by [Chloé Lam](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Jeremy Thomas](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jeremythomasphoto) / [Twitter](https://twitter.com/Jeremytphoto)
   
-  Taken at Donghu Lake, Wuhan, China • [Google Maps](https://www.google.com/maps/search/?api=1&query=30.554201,114.3876237)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D610 |
-| Exposure Time | 1/125 |
-| Aperture      | 2.8 |
-| Focal Length  | 70.0 |
-| ISO           | 400 |
-| Location      | Donghu Lake, Wuhan, China (China) |
-| Coordinates   | Latitude 30.554201, Longitude 114.3876237 |
+| Camera Model  | Canon EOS REBEL T4i |
+| Exposure Time | 10 |
+| Aperture      | 6.3 |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
