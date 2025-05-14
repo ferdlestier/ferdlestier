@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-with-wind-photo-WtwSsqwYlA0"><img width="720" src="https://images.unsplash.com/photo-1505672678657-cc7037095e60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDcxMTY2MzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="trees with wind photo"></a>
+  <a href="https://unsplash.com/photos/body-of-water-under-sky-6ArTTluciuA"><img width="720" src="https://images.unsplash.com/photo-1518837695005-2083093ee35b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDcyMDMwMzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water under sky"></a>
   
-  <em>trees with wind photo</em>
+  <em>body of water under sky</em>
   
-  <em>Lonely Tree</em>
+  <em>Ocean Ripple</em>
 
-  Photo by [Khamkéo](https://www.kham-keo.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mahkeo) / [portfolio](https://www.kham-keo.com/) / [Twitter](https://twitter.com/Mahkeo)
+  Photo by [Matt Hardy](http://matthardy.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/matthardyphoto) / [portfolio](http://matthardy.com)
   
-  Taken at Iraty, Biarritz, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.462585,-1.5390218)
+  Taken at Bondi Beach, Australia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-33.89102,151.277726)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5DS R |
-| Exposure Time | 1/320 |
-| Aperture      | 5.6 |
-| Focal Length  | 17.0 |
-| ISO           | 125 |
-| Location      | Iraty, Biarritz, France (France) |
-| Coordinates   | Latitude 43.462585, Longitude -1.5390218 |
+| Camera Model  | ILCE-6300 |
+| Exposure Time | 1/4000 |
+| Aperture      | 2.8 |
+| Focal Length  | 35.0 |
+| ISO           | 800 |
+| Location      | Bondi Beach, Australia (Australia) |
+| Coordinates   | Latitude -33.89102, Longitude 151.277726 |
 
 </details>
 
