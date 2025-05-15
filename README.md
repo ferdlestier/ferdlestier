@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-under-sky-6ArTTluciuA"><img width="720" src="https://images.unsplash.com/photo-1518837695005-2083093ee35b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDcyMDMwMzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water under sky"></a>
+  <a href="https://unsplash.com/photos/trees-and-aurora-rays-ZSMgNjYrHRM"><img width="720" src="https://images.unsplash.com/photo-1430132594682-16e1185b17c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDcyODk0MzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="trees and aurora rays"></a>
   
-  <em>body of water under sky</em>
+  <em>trees and aurora rays</em>
   
-  <em>Ocean Ripple</em>
+  <em></em>
 
-  Photo by [Matt Hardy](http://matthardy.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/matthardyphoto) / [portfolio](http://matthardy.com)
+  Photo by [Nelly Volkovich](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nellyvolkovich)
   
-  Taken at Bondi Beach, Australia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-33.89102,151.277726)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6300 |
-| Exposure Time | 1/4000 |
-| Aperture      | 2.8 |
-| Focal Length  | 35.0 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 30 |
+| Aperture      | 4.0 |
+| Focal Length  | 24.0 |
 | ISO           | 800 |
-| Location      | Bondi Beach, Australia (Australia) |
-| Coordinates   | Latitude -33.89102, Longitude 151.277726 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
