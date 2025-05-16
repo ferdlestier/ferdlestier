@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-and-aurora-rays-ZSMgNjYrHRM"><img width="720" src="https://images.unsplash.com/photo-1430132594682-16e1185b17c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDcyODk0MzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="trees and aurora rays"></a>
+  <a href="https://unsplash.com/photos/closeup-photography-of-plant-on-ground-vGjGvtSfys4"><img width="720" src="https://images.unsplash.com/photo-1458014854819-1a40aa70211c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDczNzU4Mzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="closeup photography of plant on ground"></a>
   
-  <em>trees and aurora rays</em>
+  <em>closeup photography of plant on ground</em>
   
   <em></em>
 
-  Photo by [Nelly Volkovich](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nellyvolkovich)
+  Photo by [Jeremy Bishop](https://www.jeremybishopphotography.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
   
-  Taken at Unknown • 
+  Taken at Sunshine Coast, Australia • [Google Maps](https://www.google.com/maps/search/?api=1&query=-26.6559759,153.0918365)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 30 |
-| Aperture      | 4.0 |
-| Focal Length  | 24.0 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 1/40 |
+| Aperture      | 1.8 |
+| Focal Length  | 50.0 |
 | ISO           | 800 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Sunshine Coast, Australia (Australia) |
+| Coordinates   | Latitude -26.6559759, Longitude 153.0918365 |
 
 </details>
 
