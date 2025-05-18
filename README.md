@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/withered-tree-surrounded-with-snow-during-daytime-Du41jIaI5Ww"><img width="720" src="https://images.unsplash.com/photo-1520262454473-a1a82276a574?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc0NjIxNTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="withered tree surrounded with snow during daytime"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-photography-of-trees-and-body-of-water-mawU2PoJWfU"><img width="720" src="https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc1NDg1Njd8&ixlib=rb-4.1.0&q=80&w=1080" alt="bird's eye view photography of trees and body of water"></a>
   
-  <em>withered tree surrounded with snow during daytime</em>
+  <em>bird's eye view photography of trees and body of water</em>
   
-  <em></em>
+  <em>Blue lake and green shore</em>
 
-  Photo by [Fabrice Villard](http://paypal.me/FabriceVillard) on [unsplash.com](https://unsplash.com/) • [portfolio](http://paypal.me/FabriceVillard)
+  Photo by [Andreas Gücklhorn](https://guecklhorn.com/) on [unsplash.com](https://unsplash.com/) • [portfolio](https://guecklhorn.com/) / [Twitter](https://twitter.com/guecklhorn)
   
-  Taken at Unknown • 
+  Taken at Lake Brienz, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7267426,7.96747289999996)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T1 |
-| Exposure Time | 1/140 |
-| Aperture      | 5.0 |
-| Focal Length  | 23.0 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lake Brienz, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.7267426, Longitude 7.96747289999996 |
 
 </details>
 
