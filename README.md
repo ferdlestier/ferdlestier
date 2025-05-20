@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/blue-flower-L6g30JaQ5Tc"><img width="720" src="https://images.unsplash.com/photo-1506508839781-65d2a514b73a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc2MzUwNzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue flower"></a>
+  <a href="https://unsplash.com/photos/sea-of-clouds-fHXP17AxOEk"><img width="720" src="https://images.unsplash.com/photo-1475727946784-2890c8fdb9c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc3MjE0NTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="sea of clouds"></a>
   
-  <em>blue flower</em>
+  <em>sea of clouds</em>
   
-  <em>Eyeculent</em>
+  <em></em>
 
-  Photo by [Yousef Espanioly](http://instagram.com/yespanioly) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yespanioly) / [portfolio](http://instagram.com/yespanioly)
+  Photo by [Arto Marttinen](https://wandervisions.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/arto_marttinen) / [portfolio](https://wandervisions.com)
   
-  Taken at Nazareth, Israel • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.699635,35.303546)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D3200 |
-| Exposure Time | 1/250 |
-| Aperture      | 2.0 |
-| Focal Length  | 50.0 |
+| Camera Model  | ILCE-7SM2 |
+| Exposure Time | 1/80 |
+| Aperture      | 8.0 |
+| Focal Length  | 24.0 |
 | ISO           | 100 |
-| Location      | Nazareth, Israel (Israel) |
-| Coordinates   | Latitude 32.699635, Longitude 35.303546 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
