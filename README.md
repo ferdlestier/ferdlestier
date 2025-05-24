@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-view-of-beach-shore-EwRM05V0VSI"><img width="720" src="https://images.unsplash.com/photo-1489914099268-1dad649f76bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc5ODA2NDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial view of beach shore"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-trees-e6XsI7qqvAA"><img width="720" src="https://images.unsplash.com/photo-1462717585237-7fafe19c5448?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgwNjY5NTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of trees"></a>
   
-  <em>aerial view of beach shore</em>
+  <em>silhouette of trees</em>
   
-  <em>Waves</em>
+  <em></em>
 
-  Photo by [Jakob Owens](https://amap.to/jakobowens/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jakobowens) / [portfolio](https://amap.to/jakobowens/) / [Twitter](https://twitter.com/jakobOwenss)
+  Photo by [Ju On](http://www.hyenas.at) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/juon44) / [portfolio](http://www.hyenas.at) / [Twitter](https://twitter.com/juon44)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS-1D X Mark II |
-| Exposure Time | 1/1250 |
-| Aperture      | 4.5 |
-| Focal Length  | 35.0 |
-| ISO           | 320 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
