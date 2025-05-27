@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/swamp-surrounded-with-green-pine-trees-during-daytime-I4ScSrKsfIg"><img width="720" src="https://images.unsplash.com/photo-1467625575448-2ef10dabab8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgyMzk4Nzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="swamp surrounded with green pine trees during daytime"></a>
+  <a href="https://unsplash.com/photos/withered-trees-under-clear-blue-sky-S2Q5mdOrrVc"><img width="720" src="https://images.unsplash.com/photo-1559160581-44bd4222d397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgzMjYyMjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="withered trees under clear blue sky"></a>
   
-  <em>swamp surrounded with green pine trees during daytime</em>
+  <em>withered trees under clear blue sky</em>
   
   <em></em>
 
-  Photo by [Chloé Lam](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Ashim D’Silva](https://ashim.myportfolio.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
   
-  Taken at Donghu Lake, Wuhan, China • [Google Maps](https://www.google.com/maps/search/?api=1&query=30.554201,114.3876237)
+  Taken at Deadvlei, Sossusvlei, Namibia • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D610 |
-| Exposure Time | 1/125 |
-| Aperture      | 2.8 |
-| Focal Length  | 70.0 |
-| ISO           | 400 |
-| Location      | Donghu Lake, Wuhan, China (China) |
-| Coordinates   | Latitude 30.554201, Longitude 114.3876237 |
+| Camera Model  | X100T |
+| Exposure Time | 1/600 |
+| Aperture      | 5.6 |
+| Focal Length  | 23.0 |
+| ISO           | 200 |
+| Location      | Deadvlei, Sossusvlei, Namibia (Namibia) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
