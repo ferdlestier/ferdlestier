@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-antelope-cave-k-wRtwkF27k"><img width="720" src="https://images.unsplash.com/photo-1517416451146-496a3e48ab6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDg1ODU0MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of antelope cave"></a>
+  <a href="https://unsplash.com/photos/sun-rays-through-silhouette-of-trees-tLNRTxieD7k"><img width="720" src="https://images.unsplash.com/photo-1462290625486-c142817fb94d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDg2NzE3NjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="sun rays through silhouette of trees"></a>
   
-  <em>photo of antelope cave</em>
+  <em>sun rays through silhouette of trees</em>
   
-  <em>Endless</em>
+  <em>Sunrise breaking into the forest</em>
 
-  Photo by [George Fitzmaurice](http://fitzysphotos.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Fitzmaug) / [portfolio](http://fitzysphotos.com) / [Twitter](https://twitter.com/Fitzmaug)
+  Photo by [Kristine Weilert](http://www.kristineweilert.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kristineweilert) / [portfolio](http://www.kristineweilert.com)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | E-M1MarkII |
-| Exposure Time | 2 |
-| Aperture      | 4.0 |
-| Focal Length  | 13.0 |
-| ISO           | 200 |
+| Camera Model  | X-T1 |
+| Exposure Time | 1/4000 |
+| Aperture      | 3.2 |
+| Focal Length  | 23.0 |
+| ISO           | 400 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
