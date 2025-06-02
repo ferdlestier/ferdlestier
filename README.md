@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/blue-and-brown-steel-bridge-eOpewngf68w"><img width="720" src="https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDg3NTgyMDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue and brown steel bridge"></a>
+  <a href="https://unsplash.com/photos/landscape-photo-of-waterfalls-flowing-into-river-during-daytime-pQMM63GE7fo"><img width="720" src="https://images.unsplash.com/photo-1442850473887-0fb77cd0b337?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDg4NDQ2ODZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photo of waterfalls flowing into river during daytime"></a>
   
-  <em>blue and brown steel bridge</em>
+  <em>landscape photo of waterfalls flowing into river during daytime</em>
   
-  <em>Whangarei Falls footbridge</em>
+  <em>Swimming under a waterfall</em>
 
-  Photo by [Tim Swaan](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timswaan) / [Twitter](https://twitter.com/TimSwaan)
+  Photo by [Milada Vigerova](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/milivigerova)
   
-  Taken at Whangarei Falls, Whangarei, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-35.6843923,174.3357673)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/250 |
-| Aperture      | 9.0 |
-| Focal Length  | 28.0 |
-| ISO           | 1250 |
-| Location      | Whangarei Falls, Whangarei, New Zealand (New Zealand) |
-| Coordinates   | Latitude -35.6843923, Longitude 174.3357673 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
