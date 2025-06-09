@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/grey-stone-surrounded-with-succulent-plants-hS46bsAASwQ"><img width="720" src="https://images.unsplash.com/photo-1446292532430-3e76f6ab6444?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkzNjI5ODJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="grey stone surrounded with succulent plants"></a>
+  <a href="https://unsplash.com/photos/blue-flower-L6g30JaQ5Tc"><img width="720" src="https://images.unsplash.com/photo-1506508839781-65d2a514b73a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk0NDk0OTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue flower"></a>
   
-  <em>grey stone surrounded with succulent plants</em>
+  <em>blue flower</em>
   
-  <em>Diverse succulents around a rock</em>
+  <em>Eyeculent</em>
 
-  Photo by [Annie Spratt](https://www.anniespratt.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/anniespratt) / [portfolio](https://www.anniespratt.com) / [Twitter](https://twitter.com/anniespratt)
+  Photo by [Yousef Espanioly](http://instagram.com/yespanioly) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yespanioly) / [portfolio](http://instagram.com/yespanioly)
   
-  Taken at Gloucester, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.8642449,-2.238156)
+  Taken at Nazareth, Israel • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.699635,35.303546)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T1 |
-| Exposure Time | 1/150 |
+| Camera Model  | NIKON D3200 |
+| Exposure Time | 1/250 |
 | Aperture      | 2.0 |
-| Focal Length  | 23.0 |
-| ISO           | 200 |
-| Location      | Gloucester, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 51.8642449, Longitude -2.238156 |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
+| Location      | Nazareth, Israel (Israel) |
+| Coordinates   | Latitude 32.699635, Longitude 35.303546 |
 
 </details>
 
