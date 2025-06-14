@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-with-trees-covered-with-fogs-at-daytime-6tfO1M8_gas"><img width="720" src="https://images.unsplash.com/photo-1512923927402-a9867a68180e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk3OTUwNDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain with trees covered with fogs at daytime"></a>
+  <a href="https://unsplash.com/photos/green-linear-leafed-plants-jqgsM3B9Fpo"><img width="720" src="https://images.unsplash.com/photo-1516528387618-afa90b13e000?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk4ODEzNTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green linear leafed plants"></a>
   
-  <em>mountain with trees covered with fogs at daytime</em>
+  <em>green linear leafed plants</em>
   
-  <em></em>
+  <em>Ferny Hole</em>
 
-  Photo by [Chris Lawton](https://chrislawton.co.uk/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chris.lawton) / [portfolio](https://chrislawton.co.uk/)
+  Photo by [Yoal Desurmont](http://www.yoaldesurmont.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yoal.desurmont) / [portfolio](http://www.yoaldesurmont.com)
   
-  Taken at Unknown • 
+  Taken at New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-40.900557,174.885971)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100F |
-| Exposure Time | 1/2400 |
-| Aperture      | 5.0 |
-| Focal Length  | 23.0 |
+| Camera Model  | X-T20 |
+| Exposure Time | 1/105 |
+| Aperture      | 5.6 |
+| Focal Length  | 41.8 |
 | ISO           | 400 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | New Zealand (Nouvelle-Zélande) |
+| Coordinates   | Latitude -40.900557, Longitude 174.885971 |
 
 </details>
 
