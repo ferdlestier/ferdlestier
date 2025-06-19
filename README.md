@@ -5,17 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-mountains-and-near-trees-during-daytime-aZjw7xI3QAA"><img width="720" src="https://images.unsplash.com/photo-1500622944204-b135684e99fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAyMjcwNTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of mountains and near trees during daytime"></a>
+  <a href="https://unsplash.com/photos/tree-between-green-land-during-golden-hour-T-LfvX-7IVg"><img width="720" src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAzMTM0NjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree between green land during golden hour"></a>
   
-  <em>aerial photography of mountains and near trees during daytime</em>
+  <em>tree between green land during golden hour</em>
   
-  <em>Hills —
-as remnants from
-aeons of erosion.</em>
+  <em>Sunset tree in Kenya Safari, Africa</em>
 
-  Photo by [Simon Berger](https://www.flickr.com/photos/simon_berger/) on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
+  Photo by [Damian Patkowski](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/damian.patkowski) / [Twitter](https://twitter.com/damianpatkowski)
   
-  Taken at Viñales, Provinz Pinar del Río, Kuba • [Google Maps](https://www.google.com/maps/search/?api=1&query=22.61483,-83.72229667)
+  Taken at Tsavo East National Park Kenya, Africa, Kenya • 
   
   ---
   
@@ -24,13 +22,13 @@ aeons of erosion.</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-GF3 |
-| Exposure Time | 1/250 |
-| Aperture      | 5.6 |
-| Focal Length  | 14.0 |
-| ISO           | 160 |
-| Location      | Viñales, Provinz Pinar del Río, Kuba (Kuba) |
-| Coordinates   | Latitude 22.61483, Longitude -83.72229667 |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/2000 |
+| Aperture      | 8.0 |
+| Focal Length  | 25.0 |
+| ISO           | 400 |
+| Location      | Tsavo East National Park Kenya, Africa, Kenya (Kenya) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
