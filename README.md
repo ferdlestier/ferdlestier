@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/tree-between-green-land-during-golden-hour-T-LfvX-7IVg"><img width="720" src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAzMTM0NjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree between green land during golden hour"></a>
+  <a href="https://unsplash.com/photos/brown-road-in-forest-during-daytime-L505cPnmIds"><img width="720" src="https://images.unsplash.com/photo-1507936580189-3816b4abf640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAzOTk4NjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown road in forest during daytime"></a>
   
-  <em>tree between green land during golden hour</em>
+  <em>brown road in forest during daytime</em>
   
-  <em>Sunset tree in Kenya Safari, Africa</em>
+  <em></em>
 
-  Photo by [Damian Patkowski](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/damian.patkowski) / [Twitter](https://twitter.com/damianpatkowski)
+  Photo by [Derrick Cooper](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Derrick_cooper)
   
-  Taken at Tsavo East National Park Kenya, Africa, Kenya • 
+  Taken at Howe Sound Crest Trail, West Vancouver, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.4156804313241,-123.206481737573)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5200 |
-| Exposure Time | 1/2000 |
-| Aperture      | 8.0 |
-| Focal Length  | 25.0 |
-| ISO           | 400 |
-| Location      | Tsavo East National Park Kenya, Africa, Kenya (Kenya) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | X-T10 |
+| Exposure Time | 1/140 |
+| Aperture      | 3.6 |
+| Focal Length  | 35.0 |
+| ISO           | 200 |
+| Location      | Howe Sound Crest Trail, West Vancouver, Canada (Canada) |
+| Coordinates   | Latitude 49.4156804313241, Longitude -123.206481737573 |
 
 </details>
 
