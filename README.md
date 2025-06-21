@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-road-in-forest-during-daytime-L505cPnmIds"><img width="720" src="https://images.unsplash.com/photo-1507936580189-3816b4abf640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAzOTk4NjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown road in forest during daytime"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-trees-and-purple-lightning-jh2KTqHLMjE"><img width="720" src="https://images.unsplash.com/photo-1472145246862-b24cf25c4a36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA0ODYxODB8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of trees and purple lightning"></a>
   
-  <em>brown road in forest during daytime</em>
+  <em>silhouette of trees and purple lightning</em>
   
-  <em></em>
+  <em>Lightning and trees</em>
 
-  Photo by [Derrick Cooper](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Derrick_cooper)
+  Photo by [Jeremy Thomas](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jeremythomasphoto) / [Twitter](https://twitter.com/Jeremytphoto)
   
-  Taken at Howe Sound Crest Trail, West Vancouver, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.4156804313241,-123.206481737573)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/140 |
-| Aperture      | 3.6 |
-| Focal Length  | 35.0 |
-| ISO           | 200 |
-| Location      | Howe Sound Crest Trail, West Vancouver, Canada (Canada) |
-| Coordinates   | Latitude 49.4156804313241, Longitude -123.206481737573 |
+| Camera Model  | Canon EOS REBEL T4i |
+| Exposure Time | 10 |
+| Aperture      | 6.3 |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
