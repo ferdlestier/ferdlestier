@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leafed-plant-aIYFR0vbADk"><img width="720" src="https://images.unsplash.com/photo-1459664018906-085c36f472af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA2NTkwOTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green leafed plant"></a>
+  <a href="https://unsplash.com/photos/green-pane-trees-_NM6bXPqaCE"><img width="720" src="https://images.unsplash.com/photo-1488489153583-89ce18dd4968?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA3NDU0OTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green pane trees"></a>
   
-  <em>green leafed plant</em>
+  <em>green pane trees</em>
   
-  <em>Succulent center in macro</em>
+  <em>Drone Forest</em>
 
-  Photo by [Erol Ahmed](http://erol.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/erol_is) / [portfolio](http://erol.com)
+  Photo by [Geranimo](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gerandeklerk) / [Twitter](https://twitter.com/gerandeklerk)
   
-  Taken at Botanical Garden, København K, Denmark • [Google Maps](https://www.google.com/maps/search/?api=1&query=55.6874015,12.5730587)
+  Taken at Gävle, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.6748796,17.1412726)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/100 |
-| Aperture      | 1.8 |
-| Focal Length  | 50.0 |
-| ISO           | 640 |
-| Location      | Botanical Garden, København K, Denmark (Denmark) |
-| Coordinates   | Latitude 55.6874015, Longitude 12.5730587 |
+| Camera Model  | FC300X |
+| Exposure Time | 1/120 |
+| Aperture      | 2.8 |
+| Focal Length  | 3.6 |
+| ISO           | 100 |
+| Location      | Gävle, Sweden (Sweden) |
+| Coordinates   | Latitude 60.6748796, Longitude 17.1412726 |
 
 </details>
 
