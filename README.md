@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-pane-trees-_NM6bXPqaCE"><img width="720" src="https://images.unsplash.com/photo-1488489153583-89ce18dd4968?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA3NDU0OTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green pane trees"></a>
+  <a href="https://unsplash.com/photos/green-leaf-trees-9SW9IvKD9OY"><img width="720" src="https://images.unsplash.com/photo-1467767079704-1e5389c42c9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA4MzE4ODl8&ixlib=rb-4.1.0&q=80&w=1080" alt="green leaf trees"></a>
   
-  <em>green pane trees</em>
+  <em>green leaf trees</em>
   
-  <em>Drone Forest</em>
+  <em>Tree archway in a park</em>
 
-  Photo by [Geranimo](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gerandeklerk) / [Twitter](https://twitter.com/gerandeklerk)
+  Photo by [Ashley Knedler](http://ashleyknedler.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ashkned) / [portfolio](http://ashleyknedler.com) / [Twitter](https://twitter.com/ashkned)
   
-  Taken at Gävle, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.6748796,17.1412726)
+  Taken at Savannah, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.0835407,-81.0998342)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC300X |
-| Exposure Time | 1/120 |
-| Aperture      | 2.8 |
-| Focal Length  | 3.6 |
-| ISO           | 100 |
-| Location      | Gävle, Sweden (Sweden) |
-| Coordinates   | Latitude 60.6748796, Longitude 17.1412726 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/80 |
+| Aperture      | 5.0 |
+| Focal Length  | 58.0 |
+| ISO           | 800 |
+| Location      | Savannah, United States (United States) |
+| Coordinates   | Latitude 32.0835407, Longitude -81.0998342 |
 
 </details>
 
