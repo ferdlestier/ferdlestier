@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-covered-with-snow-JXD6K_fAgn4"><img width="720" src="https://images.unsplash.com/photo-1554752788-45c2d4b2e427?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTExNzczOTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain covered with snow"></a>
+  <a href="https://unsplash.com/photos/green-trees-under-starry-night-W8UNkqKQwsI"><img width="720" src="https://images.unsplash.com/photo-1629233798038-2ae5b2e96d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEyNjM4OTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green trees under starry night"></a>
   
-  <em>mountain covered with snow</em>
+  <em>green trees under starry night</em>
   
   <em></em>
 
-  Photo by [Kevin Brunet](http://kbru.net) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/the.kbru) / [portfolio](http://kbru.net)
+  Photo by [Ben Karpinski](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/benkarpinski)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 30 |
-| Aperture      | null |
-| Focal Length  | 0.0 |
-| ISO           | 1600 |
+| Camera Model  | NIKON D850 |
+| Exposure Time | 25 |
+| Aperture      | 2.8 |
+| Focal Length  | 14.0 |
+| ISO           | 3200 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
