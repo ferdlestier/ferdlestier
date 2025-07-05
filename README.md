@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountains-are-beneath-a-starry-night-sky-tO4y90Qhoq0"><img width="720" src="https://images.unsplash.com/photo-1750166942048-9a51da2bcefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE2MDk0NzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Mountains are beneath a starry night sky."></a>
+  <a href="https://unsplash.com/photos/the-night-sky-with-stars-above-a-mountain-bS_fVqNA3Xs"><img width="720" src="https://images.unsplash.com/photo-1644795066635-a0d78e066683?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE2OTU3ODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky with stars above a mountain"></a>
   
-  <em>Mountains are beneath a starry night sky.</em>
+  <em>the night sky with stars above a mountain</em>
   
-  <em>Night sky in Himalayas behind Mount Meru in the Himalayas</em>
+  <em></em>
 
-  Photo by [Harsh Rana](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Kochar Sahibpreet Singh](https://skochar.work/work) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/shutupsherlock) / [portfolio](https://skochar.work/work)
   
-  Taken at Uttarkashi, Uttarkashi, India • [Google Maps](https://www.google.com/maps/search/?api=1&query=30.730807,78.444384)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Uttarkashi, Uttarkashi, India (India) |
-| Coordinates   | Latitude 30.730807, Longitude 78.444384 |
+| Camera Model  |  EOS 200D II |
+| Exposure Time | 25 |
+| Aperture      | 4.0 |
+| Focal Length  | 18.0 |
+| ISO           | 3200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
