@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-trees-under-blue-sky-with-stars-during-night-time-RXiFgUoWI5A"><img width="720" src="https://images.unsplash.com/photo-1603910197564-fea6da75b4a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE5NTUwNzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of trees under blue sky with stars during night time"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-mountain-under-starry-night-exUvI1ltNaQ"><img width="720" src="https://images.unsplash.com/photo-1623756390255-8d8670430a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIwNDE0Nzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountain under starry night"></a>
   
-  <em>silhouette of trees under blue sky with stars during night time</em>
+  <em>silhouette of mountain under starry night</em>
   
   <em></em>
 
-  Photo by [Prekshit Satyarthi](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Suman Chettri](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Sumaan_chettri)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D750 |
-| Exposure Time | 15 |
-| Aperture      | 4.0 |
-| Focal Length  | 24.0 |
-| ISO           | 1600 |
+| Camera Model  | -- |
+| Exposure Time | 1 |
+| Aperture      | 1.9 |
+| Focal Length  | 0.0 |
+| ISO           | 0 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
