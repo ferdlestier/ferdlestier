@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-mountain-with-a-starry-sky-above-it-Oztfs3ky4Xk"><img width="720" src="https://images.unsplash.com/photo-1659413151520-bbc015ee3472?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIxMjc4ODN8&ixlib=rb-4.1.0&q=80&w=1080" alt="a mountain with a starry sky above it"></a>
+  <a href="https://unsplash.com/photos/body-of-water-near-mountain-under-starry-night-EjKRQQuzrkg"><img width="720" src="https://images.unsplash.com/photo-1591686124347-b0dc61418a08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIyMTQyODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water near mountain under starry night"></a>
   
-  <em>a mountain with a starry sky above it</em>
+  <em>body of water near mountain under starry night</em>
   
-  <em></em>
+  <em>milkyway & mount gongga</em>
 
-  Photo by [Mike Dierken](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dierken)
+  Photo by [Silas Hao](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/silas.hao)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | LEICA Q (Typ 116) |
-| Exposure Time | 7 |
-| Aperture      | 1.7 |
-| Focal Length  | 28.0 |
-| ISO           | 1600 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | 0 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
