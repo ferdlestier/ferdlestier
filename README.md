@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-near-mountain-under-starry-night-EjKRQQuzrkg"><img width="720" src="https://images.unsplash.com/photo-1591686124347-b0dc61418a08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIyMTQyODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water near mountain under starry night"></a>
+  <a href="https://unsplash.com/photos/a-view-of-the-night-sky-with-the-milky-in-the-distance-ULDBQgDVjas"><img width="720" src="https://images.unsplash.com/photo-1720675009618-a38716724700?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIzMDA2MDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="A view of the night sky with the milky in the distance"></a>
   
-  <em>body of water near mountain under starry night</em>
+  <em>A view of the night sky with the milky in the distance</em>
   
-  <em>milkyway & mount gongga</em>
+  <em></em>
 
-  Photo by [Silas Hao](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/silas.hao)
+  Photo by [Sultonbek Ikromov](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sulton_ikrom)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | 0 |
+| Camera Model  |  EOS R5 |
+| Exposure Time | 25 |
+| Aperture      | 2.8 |
+| Focal Length  | 19.0 |
+| ISO           | 2500 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
