@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-view-of-the-night-sky-over-a-mountain-range-Lxq_TyMMHtQ"><img width="720" src="https://images.unsplash.com/photo-1516785418595-170182ecd7e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI2NDYyOTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a view of the night sky over a mountain range"></a>
+  <a href="https://unsplash.com/photos/a-view-of-the-night-sky-with-the-milky-in-the-distance-ULDBQgDVjas"><img width="720" src="https://images.unsplash.com/photo-1720675009618-a38716724700?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI3MzI2ODN8&ixlib=rb-4.1.0&q=80&w=1080" alt="A view of the night sky with the milky in the distance"></a>
   
-  <em>a view of the night sky over a mountain range</em>
+  <em>A view of the night sky with the milky in the distance</em>
   
   <em></em>
 
-  Photo by [Benjamin Voros](http://www.vorosbenjamin.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/voros_beni) / [portfolio](http://www.vorosbenjamin.com) / [Twitter](https://twitter.com/voros_benjamin)
+  Photo by [Sultonbek Ikromov](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sulton_ikrom)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
+| Camera Model  |  EOS R5 |
+| Exposure Time | 25 |
+| Aperture      | 2.8 |
+| Focal Length  | 19.0 |
+| ISO           | 2500 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
