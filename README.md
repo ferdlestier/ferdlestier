@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-with-stars-above-a-mountain-range-3eo5pgZlXVY"><img width="720" src="https://images.unsplash.com/photo-1654189675027-870958da3e13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI5OTE4MzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky with stars above a mountain range"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-mountain-under-starry-night-EfefaoogKeA"><img width="720" src="https://images.unsplash.com/photo-1611252498676-38b2954ac70e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMwNzgzMzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountain under starry night"></a>
   
-  <em>the night sky with stars above a mountain range</em>
+  <em>silhouette of mountain under starry night</em>
   
-  <em>Stars above snow capped hills in Tosh, Himachal Pradesh</em>
+  <em></em>
 
-  Photo by [Nikhil Bhat](null) on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/Nikhil_Bhat6)
+  Photo by [Jordan Rogers](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/subm3rged_photography)
   
-  Taken at Tosh, Himachal Pradesh, India • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.015434,77.453704)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  one fusion+ |
-| Exposure Time | 0.6 |
-| Aperture      | 1.8 |
-| Focal Length  | 5.5 |
-| ISO           | 3200 |
-| Location      | Tosh, Himachal Pradesh, India (India) |
-| Coordinates   | Latitude 32.015434, Longitude 77.453704 |
+| Camera Model  | Canon EOS Rebel T6 |
+| Exposure Time | 20 |
+| Aperture      | 2.8 |
+| Focal Length  | 24.0 |
+| ISO           | 6400 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
