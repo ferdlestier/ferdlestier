@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-mountain-under-starry-night-EfefaoogKeA"><img width="720" src="https://images.unsplash.com/photo-1611252498676-38b2954ac70e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMwNzgzMzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountain under starry night"></a>
+  <a href="https://unsplash.com/photos/green-trees-and-mountain-during-night-time-q49F7RejoEQ"><img width="720" src="https://images.unsplash.com/photo-1612642233360-68944e01c4e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMxNjQ3MDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="green trees and mountain during night time"></a>
   
-  <em>silhouette of mountain under starry night</em>
+  <em>green trees and mountain during night time</em>
   
-  <em></em>
+  <em>In a night full of stars!</em>
 
-  Photo by [Jordan Rogers](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/subm3rged_photography)
+  Photo by [Shreshth Gupta](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/shreshth_24) / [Twitter](https://twitter.com/shreshth_24)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS Rebel T6 |
-| Exposure Time | 20 |
+| Camera Model  | Canon EOS 6D Mark II |
+| Exposure Time | 15 |
 | Aperture      | 2.8 |
-| Focal Length  | 24.0 |
-| ISO           | 6400 |
+| Focal Length  | 28.0 |
+| ISO           | 8000 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
