@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-trees-and-mountain-during-night-time-q49F7RejoEQ"><img width="720" src="https://images.unsplash.com/photo-1612642233360-68944e01c4e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMxNjQ3MDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="green trees and mountain during night time"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-mountains-under-starry-night-g3DwYwD3Jaw"><img width="720" src="https://images.unsplash.com/photo-1620760115798-c7a579561327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMyNTExMTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountains under starry night"></a>
   
-  <em>green trees and mountain during night time</em>
+  <em>silhouette of mountains under starry night</em>
   
-  <em>In a night full of stars!</em>
+  <em>Helmos Galaxy</em>
 
-  Photo by [Shreshth Gupta](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/shreshth_24) / [Twitter](https://twitter.com/shreshth_24)
+  Photo by [Giannis Panagiotatos](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/strongi)
   
-  Taken at Unknown • 
+  Taken at Kalavryta Ski Center, Akrata, Greece • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.00600350040959,22.19696938991547)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D Mark II |
-| Exposure Time | 15 |
-| Aperture      | 2.8 |
-| Focal Length  | 28.0 |
-| ISO           | 8000 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-6300 |
+| Exposure Time | 25 |
+| Aperture      | 1.4 |
+| Focal Length  | 16.0 |
+| ISO           | 1600 |
+| Location      | Kalavryta Ski Center, Akrata, Greece (Greece) |
+| Coordinates   | Latitude 38.00600350040959, Longitude 22.19696938991547 |
 
 </details>
 
