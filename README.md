@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-mountains-under-starry-night-g3DwYwD3Jaw"><img width="720" src="https://images.unsplash.com/photo-1620760115798-c7a579561327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMyNTExMTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountains under starry night"></a>
+  <a href="https://unsplash.com/photos/milky-way-uFnXn31B_00"><img width="720" src="https://images.unsplash.com/photo-1574609978180-bf5ec9eeb7bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMzMzc0OTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="milky way"></a>
   
-  <em>silhouette of mountains under starry night</em>
+  <em>milky way</em>
   
-  <em>Helmos Galaxy</em>
+  <em>Singing Satellite Starry Night Nanga Parbat</em>
 
-  Photo by [Giannis Panagiotatos](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/strongi)
+  Photo by [Haseeb Jamil](https://www.haseebjkhan.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/haseebjkhan) / [portfolio](https://www.haseebjkhan.com/) / [Twitter](https://twitter.com/haseebjkhan)
   
-  Taken at Kalavryta Ski Center, Akrata, Greece • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.00600350040959,22.19696938991547)
+  Taken at Nanga Parbat • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6300 |
-| Exposure Time | 25 |
-| Aperture      | 1.4 |
-| Focal Length  | 16.0 |
-| ISO           | 1600 |
-| Location      | Kalavryta Ski Center, Akrata, Greece (Greece) |
-| Coordinates   | Latitude 38.00600350040959, Longitude 22.19696938991547 |
+| Camera Model  | NIKON D5100 |
+| Exposure Time | 20 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 3200 |
+| Location      | Nanga Parbat (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
