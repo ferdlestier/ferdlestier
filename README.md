@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-with-stars-above-a-mountain-range-ExNwSOYfEqM"><img width="720" src="https://images.unsplash.com/photo-1691539706978-3cb89d88915f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM1OTY2Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky with stars above a mountain range"></a>
+  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-river-iOifLPNS_bU"><img width="720" src="https://images.unsplash.com/photo-1734546765388-dfd0acd84238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM2ODMxOTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="The night sky is filled with stars above a river"></a>
   
-  <em>the night sky with stars above a mountain range</em>
+  <em>The night sky is filled with stars above a river</em>
   
-  <em>Milky Way rising behind Mt Rainier's little Tahoma Peak.</em>
+  <em></em>
 
-  Photo by [Gantavya Bhatt](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bhatt_lens) / [Twitter](https://twitter.com/BhattGantavya)
+  Photo by [carmen dominguez](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/catchdphotos)
   
-  Taken at Mount Rainier National Park, Washington, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.879966,-121.726909)
+  Taken at Hellesylt, Noruega • [Google Maps](https://www.google.com/maps/search/?api=1&query=62.085098,6.869678)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T2 |
-| Exposure Time | 8 |
-| Aperture      | 1.4 |
-| Focal Length  | 33.0 |
-| ISO           | 3200 |
-| Location      | Mount Rainier National Park, Washington, USA (United States) |
-| Coordinates   | Latitude 46.879966, Longitude -121.726909 |
+| Camera Model  |  EOS 70D |
+| Exposure Time | 1/1000 |
+| Aperture      | 8.0 |
+| Focal Length  | 20.0 |
+| ISO           | 400 |
+| Location      | Hellesylt, Noruega (Noruega) |
+| Coordinates   | Latitude 62.085098, Longitude 6.869678 |
 
 </details>
 
