@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-river-iOifLPNS_bU"><img width="720" src="https://images.unsplash.com/photo-1734546765388-dfd0acd84238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM2ODMxOTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="The night sky is filled with stars above a river"></a>
+  <a href="https://unsplash.com/photos/the-night-sky-with-stars-above-a-mountain-9LRH1qh4F-s"><img width="720" src="https://images.unsplash.com/photo-1698247511966-5cd403559c22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM3Njk1MzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky with stars above a mountain"></a>
   
-  <em>The night sky is filled with stars above a river</em>
+  <em>the night sky with stars above a mountain</em>
   
   <em></em>
 
-  Photo by [carmen dominguez](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/catchdphotos)
+  Photo by [Shahriyar Payvar](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Shahriyar.Payvar)
   
-  Taken at Hellesylt, Noruega • [Google Maps](https://www.google.com/maps/search/?api=1&query=62.085098,6.869678)
+  Taken at Khorramabad, Lorestan Province, Iran • [Google Maps](https://www.google.com/maps/search/?api=1&query=33.464683,48.338964)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 70D |
-| Exposure Time | 1/1000 |
-| Aperture      | 8.0 |
-| Focal Length  | 20.0 |
-| ISO           | 400 |
-| Location      | Hellesylt, Noruega (Noruega) |
-| Coordinates   | Latitude 62.085098, Longitude 6.869678 |
+| Camera Model  |  EOS 760D |
+| Exposure Time | 30 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 3200 |
+| Location      | Khorramabad, Lorestan Province, Iran (Iran) |
+| Coordinates   | Latitude 33.464683, Longitude 48.338964 |
 
 </details>
 
