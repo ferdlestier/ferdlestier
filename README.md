@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-with-stars-above-a-mountain-9LRH1qh4F-s"><img width="720" src="https://images.unsplash.com/photo-1698247511966-5cd403559c22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM3Njk1MzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky with stars above a mountain"></a>
+  <a href="https://unsplash.com/photos/a-man-standing-on-top-of-a-mountain-under-a-night-sky-6_t8R-uCW3I"><img width="720" src="https://images.unsplash.com/photo-1700556581877-a21318d4d84e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM4NTU5NjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="a man standing on top of a mountain under a night sky"></a>
   
-  <em>the night sky with stars above a mountain</em>
+  <em>a man standing on top of a mountain under a night sky</em>
   
-  <em></em>
+  <em>Pre-drawn overlooking Everest Base Camp and Mt Everest itself, with a beautiful starry sky that is being slightly lit by the rising sun.</em>
 
-  Photo by [Shahriyar Payvar](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Shahriyar.Payvar)
+  Photo by [Dylan Shaw](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dyl.shaw)
   
-  Taken at Khorramabad, Lorestan Province, Iran • [Google Maps](https://www.google.com/maps/search/?api=1&query=33.464683,48.338964)
+  Taken at Everest Base Camp, Khumjung, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.002278,86.852866)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 760D |
+| Camera Model  |  EOS 5D Mark IV |
 | Exposure Time | 30 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
-| ISO           | 3200 |
-| Location      | Khorramabad, Lorestan Province, Iran (Iran) |
-| Coordinates   | Latitude 33.464683, Longitude 48.338964 |
+| Aperture      | 5.0 |
+| Focal Length  | 11.0 |
+| ISO           | 10000 |
+| Location      | Everest Base Camp, Khumjung, Nepal (Nepal) |
+| Coordinates   | Latitude 28.002278, Longitude 86.852866 |
 
 </details>
 
