@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/reflective-photography-of-lighted-house-near-body-of-water-pYFue5PzpcI"><img width="720" src="https://images.unsplash.com/photo-1500882644194-b83ebad474e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQwMjg3ODd8&ixlib=rb-4.1.0&q=80&w=1080" alt="reflective photography of lighted house near body of water"></a>
+  <a href="https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-night-time-4yBogrmcEmM"><img width="720" src="https://images.unsplash.com/photo-1596016691838-70260f1e21c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQxMTUwMDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under blue sky during night time"></a>
   
-  <em>reflective photography of lighted house near body of water</em>
+  <em>snow covered mountain under blue sky during night time</em>
   
-  <em>Stars Lakeside Lebanon</em>
+  <em></em>
 
-  Photo by [Georges Boutros](https://www.instagram.com/freakgmb/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Freakgmb) / [portfolio](https://www.instagram.com/freakgmb/)
+  Photo by [Explore with Joshua](https://www.joshuaearle.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/explorewithjoshua) / [portfolio](https://www.joshuaearle.com/)
   
-  Taken at Lebanon • [Google Maps](https://www.google.com/maps/search/?api=1&query=33.854721,35.8622849999999)
+  Taken at Zermatt, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.020713,7.749117)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 20 |
+| Camera Model  | Canon EOS 5DS R |
+| Exposure Time | 30 |
 | Aperture      | 2.8 |
 | Focal Length  | 24.0 |
-| ISO           | 3200 |
-| Location      | Lebanon (Lebanon) |
-| Coordinates   | Latitude 33.854721, Longitude 35.8622849999999 |
+| ISO           | 1250 |
+| Location      | Zermatt, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.020713, Longitude 7.749117 |
 
 </details>
 
