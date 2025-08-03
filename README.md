@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-night-time-4yBogrmcEmM"><img width="720" src="https://images.unsplash.com/photo-1596016691838-70260f1e21c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQxMTUwMDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under blue sky during night time"></a>
+  <a href="https://unsplash.com/photos/black-and-white-mountain-under-starry-night-LIHElVwekAI"><img width="720" src="https://images.unsplash.com/photo-1592558944101-f82652d459a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQyMDE0NDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="black and white mountain under starry night"></a>
   
-  <em>snow covered mountain under blue sky during night time</em>
+  <em>black and white mountain under starry night</em>
   
-  <em></em>
+  <em>Night Sky above Ehrwald, Austria</em>
 
-  Photo by [Explore with Joshua](https://www.joshuaearle.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/explorewithjoshua) / [portfolio](https://www.joshuaearle.com/)
+  Photo by [Kilian Karger](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karger_photography)
   
-  Taken at Zermatt, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.020713,7.749117)
+  Taken at Ehrwald, Österreich • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.399881,10.918323)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5DS R |
-| Exposure Time | 30 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 20 |
 | Aperture      | 2.8 |
-| Focal Length  | 24.0 |
-| ISO           | 1250 |
-| Location      | Zermatt, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.020713, Longitude 7.749117 |
+| Focal Length  | 19.0 |
+| ISO           | 6400 |
+| Location      | Ehrwald, Österreich (Österreich) |
+| Coordinates   | Latitude 47.399881, Longitude 10.918323 |
 
 </details>
 
