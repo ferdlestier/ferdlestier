@@ -5,19 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-and-the-milky-DtDKhx1atQo"><img width="720" src="https://images.unsplash.com/photo-1646974708582-3dced57e0a25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQyODgxNDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky is filled with stars and the milky"></a>
+  <a href="https://unsplash.com/photos/photo-of-milky-way-under-lighted-high-rise-buildings-1vAnw7U6qfM"><img width="720" src="https://images.unsplash.com/photo-1506656864462-fcc324490523?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQzNzQzODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of milky way under lighted high-rise buildings"></a>
   
-  <em>the night sky is filled with stars and the milky</em>
+  <em>photo of milky way under lighted high-rise buildings</em>
   
-  <em>I have taken this shot at Putangirua Pinnacles Scenic Reserve at about 12AM just a few days ago. While the Milky Way core isn't at its brightest at this time of year, it's still impressing how  bright stars appear on a clear night sky in New Zealand.
-I was also trying my new Sigma 16mm f1.4 for the first time, I am very open to any advise which would help me improve.
+  <em></em>
 
-
-</em>
-
-  Photo by [Luca Calderone](https://www.instagram.com/nature_photography_by_luca/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nature_photography_by_luca) / [portfolio](https://www.instagram.com/nature_photography_by_luca/)
+  Photo by [Nathan Anderson](https://kunack.us/follow?source=unsplash) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kunack.us) / [portfolio](https://kunack.us/follow?source=unsplash) / [Twitter](https://twitter.com/nathanworking)
   
-  Taken at Putangirua Pinnacles, Wairarapa, New Zealand • 
+  Taken at Silverthorne, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.6296191,-106.0712941)
   
   ---
   
@@ -26,13 +22,13 @@ I was also trying my new Sigma 16mm f1.4 for the first time, I am very open to a
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
+| Camera Model  | NIKON D750 |
 | Exposure Time | 15 |
-| Aperture      | 1.4 |
-| Focal Length  | 16.0 |
-| ISO           | 8000 |
-| Location      | Putangirua Pinnacles, Wairarapa, New Zealand (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Aperture      | 1.8 |
+| Focal Length  | 20.0 |
+| ISO           | 1250 |
+| Location      | Silverthorne, United States (United States) |
+| Coordinates   | Latitude 39.6296191, Longitude -106.0712941 |
 
 </details>
 
