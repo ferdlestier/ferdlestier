@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-milky-way-under-lighted-high-rise-buildings-1vAnw7U6qfM"><img width="720" src="https://images.unsplash.com/photo-1506656864462-fcc324490523?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQzNzQzODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of milky way under lighted high-rise buildings"></a>
+  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-range-IUfj5SmScJg"><img width="720" src="https://images.unsplash.com/photo-1723279893372-c4e430158b12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQ0NjA3ODB8&ixlib=rb-4.1.0&q=80&w=1080" alt="The night sky is filled with stars above a mountain range"></a>
   
-  <em>photo of milky way under lighted high-rise buildings</em>
+  <em>The night sky is filled with stars above a mountain range</em>
   
   <em></em>
 
-  Photo by [Nathan Anderson](https://kunack.us/follow?source=unsplash) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kunack.us) / [portfolio](https://kunack.us/follow?source=unsplash) / [Twitter](https://twitter.com/nathanworking)
+  Photo by [Masaaki Ishikawa](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Silverthorne, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.6296191,-106.0712941)
+  Taken at Yangshan • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D750 |
-| Exposure Time | 15 |
-| Aperture      | 1.8 |
-| Focal Length  | 20.0 |
-| ISO           | 1250 |
-| Location      | Silverthorne, United States (United States) |
-| Coordinates   | Latitude 39.6296191, Longitude -106.0712941 |
+| Camera Model  | ILCE-7RM5 |
+| Exposure Time | 30 |
+| Aperture      | 2.8 |
+| Focal Length  | 24.0 |
+| ISO           | 3200 |
+| Location      | Yangshan (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
