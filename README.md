@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/hdr-photo-of-galaxy-ZE0Kkmj-vwo"><img width="720" src="https://images.unsplash.com/photo-1510382634072-9f8917f78e95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUwNjU0OTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="HDR photo of galaxy"></a>
+  <a href="https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-night-time-ABzeBBX6RJA"><img width="720" src="https://images.unsplash.com/photo-1627842468152-62f95538037a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUxNTE4OTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under blue sky during night time"></a>
   
-  <em>HDR photo of galaxy</em>
+  <em>snow covered mountain under blue sky during night time</em>
   
-  <em>Half Dome Milky Way</em>
+  <em>Milky way coming out of the peak... Summer in the Swiss Alps</em>
 
-  Photo by [Sam Goodgame](http://www.samgoodgame.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sam_goodgame) / [portfolio](http://www.samgoodgame.com) / [Twitter](https://twitter.com/sam_goodgame)
+  Photo by [Marek Piwnicki](https://marpiwnicki.github.io) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marekpiwnicki) / [portfolio](https://marpiwnicki.github.io)
   
-  Taken at Glacier Point, Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7304239,-119.5736499)
+  Taken at Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.818188,8.227512)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D810 |
-| Exposure Time | 20 |
-| Aperture      | 1.4 |
-| Focal Length  | 24.0 |
-| ISO           | 3200 |
-| Location      | Glacier Point, Yosemite Valley, United States (United States) |
-| Coordinates   | Latitude 37.7304239, Longitude -119.5736499 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 25 |
+| Aperture      | 4 |
+| Focal Length  | 17.0 |
+| ISO           | 1600 |
+| Location      | Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.818188, Longitude 8.227512 |
 
 </details>
 
