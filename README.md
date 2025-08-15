@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-night-time-ABzeBBX6RJA"><img width="720" src="https://images.unsplash.com/photo-1627842468152-62f95538037a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUxNTE4OTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under blue sky during night time"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-tree-under-cosmos-sky-during-nighttime-lCE9uRmh7b8"><img width="720" src="https://images.unsplash.com/photo-1500400870657-bfbb1c273f08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUyMzgyODN8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of tree under cosmos sky during nighttime"></a>
   
-  <em>snow covered mountain under blue sky during night time</em>
+  <em>silhouette of tree under cosmos sky during nighttime</em>
   
-  <em>Milky way coming out of the peak... Summer in the Swiss Alps</em>
+  <em>Milky Way from 10,400 Feet</em>
 
-  Photo by [Marek Piwnicki](https://marpiwnicki.github.io) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marekpiwnicki) / [portfolio](https://marpiwnicki.github.io)
+  Photo by [Cassie Boca](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cassierache)
   
-  Taken at Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.818188,8.227512)
+  Taken at Breckenridge, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.4816537,-106.0383518)
   
   ---
   
@@ -23,12 +23,12 @@
 | Parameter     | Value |
 | ------------- | ----- |
 | Camera Model  | Canon EOS 6D |
-| Exposure Time | 25 |
-| Aperture      | 4 |
-| Focal Length  | 17.0 |
-| ISO           | 1600 |
-| Location      | Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.818188, Longitude 8.227512 |
+| Exposure Time | 20 |
+| Aperture      | 2.8 |
+| Focal Length  | 24.0 |
+| ISO           | 3200 |
+| Location      | Breckenridge, United States (United States) |
+| Coordinates   | Latitude 39.4816537, Longitude -106.0383518 |
 
 </details>
 
