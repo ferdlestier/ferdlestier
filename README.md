@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-under-clear-sky-during-night-time-1w6fqDDIzcI"><img width="720" src="https://images.unsplash.com/photo-1616657686517-7c19fc2fbc4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU1ODM4Njh8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under clear sky during night time"></a>
+  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-range-Ls0CTFOPwuo"><img width="720" src="https://images.unsplash.com/photo-1685060596917-024fe37b5ee8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU2NzAyNjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky is filled with stars above a mountain range"></a>
   
-  <em>snow covered mountain under clear sky during night time</em>
+  <em>the night sky is filled with stars above a mountain range</em>
   
-  <em></em>
+  <em>Shoot for the stars ✨</em>
 
-  Photo by [Triras Manandhar](https://youtu.be/fgvXDonzYMQ) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/triras_m10) / [portfolio](https://youtu.be/fgvXDonzYMQ)
+  Photo by [Anastasia Madueño](https://savmadueno.myportfolio.com/work) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/savmadueno) / [portfolio](https://savmadueno.myportfolio.com/work)
   
-  Taken at Kyanjin Gompa, Langtang, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.214058,85.52453)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5600 |
-| Exposure Time | 30 |
-| Aperture      | 3.2 |
-| Focal Length  | 50.0 |
-| ISO           | 2000 |
-| Location      | Kyanjin Gompa, Langtang, Nepal (Nepal) |
-| Coordinates   | Latitude 28.214058, Longitude 85.52453 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
