@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-range-Ls0CTFOPwuo"><img width="720" src="https://images.unsplash.com/photo-1685060596917-024fe37b5ee8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU2NzAyNjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky is filled with stars above a mountain range"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-mountain-under-starry-night-FUmrKad6yE0"><img width="720" src="https://images.unsplash.com/photo-1626728796721-8f5d3a43342a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU3NTY3MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountain under starry night"></a>
   
-  <em>the night sky is filled with stars above a mountain range</em>
+  <em>silhouette of mountain under starry night</em>
   
-  <em>Shoot for the stars ✨</em>
+  <em></em>
 
-  Photo by [Anastasia Madueño](https://savmadueno.myportfolio.com/work) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/savmadueno) / [portfolio](https://savmadueno.myportfolio.com/work)
+  Photo by [Andriy Krolyk](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/krolikandrei)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
+| Camera Model  | Canon EOS 250D |
+| Exposure Time | 13 |
+| Aperture      | 2.8 |
+| Focal Length  | 24.0 |
+| ISO           | 3200 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
