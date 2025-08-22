@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-mountain-under-starry-night-FUmrKad6yE0"><img width="720" src="https://images.unsplash.com/photo-1626728796721-8f5d3a43342a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU3NTY3MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountain under starry night"></a>
+  <a href="https://unsplash.com/photos/a-starry-night-sky-with-a-mountain-and-a-mountain-t0MVNjYbgbA"><img width="720" src="https://images.unsplash.com/photo-1656937693729-8dc58b9d6c74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU4NDMwNzh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a starry night sky with a mountain and a mountain"></a>
   
-  <em>silhouette of mountain under starry night</em>
+  <em>a starry night sky with a mountain and a mountain</em>
   
   <em></em>
 
-  Photo by [Andriy Krolyk](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/krolikandrei)
+  Photo by [Aakash Solanki](https://www.instagram.com/_aakashsolanki_/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/_aakashsolanki_) / [portfolio](https://www.instagram.com/_aakashsolanki_/) / [Twitter](https://twitter.com/AakashS52232111)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 250D |
-| Exposure Time | 13 |
-| Aperture      | 2.8 |
-| Focal Length  | 24.0 |
-| ISO           | 3200 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
