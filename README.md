@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-starry-night-sky-with-a-mountain-and-a-mountain-t0MVNjYbgbA"><img width="720" src="https://images.unsplash.com/photo-1656937693729-8dc58b9d6c74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU4NDMwNzh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a starry night sky with a mountain and a mountain"></a>
+  <a href="https://unsplash.com/photos/a-large-group-of-stars-in-the-sky-AEeCWnKSWY8"><img width="720" src="https://images.unsplash.com/photo-1709403338204-fd3ebeb4582a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU5MjkzNTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="a large group of stars in the sky"></a>
   
-  <em>a starry night sky with a mountain and a mountain</em>
+  <em>a large group of stars in the sky</em>
   
-  <em></em>
+  <em>Nighttime Sky View of Future Galaxy Merger: 3.85-3.9 Billion Years Caption During the first close approach, the sky is ablaze with new star formation, which is evident in a plethora of emission nebulae and open young star clusters. Credits Science Illustration: NASA, ESA, Z. Levay and R. van der Marel (STScI), T. Hallas, and A. Mellinger</em>
 
-  Photo by [Aakash Solanki](https://www.instagram.com/_aakashsolanki_/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/_aakashsolanki_) / [portfolio](https://www.instagram.com/_aakashsolanki_/) / [Twitter](https://twitter.com/AakashS52232111)
+  Photo by [NASA Hubble Space Telescope](https://hubblesite.org/home) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/space_telescopes) / [portfolio](https://hubblesite.org/home) / [Twitter](https://twitter.com/HubbleTelescope)
   
   Taken at Unknown • 
   
@@ -28,7 +28,7 @@
 | Focal Length  | null |
 | ISO           | null |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
