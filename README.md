@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-and-the-milky-7fwfTb8mVHY"><img width="720" src="https://images.unsplash.com/photo-1672068219354-ab758d6577d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYwMTU3OTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky is filled with stars and the milky"></a>
+  <a href="https://unsplash.com/photos/silhouette-photography-of-trees-and-milky-way-galaxy-_K-nlEnF310"><img width="720" src="https://images.unsplash.com/photo-1563991870579-1a043edd79df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYxMDIzMTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photography of trees and milky way galaxy"></a>
   
-  <em>the night sky is filled with stars and the milky</em>
+  <em>silhouette photography of trees and milky way galaxy</em>
   
-  <em></em>
+  <em>Clouds radiating from the galactic core</em>
 
-  Photo by [Dennis Schmidt](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Justin Long](null) on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7C |
-| Exposure Time | 13 |
-| Aperture      | 1.8 |
-| Focal Length  | 20.0 |
-| ISO           | 1600 |
+| Camera Model  | PENTAX K-1 |
+| Exposure Time | 10 |
+| Aperture      | 2.4 |
+| Focal Length  | 15.0 |
+| ISO           | 12800 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
