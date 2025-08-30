@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-with-stars-above-a-mountain-RaL7yqN_pdg"><img width="720" src="https://images.unsplash.com/photo-1671516272185-444d087c41fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY0NDc4NDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky with stars above a mountain"></a>
+  <a href="https://unsplash.com/photos/snow-covered-mountain-under-starry-night-z9ZfO0mnGgI"><img width="720" src="https://images.unsplash.com/photo-1588094504780-a3054d5afac9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY1MzQxNDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under starry night"></a>
   
-  <em>the night sky with stars above a mountain</em>
+  <em>snow covered mountain under starry night</em>
   
-  <em>Sleeping with the stars at Waterton Canyon - I did my best to stay up as late as I could to capture the milky way. A good amount of moonlight makes capturing the milky way in all of its glory is challenging but the landscape and stars are still as beautiful as can be and awe-inspiring.</em>
+  <em></em>
 
-  Photo by [Andy Sanchez](https://andyasmarketing.wixsite.com/my-site) on [unsplash.com](https://unsplash.com/) • [portfolio](https://andyasmarketing.wixsite.com/my-site)
+  Photo by [Casey Horner](http://paypal.me./CaseyHorner) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mischievous_penguins) / [portfolio](http://paypal.me./CaseyHorner)
   
-  Taken at Waterton Canyon, Littleton, CO, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.456553,-105.124897)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Waterton Canyon, Littleton, CO, USA (United States) |
-| Coordinates   | Latitude 39.456553, Longitude -105.124897 |
+| Camera Model  | ILCE-7M3 |
+| Exposure Time | 13 |
+| Aperture      | 1.4 |
+| Focal Length  | 24.0 |
+| ISO           | 6400 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
