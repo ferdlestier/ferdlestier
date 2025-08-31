@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-under-starry-night-z9ZfO0mnGgI"><img width="720" src="https://images.unsplash.com/photo-1588094504780-a3054d5afac9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY1MzQxNDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under starry night"></a>
+  <a href="https://unsplash.com/photos/a-mountain-with-snow-and-stars-in-the-sky-RQ1EzmpCjgo"><img width="720" src="https://images.unsplash.com/photo-1661457000438-550ec1b2af91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY2MjA1Nzh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a mountain with snow and stars in the sky"></a>
   
-  <em>snow covered mountain under starry night</em>
+  <em>a mountain with snow and stars in the sky</em>
   
   <em></em>
 
-  Photo by [Casey Horner](http://paypal.me./CaseyHorner) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mischievous_penguins) / [portfolio](http://paypal.me./CaseyHorner)
+  Photo by [Daniel Heritage](http://www.danielheritage.com/photography) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/d_heritage) / [portfolio](http://www.danielheritage.com/photography)
   
-  Taken at Unknown • 
+  Taken at Bugaboo Provincial Park, Parson, BC, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.817526,-116.85229)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M3 |
-| Exposure Time | 13 |
+| Camera Model  | ILCE-7RM3A |
+| Exposure Time | 20 |
 | Aperture      | 1.4 |
 | Focal Length  | 24.0 |
-| ISO           | 6400 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| ISO           | 16000 |
+| Location      | Bugaboo Provincial Park, Parson, BC, Canada (Canada) |
+| Coordinates   | Latitude 50.817526, Longitude -116.85229 |
 
 </details>
 
