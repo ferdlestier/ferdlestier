@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-mountain-with-snow-and-stars-in-the-sky-RQ1EzmpCjgo"><img width="720" src="https://images.unsplash.com/photo-1661457000438-550ec1b2af91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY2MjA1Nzh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a mountain with snow and stars in the sky"></a>
+  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-river-iOifLPNS_bU"><img width="720" src="https://images.unsplash.com/photo-1734546765388-dfd0acd84238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY3MDcxMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="The night sky is filled with stars above a river"></a>
   
-  <em>a mountain with snow and stars in the sky</em>
+  <em>The night sky is filled with stars above a river</em>
   
   <em></em>
 
-  Photo by [Daniel Heritage](http://www.danielheritage.com/photography) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/d_heritage) / [portfolio](http://www.danielheritage.com/photography)
+  Photo by [carmen dominguez](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/catchdphotos)
   
-  Taken at Bugaboo Provincial Park, Parson, BC, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.817526,-116.85229)
+  Taken at Hellesylt, Noruega • [Google Maps](https://www.google.com/maps/search/?api=1&query=62.085098,6.869678)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM3A |
-| Exposure Time | 20 |
-| Aperture      | 1.4 |
-| Focal Length  | 24.0 |
-| ISO           | 16000 |
-| Location      | Bugaboo Provincial Park, Parson, BC, Canada (Canada) |
-| Coordinates   | Latitude 50.817526, Longitude -116.85229 |
+| Camera Model  |  EOS 70D |
+| Exposure Time | 1/1000 |
+| Aperture      | 8.0 |
+| Focal Length  | 20.0 |
+| ISO           | 400 |
+| Location      | Hellesylt, Noruega (Noruega) |
+| Coordinates   | Latitude 62.085098, Longitude 6.869678 |
 
 </details>
 
