@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-river-iOifLPNS_bU"><img width="720" src="https://images.unsplash.com/photo-1734546765388-dfd0acd84238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY3MDcxMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="The night sky is filled with stars above a river"></a>
+  <a href="https://unsplash.com/photos/snow-covered-mountain-under-starry-night-3-c_auIU2tQ"><img width="720" src="https://images.unsplash.com/photo-1586829135343-132950070391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY3OTM0Nzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under starry night"></a>
   
-  <em>The night sky is filled with stars above a river</em>
+  <em>snow covered mountain under starry night</em>
   
-  <em></em>
+  <em>Milky Way in Banff, Canada. </em>
 
-  Photo by [carmen dominguez](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/catchdphotos)
+  Photo by [Bence Horvai](http://www.bencehorvai.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bencehorvai) / [portfolio](http://www.bencehorvai.com) / [Twitter](https://twitter.com/bencehorvai)
   
-  Taken at Hellesylt, Noruega • [Google Maps](https://www.google.com/maps/search/?api=1&query=62.085098,6.869678)
+  Taken at Banff, Banff, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.178506,-115.574277)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 70D |
-| Exposure Time | 1/1000 |
-| Aperture      | 8.0 |
-| Focal Length  | 20.0 |
-| ISO           | 400 |
-| Location      | Hellesylt, Noruega (Noruega) |
-| Coordinates   | Latitude 62.085098, Longitude 6.869678 |
+| Camera Model  | Canon EOS R |
+| Exposure Time | 20 |
+| Aperture      | 1.4 |
+| Focal Length  | 35.0 |
+| ISO           | 2000 |
+| Location      | Banff, Banff, Canada (Canada) |
+| Coordinates   | Latitude 51.178506, Longitude -115.574277 |
 
 </details>
 
