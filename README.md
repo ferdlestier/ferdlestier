@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-under-starry-night-3-c_auIU2tQ"><img width="720" src="https://images.unsplash.com/photo-1586829135343-132950070391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY3OTM0Nzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under starry night"></a>
+  <a href="https://unsplash.com/photos/mountain-photograph-PJAXlV_H8-4"><img width="720" src="https://images.unsplash.com/photo-1578039389692-1a498d55df0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY4Nzk4NDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain photograph"></a>
   
-  <em>snow covered mountain under starry night</em>
+  <em>mountain photograph</em>
   
-  <em>Milky Way in Banff, Canada. </em>
+  <em></em>
 
-  Photo by [Bence Horvai](http://www.bencehorvai.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bencehorvai) / [portfolio](http://www.bencehorvai.com) / [Twitter](https://twitter.com/bencehorvai)
+  Photo by [Lorenzo Lamonica](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Banff, Banff, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.178506,-115.574277)
+  Taken at Prati di Tivo, TE, Italia • [Google Maps](https://www.google.com/maps/search/?api=1&query=42.4995707,13.5596485)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS R |
-| Exposure Time | 20 |
-| Aperture      | 1.4 |
-| Focal Length  | 35.0 |
-| ISO           | 2000 |
-| Location      | Banff, Banff, Canada (Canada) |
-| Coordinates   | Latitude 51.178506, Longitude -115.574277 |
+| Camera Model  | Canon EOS 500D |
+| Exposure Time | 8 |
+| Aperture      | 2.8 |
+| Focal Length  | 11.0 |
+| ISO           | 1600 |
+| Location      | Prati di Tivo, TE, Italia (Italia) |
+| Coordinates   | Latitude 42.4995707, Longitude 13.5596485 |
 
 </details>
 
