@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photography-of-trees-and-milky-way-galaxy-_K-nlEnF310"><img width="720" src="https://images.unsplash.com/photo-1563991870579-1a043edd79df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY5NjYyMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photography of trees and milky way galaxy"></a>
+  <a href="https://unsplash.com/photos/crescent-moon-above-mountain-U-Kty6HxcQc"><img width="720" src="https://images.unsplash.com/photo-1514897575457-c4db467cf78e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTcwNTI2NDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="crescent moon above mountain"></a>
   
-  <em>silhouette photography of trees and milky way galaxy</em>
+  <em>crescent moon above mountain</em>
   
-  <em>Clouds radiating from the galactic core</em>
+  <em></em>
 
-  Photo by [Justin Long](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Benjamin Voros](http://www.vorosbenjamin.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/voros_beni) / [portfolio](http://www.vorosbenjamin.com) / [Twitter](https://twitter.com/voros_benjamin)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | PENTAX K-1 |
-| Exposure Time | 10 |
-| Aperture      | 2.4 |
-| Focal Length  | 15.0 |
-| ISO           | 12800 |
+| Camera Model  | Canon EOS 600D |
+| Exposure Time | 1/320 |
+| Aperture      | 5.0 |
+| Focal Length  | 159.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
