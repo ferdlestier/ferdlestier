@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/crescent-moon-above-mountain-U-Kty6HxcQc"><img width="720" src="https://images.unsplash.com/photo-1514897575457-c4db467cf78e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTcwNTI2NDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="crescent moon above mountain"></a>
+  <a href="https://unsplash.com/photos/mountain-slope-scenery-during-nighttime-kI8BF59UGJo"><img width="720" src="https://images.unsplash.com/photo-1572954441145-e19aea4515f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTcxMzg5Mzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain slope scenery during nighttime"></a>
   
-  <em>crescent moon above mountain</em>
+  <em>mountain slope scenery during nighttime</em>
   
-  <em></em>
+  <em>The Stars in the Andes</em>
 
-  Photo by [Benjamin Voros](http://www.vorosbenjamin.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/voros_beni) / [portfolio](http://www.vorosbenjamin.com) / [Twitter](https://twitter.com/voros_benjamin)
+  Photo by [Tyler Rutherford](https://tylerjrutherford.myportfolio.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/TylerJR14) / [portfolio](https://tylerjrutherford.myportfolio.com/)
   
   Taken at Unknown • 
   
@@ -22,10 +22,10 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 600D |
-| Exposure Time | 1/320 |
-| Aperture      | 5.0 |
-| Focal Length  | 159.0 |
+| Camera Model  | Canon EOS 80D |
+| Exposure Time | 30 |
+| Aperture      | 1.8 |
+| Focal Length  | 35.0 |
 | ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
