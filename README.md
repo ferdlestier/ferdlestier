@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-mountains-under-milky-way-galaxy--wEFdRCG4IU"><img width="720" src="https://images.unsplash.com/photo-1498611291069-aa296192f1e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTcyMjUzMzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountains under milky way galaxy"></a>
+  <a href="https://unsplash.com/photos/mountains-are-beneath-a-starry-night-sky-tO4y90Qhoq0"><img width="720" src="https://images.unsplash.com/photo-1750166942048-9a51da2bcefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTczMTE5MDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="Mountains are beneath a starry night sky."></a>
   
-  <em>silhouette of mountains under milky way galaxy</em>
+  <em>Mountains are beneath a starry night sky.</em>
   
-  <em></em>
+  <em>Night sky in Himalayas behind Mount Meru in the Himalayas</em>
 
-  Photo by [Robson Hatsukami Morgan](https://www.instagram.com/robsonhmorgan/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/robsonhmorgan) / [portfolio](https://www.instagram.com/robsonhmorgan/) / [Twitter](https://twitter.com/robsonhmorgan)
+  Photo by [Harsh Rana](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Mammoth Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.648546,-118.972079)
+  Taken at Uttarkashi, Uttarkashi, India • [Google Maps](https://www.google.com/maps/search/?api=1&query=30.730807,78.444384)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 20 |
+| Camera Model  | null |
+| Exposure Time | null |
 | Aperture      | null |
 | Focal Length  | null |
-| ISO           | 6400 |
-| Location      | Mammoth Lakes, United States (United States) |
-| Coordinates   | Latitude 37.648546, Longitude -118.972079 |
+| ISO           | null |
+| Location      | Uttarkashi, Uttarkashi, India (India) |
+| Coordinates   | Latitude 30.730807, Longitude 78.444384 |
 
 </details>
 
