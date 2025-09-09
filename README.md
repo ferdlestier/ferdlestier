@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountains-are-beneath-a-starry-night-sky-tO4y90Qhoq0"><img width="720" src="https://images.unsplash.com/photo-1750166942048-9a51da2bcefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTczMTE5MDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="Mountains are beneath a starry night sky."></a>
+  <a href="https://unsplash.com/photos/forest-during-night-TPug5zhUy90"><img width="720" src="https://images.unsplash.com/photo-1568563276503-767f3a42001d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTczOTgyNjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest during night"></a>
   
-  <em>Mountains are beneath a starry night sky.</em>
+  <em>forest during night</em>
   
-  <em>Night sky in Himalayas behind Mount Meru in the Himalayas</em>
+  <em>Another day</em>
 
-  Photo by [Harsh Rana](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Carl Nenzen Loven](https://www.instagram.com/nenzenlovencarl/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nenzenlovencarl) / [portfolio](https://www.instagram.com/nenzenlovencarl/) / [Twitter](https://twitter.com/nenzenloven)
   
-  Taken at Uttarkashi, Uttarkashi, India • [Google Maps](https://www.google.com/maps/search/?api=1&query=30.730807,78.444384)
+  Taken at USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.09024,-95.712891)
   
   ---
   
@@ -27,8 +27,8 @@
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Uttarkashi, Uttarkashi, India (India) |
-| Coordinates   | Latitude 30.730807, Longitude 78.444384 |
+| Location      | USA (United States) |
+| Coordinates   | Latitude 37.09024, Longitude -95.712891 |
 
 </details>
 
