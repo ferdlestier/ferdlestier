@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-and-the-milky-zUoFphIRgP4"><img width="720" src="https://images.unsplash.com/photo-1729012492237-bb7b290d3336?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc4MzAxNzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="The night sky is filled with stars and the milky"></a>
+  <a href="https://unsplash.com/photos/silhouette-photography-of-trees-and-milky-way-galaxy-_K-nlEnF310"><img width="720" src="https://images.unsplash.com/photo-1563991870579-1a043edd79df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc5MTY3MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photography of trees and milky way galaxy"></a>
   
-  <em>The night sky is filled with stars and the milky</em>
+  <em>silhouette photography of trees and milky way galaxy</em>
   
-  <em>the night sky filled with stars above a lake, with an ice mountain at the back</em>
+  <em>Clouds radiating from the galactic core</em>
 
-  Photo by [Khaled Ali](http://Khaled.dquality.de) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/khkar) / [portfolio](http://Khaled.dquality.de) / [Twitter](https://twitter.com/KhKar5)
+  Photo by [Justin Long](null) on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
+| Camera Model  | PENTAX K-1 |
 | Exposure Time | 10 |
-| Aperture      | 1.4 |
-| Focal Length  | 20.0 |
-| ISO           | 3200 |
+| Aperture      | 2.4 |
+| Focal Length  | 15.0 |
+| ISO           | 12800 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
