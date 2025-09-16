@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photography-of-trees-and-milky-way-galaxy-_K-nlEnF310"><img width="720" src="https://images.unsplash.com/photo-1563991870579-1a043edd79df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc5MTY3MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photography of trees and milky way galaxy"></a>
+  <a href="https://unsplash.com/photos/a-view-of-the-night-sky-with-a-lot-of-stars-7hWHIujJHV4"><img width="720" src="https://images.unsplash.com/photo-1652633669103-ec7c3f966aa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTgwMDMwNDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a view of the night sky with a lot of stars"></a>
   
-  <em>silhouette photography of trees and milky way galaxy</em>
+  <em>a view of the night sky with a lot of stars</em>
   
-  <em>Clouds radiating from the galactic core</em>
+  <em></em>
 
-  Photo by [Justin Long](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Ken Oliver Escoliada](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/x_oliver_janiya_x)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | PENTAX K-1 |
-| Exposure Time | 10 |
-| Aperture      | 2.4 |
-| Focal Length  | 15.0 |
-| ISO           | 12800 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
