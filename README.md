@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-mountain-under-starry-night-bTF46B2HwpI"><img width="720" src="https://images.unsplash.com/photo-1597816202203-7e6403ffbf44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTgyNjIyNDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountain under starry night"></a>
+  <a href="https://unsplash.com/photos/starry-night-sky-over-silhouetted-mountains-pR6Db_SiPco"><img width="720" src="https://images.unsplash.com/photo-1756091710850-458a7b0bf795?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTgzNDg1ODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="Starry night sky over silhouetted mountains"></a>
   
-  <em>silhouette of mountain under starry night</em>
+  <em>Starry night sky over silhouetted mountains</em>
   
-  <em></em>
+  <em>Milky Way Over the Mountains</em>
 
-  Photo by [Leo_Visions](https://linktr.ee/stephenleo1982) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Leo_visions_) / [portfolio](https://linktr.ee/stephenleo1982) / [Twitter](https://twitter.com/stephenleo1982)
+  Photo by [Ahmet Yüksek ✪](http://www.ahmetyuksek.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ahmetyuksek.art) / [portfolio](http://www.ahmetyuksek.com)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS Ra |
-| Exposure Time | 25 |
-| Aperture      | 1.8 |
-| Focal Length  | 14.0 |
-| ISO           | 2500 |
+| Camera Model  | ILCE-7RM3 |
+| Exposure Time | 8 |
+| Aperture      | 2.8 |
+| Focal Length  | 28.0 |
+| ISO           | 4000 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
