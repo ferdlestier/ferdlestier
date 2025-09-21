@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/starry-night-sky-over-silhouetted-mountains-pR6Db_SiPco"><img width="720" src="https://images.unsplash.com/photo-1756091710850-458a7b0bf795?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTgzNDg1ODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="Starry night sky over silhouetted mountains"></a>
+  <a href="https://unsplash.com/photos/the-night-sky-with-stars-above-a-mountain-e1zUKFON11A"><img width="720" src="https://images.unsplash.com/photo-1679473379899-20654f983d1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg0MzQ5OTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky with stars above a mountain"></a>
   
-  <em>Starry night sky over silhouetted mountains</em>
+  <em>the night sky with stars above a mountain</em>
   
-  <em>Milky Way Over the Mountains</em>
+  <em>Milky Way in Dolomites</em>
 
-  Photo by [Ahmet Yüksek ✪](http://www.ahmetyuksek.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ahmetyuksek.art) / [portfolio](http://www.ahmetyuksek.com)
+  Photo by [Felix Rottmann](null) on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM3 |
-| Exposure Time | 8 |
+| Camera Model  | NIKON Z 6 |
+| Exposure Time | 13 |
 | Aperture      | 2.8 |
-| Focal Length  | 28.0 |
-| ISO           | 4000 |
+| Focal Length  | 15.0 |
+| ISO           | 5000 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
