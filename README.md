@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-with-stars-above-a-mountain-e1zUKFON11A"><img width="720" src="https://images.unsplash.com/photo-1679473379899-20654f983d1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg0MzQ5OTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky with stars above a mountain"></a>
+  <a href="https://unsplash.com/photos/the-night-sky-with-stars-above-a-mountain-bS_fVqNA3Xs"><img width="720" src="https://images.unsplash.com/photo-1644795066635-a0d78e066683?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg1MjE1MTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky with stars above a mountain"></a>
   
   <em>the night sky with stars above a mountain</em>
   
-  <em>Milky Way in Dolomites</em>
+  <em></em>
 
-  Photo by [Felix Rottmann](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Kochar Sahibpreet Singh](https://skochar.work/work) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/shutupsherlock) / [portfolio](https://skochar.work/work)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON Z 6 |
-| Exposure Time | 13 |
-| Aperture      | 2.8 |
-| Focal Length  | 15.0 |
-| ISO           | 5000 |
+| Camera Model  |  EOS 200D II |
+| Exposure Time | 25 |
+| Aperture      | 4.0 |
+| Focal Length  | 18.0 |
+| ISO           | 3200 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
