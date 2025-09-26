@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-view-of-the-night-sky-with-the-milky-in-the-background-e33A1jqq2_I"><img width="720" src="https://images.unsplash.com/photo-1694587970304-028af7de519a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg3ODA3MDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a view of the night sky with the milky in the background"></a>
+  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-cWha1mbYrnQ"><img width="720" src="https://images.unsplash.com/photo-1697606739823-49e666b106be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg4NjcwNTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky is filled with stars above a mountain"></a>
   
-  <em>a view of the night sky with the milky in the background</em>
+  <em>the night sky is filled with stars above a mountain</em>
   
-  <em></em>
+  <em>Mt. Everest And the Galaxy.</em>
 
-  Photo by [Yifu Wu](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Shanmu Wang](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/wshanmu)
   
-  Taken at Bishop, CA, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.361394,-118.395236)
+  Taken at Tibet, China • [Google Maps](https://www.google.com/maps/search/?api=1&query=29.64724,91.11745)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T5 |
-| Exposure Time | 30 |
-| Aperture      | 2.8 |
-| Focal Length  | 8.0 |
-| ISO           | 3200 |
-| Location      | Bishop, CA, USA (United States) |
-| Coordinates   | Latitude 37.361394, Longitude -118.395236 |
+| Camera Model  | Nikon Z 6 |
+| Exposure Time | 4 |
+| Aperture      | 1.8 |
+| Focal Length  | 30.6 |
+| ISO           | 10000 |
+| Location      | Tibet, China (China) |
+| Coordinates   | Latitude 29.64724, Longitude 91.11745 |
 
 </details>
 
