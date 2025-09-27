@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-cWha1mbYrnQ"><img width="720" src="https://images.unsplash.com/photo-1697606739823-49e666b106be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg4NjcwNTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="the night sky is filled with stars above a mountain"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-trees-and-snow-covered-mountain-with-blue-sky-zs4rmE_HOrI"><img width="720" src="https://images.unsplash.com/photo-1514903437805-733958cf9bb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg5NTMzNjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of trees and snow covered mountain with blue sky"></a>
   
-  <em>the night sky is filled with stars above a mountain</em>
+  <em>silhouette of trees and snow covered mountain with blue sky</em>
   
-  <em>Mt. Everest And the Galaxy.</em>
+  <em></em>
 
-  Photo by [Shanmu Wang](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/wshanmu)
+  Photo by [Brendan Miranda](http://www.youtube.com/brendanmiranda) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/brendanmvisuals) / [portfolio](http://www.youtube.com/brendanmiranda) / [Twitter](https://twitter.com/brendanmvisuals)
   
-  Taken at Tibet, China • [Google Maps](https://www.google.com/maps/search/?api=1&query=29.64724,91.11745)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Nikon Z 6 |
-| Exposure Time | 4 |
-| Aperture      | 1.8 |
-| Focal Length  | 30.6 |
-| ISO           | 10000 |
-| Location      | Tibet, China (China) |
-| Coordinates   | Latitude 29.64724, Longitude 91.11745 |
+| Camera Model  | ILCE-7SM2 |
+| Exposure Time | 5 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 20000 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
