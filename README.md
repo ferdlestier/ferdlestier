@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-trees-and-snow-covered-mountain-with-blue-sky-zs4rmE_HOrI"><img width="720" src="https://images.unsplash.com/photo-1514903437805-733958cf9bb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg5NTMzNjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of trees and snow covered mountain with blue sky"></a>
+  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-range-IUfj5SmScJg"><img width="720" src="https://images.unsplash.com/photo-1723279893372-c4e430158b12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkwMzk4MDJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="The night sky is filled with stars above a mountain range"></a>
   
-  <em>silhouette of trees and snow covered mountain with blue sky</em>
+  <em>The night sky is filled with stars above a mountain range</em>
   
   <em></em>
 
-  Photo by [Brendan Miranda](http://www.youtube.com/brendanmiranda) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/brendanmvisuals) / [portfolio](http://www.youtube.com/brendanmiranda) / [Twitter](https://twitter.com/brendanmvisuals)
+  Photo by [Masaaki Ishikawa](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Unknown • 
+  Taken at Yangshan • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7SM2 |
-| Exposure Time | 5 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
-| ISO           | 20000 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-7RM5 |
+| Exposure Time | 30 |
+| Aperture      | 2.8 |
+| Focal Length  | 24.0 |
+| ISO           | 3200 |
+| Location      | Yangshan (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
