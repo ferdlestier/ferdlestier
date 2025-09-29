@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-range-IUfj5SmScJg"><img width="720" src="https://images.unsplash.com/photo-1723279893372-c4e430158b12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkwMzk4MDJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="The night sky is filled with stars above a mountain range"></a>
+  <a href="https://unsplash.com/photos/stars-shine-over-mountains-at-night-oogsQ4jWgTw"><img width="720" src="https://images.unsplash.com/photo-1753937462634-9662d83c0491?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkxMjYzMzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="Stars shine over mountains at night."></a>
   
-  <em>The night sky is filled with stars above a mountain range</em>
+  <em>Stars shine over mountains at night.</em>
   
   <em></em>
 
-  Photo by [Masaaki Ishikawa](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [wallace Henry](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/wallace_henry_2.0)
   
-  Taken at Yangshan • 
+  Taken at Yosemite National Park, California, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.865101,-119.538329)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM5 |
-| Exposure Time | 30 |
-| Aperture      | 2.8 |
-| Focal Length  | 24.0 |
-| ISO           | 3200 |
-| Location      | Yangshan (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Yosemite National Park, California, USA (United States) |
+| Coordinates   | Latitude 37.865101, Longitude -119.538329 |
 
 </details>
 
