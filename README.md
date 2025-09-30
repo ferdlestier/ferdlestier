@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/stars-shine-over-mountains-at-night-oogsQ4jWgTw"><img width="720" src="https://images.unsplash.com/photo-1753937462634-9662d83c0491?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkxMjYzMzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="Stars shine over mountains at night."></a>
+  <a href="https://unsplash.com/photos/photo-of-aurora-sky-aqjMYeMgAAQ"><img width="720" src="https://images.unsplash.com/photo-1517677906-7093f3f902e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkyMTI3MTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of aurora sky"></a>
   
-  <em>Stars shine over mountains at night.</em>
+  <em>photo of aurora sky</em>
   
   <em></em>
 
-  Photo by [wallace Henry](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/wallace_henry_2.0)
+  Photo by [Joe Yates](http://wildrmedia.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Josephyates_) / [portfolio](http://wildrmedia.com) / [Twitter](https://twitter.com/JosephYates_)
   
-  Taken at Yosemite National Park, California, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.865101,-119.538329)
+  Taken at Unknown • 
   
   ---
   
@@ -27,8 +27,8 @@
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Yosemite National Park, California, USA (United States) |
-| Coordinates   | Latitude 37.865101, Longitude -119.538329 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
