@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-aurora-sky-aqjMYeMgAAQ"><img width="720" src="https://images.unsplash.com/photo-1517677906-7093f3f902e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkyMTI3MTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of aurora sky"></a>
+  <a href="https://unsplash.com/photos/milkyway-at-nighttime-Y3FZmXCz32s"><img width="720" src="https://images.unsplash.com/flagged/photo-1571681384412-caacf825033d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkyOTkwOTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="milkyway at nighttime"></a>
   
-  <em>photo of aurora sky</em>
+  <em>milkyway at nighttime</em>
   
-  <em></em>
+  <em>Switzerland</em>
 
-  Photo by [Joe Yates](http://wildrmedia.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Josephyates_) / [portfolio](http://wildrmedia.com) / [Twitter](https://twitter.com/JosephYates_)
+  Photo by [Marek Piwnicki](https://marpiwnicki.github.io) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marekpiwnicki) / [portfolio](https://marpiwnicki.github.io)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 33 |
+| Aperture      | 4.0 |
+| Focal Length  | 17.0 |
+| ISO           | 3200 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
