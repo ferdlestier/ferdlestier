@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/milkyway-at-nighttime-Y3FZmXCz32s"><img width="720" src="https://images.unsplash.com/flagged/photo-1571681384412-caacf825033d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkyOTkwOTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="milkyway at nighttime"></a>
+  <a href="https://unsplash.com/photos/mountain-and-galaxy-sky-scenery-k32k104_xVI"><img width="720" src="https://images.unsplash.com/photo-1563396933413-16bcc11f868f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkzODU0NTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain and galaxy sky scenery"></a>
   
-  <em>milkyway at nighttime</em>
+  <em>mountain and galaxy sky scenery</em>
   
-  <em>Switzerland</em>
+  <em>Starry night surprise</em>
 
-  Photo by [Marek Piwnicki](https://marpiwnicki.github.io) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marekpiwnicki) / [portfolio](https://marpiwnicki.github.io)
+  Photo by [Carl Nenzen Loven](https://www.instagram.com/nenzenlovencarl/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nenzenlovencarl) / [portfolio](https://www.instagram.com/nenzenlovencarl/) / [Twitter](https://twitter.com/nenzenloven)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 33 |
-| Aperture      | 4.0 |
-| Focal Length  | 17.0 |
-| ISO           | 3200 |
+| Camera Model  | ILCE-7R |
+| Exposure Time | 10 |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | 8000 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
