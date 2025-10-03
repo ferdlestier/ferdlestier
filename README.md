@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-and-galaxy-sky-scenery-k32k104_xVI"><img width="720" src="https://images.unsplash.com/photo-1563396933413-16bcc11f868f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkzODU0NTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain and galaxy sky scenery"></a>
+  <a href="https://unsplash.com/photos/mountain-peak-during-night-time-OxZXO5PMJpY"><img width="720" src="https://images.unsplash.com/photo-1520356268977-c82f428f67b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk0NzE4MzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain peak during night time"></a>
   
-  <em>mountain and galaxy sky scenery</em>
+  <em>mountain peak during night time</em>
   
-  <em>Starry night surprise</em>
+  <em>Moonlit mountain</em>
 
-  Photo by [Carl Nenzen Loven](https://www.instagram.com/nenzenlovencarl/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nenzenlovencarl) / [portfolio](https://www.instagram.com/nenzenlovencarl/) / [Twitter](https://twitter.com/nenzenloven)
+  Photo by [Sebastian Scheuer](http://www.sebastianscheuer.eu) on [unsplash.com](https://unsplash.com/) • [portfolio](http://www.sebastianscheuer.eu)
   
-  Taken at Unknown • 
+  Taken at Lax, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.3888552,8.12003570000002)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7R |
+| Camera Model  | Canon EOS 7D Mark II |
 | Exposure Time | 10 |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | 8000 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Aperture      | 2.8 |
+| Focal Length  | 35.0 |
+| ISO           | 320 |
+| Location      | Lax, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.3888552, Longitude 8.12003570000002 |
 
 </details>
 
