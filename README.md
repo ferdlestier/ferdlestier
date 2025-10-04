@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-peak-during-night-time-OxZXO5PMJpY"><img width="720" src="https://images.unsplash.com/photo-1520356268977-c82f428f67b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk0NzE4MzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain peak during night time"></a>
+  <a href="https://unsplash.com/photos/a-night-sky-with-stars-above-a-mountain-range-jzokxnaObw8"><img width="720" src="https://images.unsplash.com/photo-1652610797951-c9992b49496a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk1NTgxNzh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a night sky with stars above a mountain range"></a>
   
-  <em>mountain peak during night time</em>
+  <em>a night sky with stars above a mountain range</em>
   
-  <em>Moonlit mountain</em>
+  <em></em>
 
-  Photo by [Sebastian Scheuer](http://www.sebastianscheuer.eu) on [unsplash.com](https://unsplash.com/) • [portfolio](http://www.sebastianscheuer.eu)
+  Photo by [David Schaubert](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Lax, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.3888552,8.12003570000002)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 7D Mark II |
-| Exposure Time | 10 |
-| Aperture      | 2.8 |
-| Focal Length  | 35.0 |
-| ISO           | 320 |
-| Location      | Lax, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.3888552, Longitude 8.12003570000002 |
+| Camera Model  | ILCE-7M3 |
+| Exposure Time | 6 |
+| Aperture      | 1.8 |
+| Focal Length  | 85.0 |
+| ISO           | 800 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
