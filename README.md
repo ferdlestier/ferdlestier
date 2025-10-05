@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-night-sky-with-stars-above-a-mountain-range-jzokxnaObw8"><img width="720" src="https://images.unsplash.com/photo-1652610797951-c9992b49496a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk1NTgxNzh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a night sky with stars above a mountain range"></a>
+  <a href="https://unsplash.com/photos/milky-way-shines-over-mountain-peaks-qNXhVgRfU0E"><img width="720" src="https://images.unsplash.com/photo-1750801321932-3d3e3fcdfdcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk2NDQ1Nzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="Milky way shines over mountain peaks."></a>
   
-  <em>a night sky with stars above a mountain range</em>
+  <em>Milky way shines over mountain peaks.</em>
   
   <em></em>
 
-  Photo by [David Schaubert](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Venti Views](http://ventiviews.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ventiviews) / [portfolio](http://ventiviews.com)
   
-  Taken at Unknown • 
+  Taken at Yosemite National Park, California, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.865101,-119.538329)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M3 |
-| Exposure Time | 6 |
-| Aperture      | 1.8 |
-| Focal Length  | 85.0 |
-| ISO           | 800 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-7M4 |
+| Exposure Time | 30 |
+| Aperture      | 2.8 |
+| Focal Length  | 16.0 |
+| ISO           | 4000 |
+| Location      | Yosemite National Park, California, USA (United States) |
+| Coordinates   | Latitude 37.865101, Longitude -119.538329 |
 
 </details>
 
