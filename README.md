@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-person-standing-on-rock-formation-under-starry-night-tJeE_Jad2zg"><img width="720" src="https://images.unsplash.com/photo-1583307573805-784f8727eadc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk3MzExMDJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of person standing on rock formation under starry night"></a>
+  <a href="https://unsplash.com/photos/silhouette-photography-of-mountain-under-sky-kwVdnDhT7OI"><img width="720" src="https://images.unsplash.com/photo-1539485630551-061fb583fa41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk4MTc0NzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photography of mountain under sky"></a>
   
-  <em>silhouette of person standing on rock formation under starry night</em>
+  <em>silhouette photography of mountain under sky</em>
   
-  <em></em>
+  <em>Utah Sky</em>
 
-  Photo by [Leo_Visions](https://linktr.ee/stephenleo1982) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Leo_visions_) / [portfolio](https://linktr.ee/stephenleo1982) / [Twitter](https://twitter.com/stephenleo1982)
+  Photo by [Clark Tibbs](null) on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/ClarkTibbs)
   
-  Taken at Alabama Hills, California, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.61,-118.1)
+  Taken at Arches National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.733081,-109.5925139)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark IV |
-| Exposure Time | 25 |
-| Aperture      | 2.8 |
-| Focal Length  | 16.0 |
-| ISO           | 1000 |
-| Location      | Alabama Hills, California, USA (United States) |
-| Coordinates   | Latitude 36.61, Longitude -118.1 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 15 |
+| Aperture      | 2.0 |
+| Focal Length  | 35.0 |
+| ISO           | 1250 |
+| Location      | Arches National Park, United States (United States) |
+| Coordinates   | Latitude 38.733081, Longitude -109.5925139 |
 
 </details>
 
