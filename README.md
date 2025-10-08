@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photography-of-mountain-under-sky-kwVdnDhT7OI"><img width="720" src="https://images.unsplash.com/photo-1539485630551-061fb583fa41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk4MTc0NzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photography of mountain under sky"></a>
+  <a href="https://unsplash.com/photos/mountains-stand-underneath-a-starry-night-sky--3_1nqPsk1M"><img width="720" src="https://images.unsplash.com/photo-1750166507881-d1deab1472ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk5MDM4OTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Mountains stand underneath a starry night sky."></a>
   
-  <em>silhouette photography of mountain under sky</em>
+  <em>Mountains stand underneath a starry night sky.</em>
   
-  <em>Utah Sky</em>
+  <em>Majestic Mount Shivling in night with Milky way galaxy behind</em>
 
-  Photo by [Clark Tibbs](null) on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/ClarkTibbs)
+  Photo by [Harsh Rana](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Arches National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.733081,-109.5925139)
+  Taken at Uttarkashi, Uttarkashi, India • [Google Maps](https://www.google.com/maps/search/?api=1&query=30.730807,78.444384)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 15 |
-| Aperture      | 2.0 |
-| Focal Length  | 35.0 |
-| ISO           | 1250 |
-| Location      | Arches National Park, United States (United States) |
-| Coordinates   | Latitude 38.733081, Longitude -109.5925139 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Uttarkashi, Uttarkashi, India (India) |
+| Coordinates   | Latitude 30.730807, Longitude 78.444384 |
 
 </details>
 
