@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountains-stand-underneath-a-starry-night-sky--3_1nqPsk1M"><img width="720" src="https://images.unsplash.com/photo-1750166507881-d1deab1472ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk5MDM4OTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Mountains stand underneath a starry night sky."></a>
+  <a href="https://unsplash.com/photos/a-large-group-of-stars-in-the-sky-AEeCWnKSWY8"><img width="720" src="https://images.unsplash.com/photo-1709403338204-fd3ebeb4582a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk5OTAyOTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a large group of stars in the sky"></a>
   
-  <em>Mountains stand underneath a starry night sky.</em>
+  <em>a large group of stars in the sky</em>
   
-  <em>Majestic Mount Shivling in night with Milky way galaxy behind</em>
+  <em>Nighttime Sky View of Future Galaxy Merger: 3.85-3.9 Billion Years Caption During the first close approach, the sky is ablaze with new star formation, which is evident in a plethora of emission nebulae and open young star clusters. Credits Science Illustration: NASA, ESA, Z. Levay and R. van der Marel (STScI), T. Hallas, and A. Mellinger</em>
 
-  Photo by [Harsh Rana](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [NASA Hubble Space Telescope](https://hubblesite.org/home) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/space_telescopes) / [portfolio](https://hubblesite.org/home) / [Twitter](https://twitter.com/HubbleTelescope)
   
-  Taken at Uttarkashi, Uttarkashi, India • [Google Maps](https://www.google.com/maps/search/?api=1&query=30.730807,78.444384)
+  Taken at Unknown • 
   
   ---
   
@@ -27,8 +27,8 @@
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Uttarkashi, Uttarkashi, India (India) |
-| Coordinates   | Latitude 30.730807, Longitude 78.444384 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
