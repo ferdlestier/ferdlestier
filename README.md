@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-large-group-of-stars-in-the-sky-AEeCWnKSWY8"><img width="720" src="https://images.unsplash.com/photo-1709403338204-fd3ebeb4582a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk5OTAyOTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a large group of stars in the sky"></a>
+  <a href="https://unsplash.com/photos/green-trees-on-mountain-under-starry-night-ABn7axqKIgI"><img width="720" src="https://images.unsplash.com/photo-1620680548354-c38a14704b1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjAwNzY2OTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green trees on mountain under starry night"></a>
   
-  <em>a large group of stars in the sky</em>
+  <em>green trees on mountain under starry night</em>
   
-  <em>Nighttime Sky View of Future Galaxy Merger: 3.85-3.9 Billion Years Caption During the first close approach, the sky is ablaze with new star formation, which is evident in a plethora of emission nebulae and open young star clusters. Credits Science Illustration: NASA, ESA, Z. Levay and R. van der Marel (STScI), T. Hallas, and A. Mellinger</em>
+  <em>Milky Way core over a mountain (Zwölferhorn)</em>
 
-  Photo by [NASA Hubble Space Telescope](https://hubblesite.org/home) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/space_telescopes) / [portfolio](https://hubblesite.org/home) / [Twitter](https://twitter.com/HubbleTelescope)
+  Photo by [Sebastian Knoll](https://sebastianknoll.net/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sebastianknoll) / [portfolio](https://sebastianknoll.net/)
   
-  Taken at Unknown • 
+  Taken at Zwölferhorn, Österreich • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.733333,13.35)
   
   ---
   
@@ -27,8 +27,8 @@
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Location      | Zwölferhorn, Österreich (Österreich) |
+| Coordinates   | Latitude 47.733333, Longitude 13.35 |
 
 </details>
 
