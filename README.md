@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-mountain-under-starry-night-KzcakF33N_w"><img width="720" src="https://images.unsplash.com/photo-1593080063017-dff0fb292a57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA1MDg3MTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountain under starry night"></a>
+  <a href="https://unsplash.com/photos/a-night-sky-filled-with-stars-above-a-lake-Jn2sd6zEXBY"><img width="720" src="https://images.unsplash.com/photo-1637102838603-d1c02da68c66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA1OTUxMTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="a night sky filled with stars above a lake"></a>
   
-  <em>silhouette of mountain under starry night</em>
+  <em>a night sky filled with stars above a lake</em>
   
   <em></em>
 
-  Photo by [Dong Xie](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chuchongju)
+  Photo by [Casey Horner](http://paypal.me./CaseyHorner) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mischievous_penguins) / [portfolio](http://paypal.me./CaseyHorner)
   
   Taken at Unknown • 
   
@@ -22,9 +22,9 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D610 |
+| Camera Model  | ILCE-7M3 |
 | Exposure Time | 15 |
-| Aperture      | 2.8 |
+| Aperture      | 1.6 |
 | Focal Length  | 24.0 |
 | ISO           | 6400 |
 | Location      | Unknown (null) |
