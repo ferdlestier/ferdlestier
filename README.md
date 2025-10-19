@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-under-starry-night-3-c_auIU2tQ"><img width="720" src="https://images.unsplash.com/photo-1586829135343-132950070391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA3Njc3OTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under starry night"></a>
+  <a href="https://unsplash.com/photos/starry-purple-and-gray-sky-01vuRBv9u2I"><img width="720" src="https://images.unsplash.com/photo-1566241538735-a01aed7b9bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA4NTQyMTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="starry purple and gray sky"></a>
   
-  <em>snow covered mountain under starry night</em>
+  <em>starry purple and gray sky</em>
   
-  <em>Milky Way in Banff, Canada. </em>
+  <em>The stars in the Himalayan mountain range were unbelievable. Here they are from caves on a hill above Tabo, Spiti Valley, Himachal Pradesh, India.</em>
 
-  Photo by [Bence Horvai](http://www.bencehorvai.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bencehorvai) / [portfolio](http://www.bencehorvai.com) / [Twitter](https://twitter.com/bencehorvai)
+  Photo by [Matt Antonioli](https://mattantonioli.myportfolio.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/theturnin) / [portfolio](https://mattantonioli.myportfolio.com/)
   
-  Taken at Banff, Banff, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.178506,-115.574277)
+  Taken at Tabo, Spiti Valley, Himachal Pradesh, India • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS R |
+| Camera Model  | 5D Mark III |
 | Exposure Time | 20 |
-| Aperture      | 1.4 |
-| Focal Length  | 35.0 |
-| ISO           | 2000 |
-| Location      | Banff, Banff, Canada (Canada) |
-| Coordinates   | Latitude 51.178506, Longitude -115.574277 |
+| Aperture      | 4 |
+| Focal Length  | 24.0 |
+| ISO           | 6400 |
+| Location      | Tabo, Spiti Valley, Himachal Pradesh, India (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
