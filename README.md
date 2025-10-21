@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-and-galaxy-sky-scenery-k32k104_xVI"><img width="720" src="https://images.unsplash.com/photo-1563396933413-16bcc11f868f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA5NDA3MTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain and galaxy sky scenery"></a>
+  <a href="https://unsplash.com/photos/a-snow-covered-mountain-uEmXlM1_eAk"><img width="720" src="https://images.unsplash.com/photo-1664386047639-9144c4f37b8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjEwMjcxMTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a snow covered mountain"></a>
   
-  <em>mountain and galaxy sky scenery</em>
+  <em>a snow covered mountain</em>
   
-  <em>Starry night surprise</em>
+  <em></em>
 
-  Photo by [Carl Nenzen Loven](https://www.instagram.com/nenzenlovencarl/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nenzenlovencarl) / [portfolio](https://www.instagram.com/nenzenlovencarl/) / [Twitter](https://twitter.com/nenzenloven)
+  Photo by [Evgeny Ozerov](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/eozrv)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7R |
+| Camera Model  | ILCE-7M3 |
 | Exposure Time | 10 |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | 8000 |
+| Aperture      | 1.4 |
+| Focal Length  | 35.0 |
+| ISO           | 10000 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
