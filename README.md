@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-snow-covered-mountain-uEmXlM1_eAk"><img width="720" src="https://images.unsplash.com/photo-1664386047639-9144c4f37b8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjEwMjcxMTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a snow covered mountain"></a>
+  <a href="https://unsplash.com/photos/snow-covered-mountain-under-starry-night-bnGri2G0i4U"><img width="720" src="https://images.unsplash.com/photo-1610814426508-bc6dcda34c14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjExMTM1MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under starry night"></a>
   
-  <em>a snow covered mountain</em>
+  <em>snow covered mountain under starry night</em>
   
   <em></em>
 
-  Photo by [Evgeny Ozerov](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/eozrv)
+  Photo by [Somnath Ghosh](null) on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M3 |
-| Exposure Time | 10 |
-| Aperture      | 1.4 |
-| Focal Length  | 35.0 |
-| ISO           | 10000 |
+| Camera Model  | Canon EOS 200D II |
+| Exposure Time | 1/640 |
+| Aperture      | 8.0 |
+| Focal Length  | 18.0 |
+| ISO           | 640 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
