@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-under-starry-night-bnGri2G0i4U"><img width="720" src="https://images.unsplash.com/photo-1610814426508-bc6dcda34c14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjExMTM1MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under starry night"></a>
+  <a href="https://unsplash.com/photos/a-black-and-white-photo-of-a-mountain-LTvgn-97uqA"><img width="720" src="https://images.unsplash.com/photo-1678215869959-0e8b6cf5bf30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjExOTk4OTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a black and white photo of a mountain"></a>
   
-  <em>snow covered mountain under starry night</em>
+  <em>a black and white photo of a mountain</em>
   
   <em></em>
 
-  Photo by [Somnath Ghosh](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Akilan vigneshwar](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/__aki__mm) / [Twitter](https://twitter.com/akilanvignesh)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 200D II |
-| Exposure Time | 1/640 |
-| Aperture      | 8.0 |
-| Focal Length  | 18.0 |
-| ISO           | 640 |
+| Camera Model  | X-T3 |
+| Exposure Time | 1/1000 |
+| Aperture      | 1.0 |
+| Focal Length  | 21.0 |
+| ISO           | 800 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
