@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-black-and-white-photo-of-a-mountain-LTvgn-97uqA"><img width="720" src="https://images.unsplash.com/photo-1678215869959-0e8b6cf5bf30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjExOTk4OTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a black and white photo of a mountain"></a>
+  <a href="https://unsplash.com/photos/mountains-are-beneath-a-starry-night-sky-tO4y90Qhoq0"><img width="720" src="https://images.unsplash.com/photo-1750166942048-9a51da2bcefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjEyODYyODJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Mountains are beneath a starry night sky."></a>
   
-  <em>a black and white photo of a mountain</em>
+  <em>Mountains are beneath a starry night sky.</em>
   
-  <em></em>
+  <em>Night sky in Himalayas behind Mount Meru in the Himalayas</em>
 
-  Photo by [Akilan vigneshwar](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/__aki__mm) / [Twitter](https://twitter.com/akilanvignesh)
+  Photo by [Harsh Rana](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Unknown • 
+  Taken at Uttarkashi, Uttarkashi, India • [Google Maps](https://www.google.com/maps/search/?api=1&query=30.730807,78.444384)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T3 |
-| Exposure Time | 1/1000 |
-| Aperture      | 1.0 |
-| Focal Length  | 21.0 |
-| ISO           | 800 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Uttarkashi, Uttarkashi, India (India) |
+| Coordinates   | Latitude 30.730807, Longitude 78.444384 |
 
 </details>
 
