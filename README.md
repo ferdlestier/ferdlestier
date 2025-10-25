@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountains-are-beneath-a-starry-night-sky-tO4y90Qhoq0"><img width="720" src="https://images.unsplash.com/photo-1750166942048-9a51da2bcefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjEyODYyODJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Mountains are beneath a starry night sky."></a>
+  <a href="https://unsplash.com/photos/starry-night-sky-over-majestic-mountains-YPcwPGfX0yM"><img width="720" src="https://images.unsplash.com/photo-1760340642052-ec0fe0225608?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjEzNzI1OTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Starry night sky over majestic mountains"></a>
   
-  <em>Mountains are beneath a starry night sky.</em>
+  <em>Starry night sky over majestic mountains</em>
   
-  <em>Night sky in Himalayas behind Mount Meru in the Himalayas</em>
+  <em></em>
 
-  Photo by [Harsh Rana](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Ryan Klaus](http://www.ryanklaus-store.ch/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/RyanK_Photo) / [portfolio](http://www.ryanklaus-store.ch/) / [Twitter](https://twitter.com/RyanKls14)
   
-  Taken at Uttarkashi, Uttarkashi, India • [Google Maps](https://www.google.com/maps/search/?api=1&query=30.730807,78.444384)
+  Taken at Saint-Luc • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Uttarkashi, Uttarkashi, India (India) |
-| Coordinates   | Latitude 30.730807, Longitude 78.444384 |
+| Camera Model  |  EOS 5D Mark IV |
+| Exposure Time | 63 |
+| Aperture      | 4.0 |
+| Focal Length  | 24.0 |
+| ISO           | 3200 |
+| Location      | Saint-Luc (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
