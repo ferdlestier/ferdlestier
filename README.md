@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/lake-near-mountain-under-blue-sky-during-night-time-xu9ck-3xTvI"><img width="720" src="https://images.unsplash.com/photo-1598469598566-f55fbc9ded59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE4OTEwODZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="lake near mountain under blue sky during night time"></a>
+  <a href="https://unsplash.com/photos/snow-covered-mountain-under-starry-night-8r_wuRw0fuI"><img width="720" src="https://images.unsplash.com/photo-1609554189997-a4932370a926?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE5NzczOTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under starry night"></a>
   
-  <em>lake near mountain under blue sky during night time</em>
+  <em>snow covered mountain under starry night</em>
   
-  <em>Milky way with Matterhorn</em>
+  <em></em>
 
-  Photo by [Pascal Debrunner](https://www.instagram.com/pd_visuals) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pd_visuals) / [portfolio](https://www.instagram.com/pd_visuals)
+  Photo by [Kanata](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ly_copene)
   
-  Taken at Unknown • 
+  Taken at Schwellisee, Arosa, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.764761,9.647716)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M3 |
-| Exposure Time | 15 |
-| Aperture      | 2.5 |
+| Camera Model  | Canon EOS 60D |
+| Exposure Time | 25 |
+| Aperture      | 2.8 |
 | Focal Length  | 20.0 |
-| ISO           | 1600 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| ISO           | 2500 |
+| Location      | Schwellisee, Arosa, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.764761, Longitude 9.647716 |
 
 </details>
 
