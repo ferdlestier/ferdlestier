@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-under-starry-night-8r_wuRw0fuI"><img width="720" src="https://images.unsplash.com/photo-1609554189997-a4932370a926?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE5NzczOTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under starry night"></a>
+  <a href="https://unsplash.com/photos/a-mountain-with-trees-in-front-of-it-u-VTz8H6VJI"><img width="720" src="https://images.unsplash.com/photo-1669649266202-e324411c3476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjIwNjM4MTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="a mountain with trees in front of it"></a>
   
-  <em>snow covered mountain under starry night</em>
+  <em>a mountain with trees in front of it</em>
   
-  <em></em>
+  <em>A beautiful stop in San Candido, in a hidden rest stop on the side of a tiny road with an amazing view on a starry night sky in the Italian Alps</em>
 
-  Photo by [Kanata](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ly_copene)
+  Photo by [Guille Álvarez](http://www.guillealvarez.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/guillealvarez.jpg) / [portfolio](http://www.guillealvarez.com) / [Twitter](https://twitter.com/guillealvareztw)
   
-  Taken at Schwellisee, Arosa, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.764761,9.647716)
+  Taken at San Candido, Autonomous Province of Bolzano – South Tyrol, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.730043,12.280521)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 60D |
-| Exposure Time | 25 |
+| Camera Model  |  EOS 5D Mark II |
+| Exposure Time | 30 |
 | Aperture      | 2.8 |
-| Focal Length  | 20.0 |
-| ISO           | 2500 |
-| Location      | Schwellisee, Arosa, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.764761, Longitude 9.647716 |
+| Focal Length  | 30.0 |
+| ISO           | 800 |
+| Location      | San Candido, Autonomous Province of Bolzano – South Tyrol, Italy (Italy) |
+| Coordinates   | Latitude 46.730043, Longitude 12.280521 |
 
 </details>
 
