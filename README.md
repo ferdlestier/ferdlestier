@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-snow-covered-mountain-under-a-cloudy-blue-sky-5hdZvEJyXnU"><img width="720" src="https://images.unsplash.com/photo-1684771510686-364aa9f2ee27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjIxNTAzMzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="a snow covered mountain under a cloudy blue sky"></a>
+  <a href="https://unsplash.com/photos/mountains-are-beneath-a-starry-night-sky-tO4y90Qhoq0"><img width="720" src="https://images.unsplash.com/photo-1750166942048-9a51da2bcefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjIyMzY3MTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="Mountains are beneath a starry night sky."></a>
   
-  <em>a snow covered mountain under a cloudy blue sky</em>
+  <em>Mountains are beneath a starry night sky.</em>
   
-  <em></em>
+  <em>Night sky in Himalayas behind Mount Meru in the Himalayas</em>
 
-  Photo by [Wolfgang Hasselmann](https://www.youtube.com/@wolfgang_hasselmann/videos) on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.youtube.com/@wolfgang_hasselmann/videos)
+  Photo by [Harsh Rana](null) on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Unknown • 
+  Taken at Uttarkashi, Uttarkashi, India • [Google Maps](https://www.google.com/maps/search/?api=1&query=30.730807,78.444384)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/250 |
-| Aperture      | 8.0 |
-| Focal Length  | 28.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Uttarkashi, Uttarkashi, India (India) |
+| Coordinates   | Latitude 30.730807, Longitude 78.444384 |
 
 </details>
 
