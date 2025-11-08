@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-snowy-mountain-with-stars-in-the-sky-BKrBFtWZ6ls"><img width="720" src="https://images.unsplash.com/photo-1665699304541-10de50f8cfb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI0OTU5MDV8&ixlib=rb-4.1.0&q=80&w=1080" alt="a snowy mountain with stars in the sky"></a>
+  <a href="https://unsplash.com/photos/mountain-covered-with-snow-JXD6K_fAgn4"><img width="720" src="https://images.unsplash.com/photo-1554752788-45c2d4b2e427?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI1ODIyMDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain covered with snow"></a>
   
-  <em>a snowy mountain with stars in the sky</em>
+  <em>mountain covered with snow</em>
   
-  <em>The milky way behind Pikes Peak in Colorado Springs, Colorado.</em>
+  <em></em>
 
-  Photo by [Landon Harris](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Colorfulcoloradoimagery)
+  Photo by [Kevin Brunet](http://kbru.net) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/the.kbru) / [portfolio](http://kbru.net)
   
-  Taken at Pikes Peak, Colorado, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.840871,-105.042259)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 30 |
 | Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Pikes Peak, Colorado, USA (United States) |
-| Coordinates   | Latitude 38.840871, Longitude -105.042259 |
+| Focal Length  | 0.0 |
+| ISO           | 1600 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
