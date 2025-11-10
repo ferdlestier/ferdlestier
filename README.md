@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-and-galaxy-sky-scenery-k32k104_xVI"><img width="720" src="https://images.unsplash.com/photo-1563396933413-16bcc11f868f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI2Njg2MTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain and galaxy sky scenery"></a>
+  <a href="https://unsplash.com/photos/a-view-of-the-night-sky-over-a-mountain-range-Y6ODnhJCOto"><img width="720" src="https://images.unsplash.com/photo-1727799711036-9db397547abb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI3NTUxNDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="A view of the night sky over a mountain range"></a>
   
-  <em>mountain and galaxy sky scenery</em>
+  <em>A view of the night sky over a mountain range</em>
   
-  <em>Starry night surprise</em>
+  <em></em>
 
-  Photo by [Carl Nenzen Loven](https://www.instagram.com/nenzenlovencarl/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nenzenlovencarl) / [portfolio](https://www.instagram.com/nenzenlovencarl/) / [Twitter](https://twitter.com/nenzenloven)
+  Photo by [Hemant Sood](null) on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7R |
-| Exposure Time | 10 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 1/4000 |
 | Aperture      | null |
-| Focal Length  | null |
-| ISO           | 8000 |
+| Focal Length  | 0.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
