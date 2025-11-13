@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountains-stand-underneath-a-starry-night-sky--3_1nqPsk1M"><img width="720" src="https://images.unsplash.com/photo-1750166507881-d1deab1472ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5Mjc5MTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Mountains stand underneath a starry night sky."></a>
+  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-PMPmm23Ce4M"><img width="720" src="https://images.unsplash.com/photo-1720470331470-2d6d2fcbc5a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwMTQzMjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="The night sky is filled with stars above a mountain"></a>
   
-  <em>Mountains stand underneath a starry night sky.</em>
+  <em>The night sky is filled with stars above a mountain</em>
   
-  <em>Majestic Mount Shivling in night with Milky way galaxy behind</em>
+  <em></em>
 
-  Photo by [Harsh Rana](null) on [unsplash.com](https://unsplash.com/) • 
+  Photo by [Sharad Bhat](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sharad_bhat)
   
-  Taken at Uttarkashi, Uttarkashi, India • [Google Maps](https://www.google.com/maps/search/?api=1&query=30.730807,78.444384)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Uttarkashi, Uttarkashi, India (India) |
-| Coordinates   | Latitude 30.730807, Longitude 78.444384 |
+| Camera Model  | ILCE-7M3 |
+| Exposure Time | 10 |
+| Aperture      | 1.8 |
+| Focal Length  | 50.0 |
+| ISO           | 1000 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
