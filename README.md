@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-PMPmm23Ce4M"><img width="720" src="https://images.unsplash.com/photo-1720470331470-2d6d2fcbc5a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwMTQzMjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="The night sky is filled with stars above a mountain"></a>
+  <a href="https://unsplash.com/photos/black-and-white-mountain-under-starry-night-LIHElVwekAI"><img width="720" src="https://images.unsplash.com/photo-1592558944101-f82652d459a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxMDA3MTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="black and white mountain under starry night"></a>
   
-  <em>The night sky is filled with stars above a mountain</em>
+  <em>black and white mountain under starry night</em>
   
-  <em></em>
+  <em>Night Sky above Ehrwald, Austria</em>
 
-  Photo by [Sharad Bhat](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sharad_bhat)
+  Photo by [Kilian Karger](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karger_photography)
   
-  Taken at Unknown • 
+  Taken at Ehrwald, Österreich • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.399881,10.918323)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M3 |
-| Exposure Time | 10 |
-| Aperture      | 1.8 |
-| Focal Length  | 50.0 |
-| ISO           | 1000 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 20 |
+| Aperture      | 2.8 |
+| Focal Length  | 19.0 |
+| ISO           | 6400 |
+| Location      | Ehrwald, Österreich (Österreich) |
+| Coordinates   | Latitude 47.399881, Longitude 10.918323 |
 
 </details>
 
