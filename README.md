@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-and-white-mountain-under-starry-night-LIHElVwekAI"><img width="720" src="https://images.unsplash.com/photo-1592558944101-f82652d459a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxMDA3MTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="black and white mountain under starry night"></a>
+  <a href="https://unsplash.com/photos/mountain-under-gray-sky-23AS61ws1qw"><img width="720" src="https://images.unsplash.com/photo-1557626220-43d82867914b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxODcwMTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain under gray sky"></a>
   
-  <em>black and white mountain under starry night</em>
+  <em>mountain under gray sky</em>
   
-  <em>Night Sky above Ehrwald, Austria</em>
+  <em></em>
 
-  Photo by [Kilian Karger](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karger_photography)
+  Photo by [Casey Horner](http://paypal.me./CaseyHorner) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mischievous_penguins) / [portfolio](http://paypal.me./CaseyHorner)
   
-  Taken at Ehrwald, Österreich • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.399881,10.918323)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 20 |
-| Aperture      | 2.8 |
-| Focal Length  | 19.0 |
+| Camera Model  | ILCE-7M3 |
+| Exposure Time | 15 |
+| Aperture      | 1.4 |
+| Focal Length  | 24.0 |
 | ISO           | 6400 |
-| Location      | Ehrwald, Österreich (Österreich) |
-| Coordinates   | Latitude 47.399881, Longitude 10.918323 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
