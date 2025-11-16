@@ -5,9 +5,9 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-under-gray-sky-23AS61ws1qw"><img width="720" src="https://images.unsplash.com/photo-1557626220-43d82867914b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxODcwMTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain under gray sky"></a>
+  <a href="https://unsplash.com/photos/brown-stone-mountain-y7_sHDMRJsQ"><img width="720" src="https://images.unsplash.com/photo-1557626207-d830b677ec7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMyNzM0Mzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown stone mountain"></a>
   
-  <em>mountain under gray sky</em>
+  <em>brown stone mountain</em>
   
   <em></em>
 
