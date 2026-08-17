@@ -1,4 +1,4 @@
-name: Update README.md with random unsplash image
+name: Update Unsplash image
 
 # Controls when the workflow will run
 on:
