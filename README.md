@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/purple-and-black-electric-guitar-SjrgIBKSLW0"><img width="720" src="https://images.unsplash.com/photo-1591365437381-2db81d59f1e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwMzM2NjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="purple and black electric guitar"></a>
+  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-neck-with-a-guitar-pick-OZMEvI8_qy4"><img width="720" src="https://images.unsplash.com/photo-1706871111123-1689eb3ce1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxMjAxMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar neck with a guitar pick"></a>
   
-  <em>purple and black electric guitar</em>
+  <em>a close up of a guitar neck with a guitar pick</em>
   
   <em></em>
 
-  Photo by [Xie lipton](null) on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/LiptonSSSS)
+  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 15 |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | 100 |
+| Camera Model  |  EOS 20D |
+| Exposure Time | 1/6 |
+| Aperture      | 2.8 |
+| Focal Length  | 180.0 |
+| ISO           | 200 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
