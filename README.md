@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-neck-with-a-guitar-pick-OZMEvI8_qy4"><img width="720" src="https://images.unsplash.com/photo-1706871111123-1689eb3ce1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxMjAxMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar neck with a guitar pick"></a>
+  <a href="https://unsplash.com/photos/brown-and-white-electric-guitar-VelUTx8ZW5o"><img width="720" src="https://images.unsplash.com/photo-1585664591434-c3d5a32d2772?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyMDY1MDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown and white electric guitar"></a>
   
-  <em>a close up of a guitar neck with a guitar pick</em>
+  <em>brown and white electric guitar</em>
   
-  <em></em>
+  <em>Guitars in the sunlight.</em>
 
-  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
+  Photo by [Tim Wildsmith](http://www.timwildsmith.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timwildsmith) / [portfolio](http://www.timwildsmith.com) / [Twitter](https://twitter.com/timwildsmith)
   
-  Taken at Unknown • 
+  Taken at Nashville, TN, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.162664,-86.781602)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 20D |
-| Exposure Time | 1/6 |
-| Aperture      | 2.8 |
-| Focal Length  | 180.0 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | iPhone XS |
+| Exposure Time | 1/120 |
+| Aperture      | 2.4 |
+| Focal Length  | 6.0 |
+| ISO           | 125 |
+| Location      | Nashville, TN, USA (United States) |
+| Coordinates   | Latitude 36.162664, Longitude -86.781602 |
 
 </details>
 
