@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-with-a-black-background-jn_o6OyksFE"><img width="720" src="https://images.unsplash.com/photo-1706871111126-c71e7f20a2a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc1NTI0OTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar with a black background"></a>
+  <a href="https://unsplash.com/photos/brown-acoustic-guitar-on-brown-textile-yDzcAIEXO9w"><img width="720" src="https://images.unsplash.com/photo-1588729827997-c0c0e1837e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2Mzg1NTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown acoustic guitar on brown textile"></a>
   
-  <em>a close up of a guitar with a black background</em>
+  <em>brown acoustic guitar on brown textile</em>
   
-  <em></em>
+  <em>Gibson Hummingbird Pro</em>
 
-  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
+  Photo by [Chris Hardy](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chrishardy.photography)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 20D |
-| Exposure Time | 1/60 |
-| Aperture      | 2.8 |
-| Focal Length  | 100.0 |
-| ISO           | 200 |
+| Camera Model  | Canon EOS REBEL T5i |
+| Exposure Time | 1/100 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 400 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
