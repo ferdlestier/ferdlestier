@@ -5,7 +5,7 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-acoustic-guitar-on-brown-textile-yDzcAIEXO9w"><img width="720" src="https://images.unsplash.com/photo-1588729827997-c0c0e1837e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2Mzg1NTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown acoustic guitar on brown textile"></a>
+  <a href="https://unsplash.com/photos/brown-acoustic-guitar-on-brown-textile-yDzcAIEXO9w"><img width="720" src="https://images.unsplash.com/photo-1588729827997-c0c0e1837e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3MjUwMDJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown acoustic guitar on brown textile"></a>
   
   <em>brown acoustic guitar on brown textile</em>
   
