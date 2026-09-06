@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/guitars-displayed-in-a-store-window-YRY0Eo6Yq4s"><img width="720" src="https://images.unsplash.com/photo-1773093219310-711be04f4fa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1ODk2NDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="Guitars displayed in a store window"></a>
+  <a href="https://unsplash.com/photos/black-and-gold-guitar-pick-sQKIlOXpbLY"><img width="720" src="https://images.unsplash.com/photo-1588885107947-158684437c59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg2NzYwODN8&ixlib=rb-4.1.0&q=80&w=1080" alt="black and gold guitar pick"></a>
   
-  <em>Guitars displayed in a store window</em>
+  <em>black and gold guitar pick</em>
   
-  <em>Shop window filled with electric guitars in various shapes and colors. Music store display, instruments, urban lifestyle, reflections, retail photography.</em>
+  <em>Gibson Les Paul headstock wallpaper</em>
 
-  Photo by [Masha](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/masha.uu)
+  Photo by [Yurii Stupen](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yurii.stupen)
   
-  Taken at Paris, France • 
+  Taken at Kyiv, Україна • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.4501,30.5234)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100VI |
-| Exposure Time | 1/160 |
-| Aperture      | 3.6 |
-| Focal Length  | 23.0 |
-| ISO           | 500 |
-| Location      | Paris, France (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | Canon EOS 1200D |
+| Exposure Time | 1/100 |
+| Aperture      | null |
+| Focal Length  | 50.0 |
+| ISO           | 800 |
+| Location      | Kyiv, Україна (Україна) |
+| Coordinates   | Latitude 50.4501, Longitude 30.5234 |
 
 </details>
 
