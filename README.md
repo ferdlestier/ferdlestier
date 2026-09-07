@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-and-gold-guitar-pick-sQKIlOXpbLY"><img width="720" src="https://images.unsplash.com/photo-1588885107947-158684437c59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg2NzYwODN8&ixlib=rb-4.1.0&q=80&w=1080" alt="black and gold guitar pick"></a>
+  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-neck-with-a-guitar-pick-OZMEvI8_qy4"><img width="720" src="https://images.unsplash.com/photo-1706871111123-1689eb3ce1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg3NjMyNDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar neck with a guitar pick"></a>
   
-  <em>black and gold guitar pick</em>
+  <em>a close up of a guitar neck with a guitar pick</em>
   
-  <em>Gibson Les Paul headstock wallpaper</em>
+  <em></em>
 
-  Photo by [Yurii Stupen](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yurii.stupen)
+  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
   
-  Taken at Kyiv, Україна • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.4501,30.5234)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 1200D |
-| Exposure Time | 1/100 |
-| Aperture      | null |
-| Focal Length  | 50.0 |
-| ISO           | 800 |
-| Location      | Kyiv, Україна (Україна) |
-| Coordinates   | Latitude 50.4501, Longitude 30.5234 |
+| Camera Model  |  EOS 20D |
+| Exposure Time | 1/6 |
+| Aperture      | 2.8 |
+| Focal Length  | 180.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
