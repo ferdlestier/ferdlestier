@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-neck-with-a-guitar-pick-OZMEvI8_qy4"><img width="720" src="https://images.unsplash.com/photo-1706871111123-1689eb3ce1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg3NjMyNDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar neck with a guitar pick"></a>
+  <a href="https://unsplash.com/photos/a-hand-holding-a-gun-AIFYogsqWf4"><img width="720" src="https://images.unsplash.com/photo-1670601109805-b51163c8f3e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg4NDkwNjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="a hand holding a gun"></a>
   
-  <em>a close up of a guitar neck with a guitar pick</em>
+  <em>a hand holding a gun</em>
   
   <em></em>
 
-  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
+  Photo by [Yuka Tanaka](https://www.instagram.com/y_chitchi_photo) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/y_chitchi_photo) / [portfolio](https://www.instagram.com/y_chitchi_photo)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 20D |
-| Exposure Time | 1/6 |
+| Camera Model  | ILCE-6400 |
+| Exposure Time | 1/50 |
 | Aperture      | 2.8 |
-| Focal Length  | 180.0 |
-| ISO           | 200 |
+| Focal Length  | 32.0 |
+| ISO           | 1000 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
