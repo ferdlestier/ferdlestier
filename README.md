@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-hand-holding-a-gun-AIFYogsqWf4"><img width="720" src="https://images.unsplash.com/photo-1670601109805-b51163c8f3e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg4NDkwNjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="a hand holding a gun"></a>
+  <a href="https://unsplash.com/photos/brown-and-black-guitars-BWL5hMXBhcQ"><img width="720" src="https://images.unsplash.com/photo-1568827441676-76004aa95f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg5MzU1MTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown and black guitars"></a>
   
-  <em>a hand holding a gun</em>
+  <em>brown and black guitars</em>
   
-  <em></em>
+  <em>Perfect 4K Guitar Wallpaper for desktop.</em>
 
-  Photo by [Yuka Tanaka](https://www.instagram.com/y_chitchi_photo) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/y_chitchi_photo) / [portfolio](https://www.instagram.com/y_chitchi_photo)
+  Photo by [Yurii Stupen](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yurii.stupen)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6400 |
-| Exposure Time | 1/50 |
-| Aperture      | 2.8 |
-| Focal Length  | 32.0 |
-| ISO           | 1000 |
+| Camera Model  | Canon EOS 1200D |
+| Exposure Time | 1/160 |
+| Aperture      | null |
+| Focal Length  | 50.0 |
+| ISO           | 800 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
