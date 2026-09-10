@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-and-black-guitars-BWL5hMXBhcQ"><img width="720" src="https://images.unsplash.com/photo-1568827441676-76004aa95f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg5MzU1MTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown and black guitars"></a>
+  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-with-a-black-background-IUGuNaOZGdI"><img width="720" src="https://images.unsplash.com/photo-1706871111090-f76a31abecea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkwMjE4OTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar with a black background"></a>
   
-  <em>brown and black guitars</em>
+  <em>a close up of a guitar with a black background</em>
   
-  <em>Perfect 4K Guitar Wallpaper for desktop.</em>
+  <em></em>
 
-  Photo by [Yurii Stupen](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yurii.stupen)
+  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 1200D |
-| Exposure Time | 1/160 |
-| Aperture      | null |
-| Focal Length  | 50.0 |
-| ISO           | 800 |
+| Camera Model  |  EOS 20D |
+| Exposure Time | 1/6 |
+| Aperture      | 2.8 |
+| Focal Length  | 100.0 |
+| ISO           | 200 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
