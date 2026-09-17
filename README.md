@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-with-a-black-background-jn_o6OyksFE"><img width="720" src="https://images.unsplash.com/photo-1706871111126-c71e7f20a2a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk1NDAzMjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar with a black background"></a>
+  <a href="https://unsplash.com/photos/black-whiskered-single-cutaway-electric-guitar-YStboKiFPVw"><img width="720" src="https://images.unsplash.com/photo-1516924962500-2b4b3b99ea02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk2MjY3NzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="black whiskered single-cutaway electric guitar"></a>
   
-  <em>a close up of a guitar with a black background</em>
+  <em>black whiskered single-cutaway electric guitar</em>
   
-  <em></em>
+  <em>Limitied Edition</em>
 
-  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
+  Photo by [Jeremy Allouche](http://instagram.com/jerroams) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jerroams) / [portfolio](http://instagram.com/jerroams)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 20D |
-| Exposure Time | 1/60 |
-| Aperture      | 2.8 |
-| Focal Length  | 100.0 |
-| ISO           | 200 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
