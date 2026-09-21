@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/close-up-photo-of-guitar-phkp6WdpnIc"><img width="720" src="https://images.unsplash.com/photo-1508187037215-0df5661d84e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk4ODU3MDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="close-up photo of guitar"></a>
+  <a href="https://unsplash.com/photos/a-hand-holding-a-gun-AIFYogsqWf4"><img width="720" src="https://images.unsplash.com/photo-1670601109805-b51163c8f3e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5NzI5Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="a hand holding a gun"></a>
   
-  <em>close-up photo of guitar</em>
+  <em>a hand holding a gun</em>
   
-  <em>Gibson Les Paul switch</em>
+  <em></em>
 
-  Photo by [Mikkel Bech](https://www.instagram.com/bechbox/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bechbox) / [portfolio](https://www.instagram.com/bechbox/)
+  Photo by [Yuka Tanaka](https://www.instagram.com/y_chitchi_photo) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/y_chitchi_photo) / [portfolio](https://www.instagram.com/y_chitchi_photo)
   
-  Taken at Aarhus, Denmark • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.162939,10.203921)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Aarhus, Denmark (Denmark) |
-| Coordinates   | Latitude 56.162939, Longitude 10.203921 |
+| Camera Model  | ILCE-6400 |
+| Exposure Time | 1/50 |
+| Aperture      | 2.8 |
+| Focal Length  | 32.0 |
+| ISO           | 1000 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
