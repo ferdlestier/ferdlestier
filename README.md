@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-hand-holding-a-gun-AIFYogsqWf4"><img width="720" src="https://images.unsplash.com/photo-1670601109805-b51163c8f3e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5NzI5Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="a hand holding a gun"></a>
+  <a href="https://unsplash.com/photos/black-electric-guitar-d96W1K0kgEM"><img width="720" src="https://images.unsplash.com/photo-1532543639288-75370b72d9e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAwNTg3MDV8&ixlib=rb-4.1.0&q=80&w=1080" alt="black electric guitar"></a>
   
-  <em>a hand holding a gun</em>
+  <em>black electric guitar</em>
   
   <em></em>
 
-  Photo by [Yuka Tanaka](https://www.instagram.com/y_chitchi_photo) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/y_chitchi_photo) / [portfolio](https://www.instagram.com/y_chitchi_photo)
+  Photo by [freestocks](https://freestocks.org) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/freestocks) / [portfolio](https://freestocks.org) / [Twitter](https://twitter.com/FreestocksOrg)
   
-  Taken at Unknown • 
+  Taken at Warsaw, Poland • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.2296756,21.0122287)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6400 |
-| Exposure Time | 1/50 |
-| Aperture      | 2.8 |
-| Focal Length  | 32.0 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/125 |
+| Aperture      | 4.0 |
+| Focal Length  | 85.0 |
 | ISO           | 1000 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Warsaw, Poland (Poland) |
+| Coordinates   | Latitude 52.2296756, Longitude 21.0122287 |
 
 </details>
 
