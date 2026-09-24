@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-and-brown-acoustic-guitar-tETF6V6Lwxs"><img width="720" src="https://images.unsplash.com/photo-1588729827829-cbf5023cd78e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAxNDUxNzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="black and brown acoustic guitar"></a>
+  <a href="https://unsplash.com/photos/purple-and-black-electric-guitar-SjrgIBKSLW0"><img width="720" src="https://images.unsplash.com/photo-1591365437381-2db81d59f1e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAyMzE1NDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="purple and black electric guitar"></a>
   
-  <em>black and brown acoustic guitar</em>
+  <em>purple and black electric guitar</em>
   
-  <em>Gibson Hummingbird Pro</em>
+  <em></em>
 
-  Photo by [Chris Hardy](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chrishardy.photography)
+  Photo by [Xie lipton](null) on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/LiptonSSSS)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T5i |
-| Exposure Time | 1/100 |
-| Aperture      | 1.8 |
-| Focal Length  | 50.0 |
-| ISO           | 400 |
+| Camera Model  | ILCE-7 |
+| Exposure Time | 15 |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
