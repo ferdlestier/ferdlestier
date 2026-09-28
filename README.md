@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/guitars-displayed-in-a-store-window-YRY0Eo6Yq4s"><img width="720" src="https://images.unsplash.com/photo-1773093219310-711be04f4fa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA0OTA2NTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="Guitars displayed in a store window"></a>
+  <a href="https://unsplash.com/photos/brown-and-white-electric-guitar-VelUTx8ZW5o"><img width="720" src="https://images.unsplash.com/photo-1585664591434-c3d5a32d2772?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA1Nzc5Mjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown and white electric guitar"></a>
   
-  <em>Guitars displayed in a store window</em>
+  <em>brown and white electric guitar</em>
   
-  <em>Shop window filled with electric guitars in various shapes and colors. Music store display, instruments, urban lifestyle, reflections, retail photography.</em>
+  <em>Guitars in the sunlight.</em>
 
-  Photo by [Masha](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/masha.uu)
+  Photo by [Tim Wildsmith](http://www.timwildsmith.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timwildsmith) / [portfolio](http://www.timwildsmith.com) / [Twitter](https://twitter.com/timwildsmith)
   
-  Taken at Paris, France • 
+  Taken at Nashville, TN, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.162664,-86.781602)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100VI |
-| Exposure Time | 1/160 |
-| Aperture      | 3.6 |
-| Focal Length  | 23.0 |
-| ISO           | 500 |
-| Location      | Paris, France (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | iPhone XS |
+| Exposure Time | 1/120 |
+| Aperture      | 2.4 |
+| Focal Length  | 6.0 |
+| ISO           | 125 |
+| Location      | Nashville, TN, USA (United States) |
+| Coordinates   | Latitude 36.162664, Longitude -86.781602 |
 
 </details>
 
