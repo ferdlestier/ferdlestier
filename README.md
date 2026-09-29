@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-and-white-electric-guitar-VelUTx8ZW5o"><img width="720" src="https://images.unsplash.com/photo-1585664591434-c3d5a32d2772?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA1Nzc5Mjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown and white electric guitar"></a>
+  <a href="https://unsplash.com/photos/person-playing-white-and-electric-guitar-XNG5dmqVcvk"><img width="720" src="https://images.unsplash.com/photo-1543062058-de8a92799761?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA2NjM2MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="person playing white and electric guitar"></a>
   
-  <em>brown and white electric guitar</em>
+  <em>person playing white and electric guitar</em>
   
-  <em>Guitars in the sunlight.</em>
+  <em></em>
 
-  Photo by [Tim Wildsmith](http://www.timwildsmith.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timwildsmith) / [portfolio](http://www.timwildsmith.com) / [Twitter](https://twitter.com/timwildsmith)
+  Photo by [Oleg Ivanov](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/olegivnv) / [Twitter](https://twitter.com/olliecontrol)
   
-  Taken at Nashville, TN, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.162664,-86.781602)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone XS |
-| Exposure Time | 1/120 |
-| Aperture      | 2.4 |
-| Focal Length  | 6.0 |
-| ISO           | 125 |
-| Location      | Nashville, TN, USA (United States) |
-| Coordinates   | Latitude 36.162664, Longitude -86.781602 |
+| Camera Model  | Canon EOS 600D |
+| Exposure Time | 1/80 |
+| Aperture      | 1.8 |
+| Focal Length  | 50.0 |
+| ISO           | 1600 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
