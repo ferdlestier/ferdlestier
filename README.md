@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-hand-holding-a-gun-AIFYogsqWf4"><img width="720" src="https://images.unsplash.com/photo-1670601109805-b51163c8f3e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA4MzY0NjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="a hand holding a gun"></a>
+  <a href="https://unsplash.com/photos/row-of-electric-guitars-on-display-C3ENOgpLBUY"><img width="720" src="https://images.unsplash.com/photo-1770720221744-f9a0aadf3a4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA5MjI3ODl8&ixlib=rb-4.1.0&q=80&w=1080" alt="Row of electric guitars on display"></a>
   
-  <em>a hand holding a gun</em>
+  <em>Row of electric guitars on display</em>
   
-  <em></em>
+  <em>Close up of Gibson electric guitars displayed in stands at a guitar show, featuring rich sunburst, cherry red and gloss black finishes. The shallow depth of field highlights carved maple tops, detailed wood grain and polished chrome pickups under exhibition lighting. The composition focuses on craftsmanship, texture and iconic body shapes, making the image ideal for music, rock, blues, guitar retail, studio production, live performance or creative industry content.</em>
 
-  Photo by [Yuka Tanaka](https://www.instagram.com/y_chitchi_photo) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/y_chitchi_photo) / [portfolio](https://www.instagram.com/y_chitchi_photo)
+  Photo by [Ben Maffin](https://maffin.co.uk/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/experiencphotouk) / [portfolio](https://maffin.co.uk/)
   
-  Taken at Unknown • 
+  Taken at London, UK • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.507218,-0.127586)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6400 |
-| Exposure Time | 1/50 |
-| Aperture      | 2.8 |
-| Focal Length  | 32.0 |
-| ISO           | 1000 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  |  EOS R5 |
+| Exposure Time | 1/100 |
+| Aperture      | 2.5 |
+| Focal Length  | 50.0 |
+| ISO           | 400 |
+| Location      | London, UK (United Kingdom) |
+| Coordinates   | Latitude 51.507218, Longitude -0.127586 |
 
 </details>
 
