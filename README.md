@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-hand-holding-a-gun-AIFYogsqWf4"><img width="720" src="https://images.unsplash.com/photo-1670601109805-b51163c8f3e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTExMDE0MzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="a hand holding a gun"></a>
+  <a href="https://unsplash.com/photos/a-guitar-sitting-on-top-of-a-hard-case-et5iZZPe0j4"><img width="720" src="https://images.unsplash.com/photo-1687586370612-2cc016d3b318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTExODI4OTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a guitar sitting on top of a hard case"></a>
   
-  <em>a hand holding a gun</em>
+  <em>a guitar sitting on top of a hard case</em>
   
   <em></em>
 
-  Photo by [Yuka Tanaka](https://www.instagram.com/y_chitchi_photo) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/y_chitchi_photo) / [portfolio](https://www.instagram.com/y_chitchi_photo)
+  Photo by [Jackie Alexander](https://jac-kie.co) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jac.kie.co) / [portfolio](https://jac-kie.co) / [Twitter](https://twitter.com/jackalexander_)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6400 |
-| Exposure Time | 1/50 |
-| Aperture      | 2.8 |
-| Focal Length  | 32.0 |
-| ISO           | 1000 |
+| Camera Model  | NIKON D3300 |
+| Exposure Time | 1/80 |
+| Aperture      | 1.4 |
+| Focal Length  | 50.0 |
+| ISO           | 1600 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
