@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/white-telecaster-macro-photography-mCZ3BZgoB5k"><img width="720" src="https://images.unsplash.com/photo-1568827441009-a29ccfeb60e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEzNTQ3Njl8&ixlib=rb-4.1.0&q=80&w=1080" alt="white telecaster macro photography"></a>
+  <a href="https://unsplash.com/photos/black-and-white-electric-guitar-TW-wknV1oZo"><img width="720" src="https://images.unsplash.com/photo-1625159510807-03f1d1b52bff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE0NDEyODl8&ixlib=rb-4.1.0&q=80&w=1080" alt="black and white electric guitar"></a>
   
-  <em>white telecaster macro photography</em>
+  <em>black and white electric guitar</em>
   
-  <em>Perfect 4K Guitar Wallpaper for desktop.</em>
+  <em></em>
 
-  Photo by [Yurii Stupen](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yurii.stupen)
+  Photo by [Tyler Clemmensen](http://www.Instagram.com/tyler_clemmensen) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/tyler_clemmensen) / [portfolio](http://www.Instagram.com/tyler_clemmensen)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 1200D |
-| Exposure Time | 1/80 |
-| Aperture      | null |
-| Focal Length  | 50.0 |
-| ISO           | 800 |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/25 |
+| Aperture      | 5.6 |
+| Focal Length  | 55.0 |
+| ISO           | 1000 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
