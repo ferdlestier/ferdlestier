@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-close-up-of-a-person-playing-a-guitar-vDyqKn5pgfs"><img width="720" src="https://images.unsplash.com/photo-1670858140311-c3fc46b2358c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE4NzM0MDJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a person playing a guitar"></a>
+  <a href="https://unsplash.com/photos/close-up-photo-of-guitar-phkp6WdpnIc"><img width="720" src="https://images.unsplash.com/photo-1508187037215-0df5661d84e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE5NTk0ODd8&ixlib=rb-4.1.0&q=80&w=1080" alt="close-up photo of guitar"></a>
   
-  <em>a close up of a person playing a guitar</em>
+  <em>close-up photo of guitar</em>
   
-  <em>Daniel Evangelista 2017 jam session</em>
+  <em>Gibson Les Paul switch</em>
 
-  Photo by [Alexandre Boto](http://@labizabouto) on [unsplash.com](https://unsplash.com/) • [portfolio](http://@labizabouto)
+  Photo by [Mikkel Bech](https://www.instagram.com/bechbox/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bechbox) / [portfolio](https://www.instagram.com/bechbox/)
   
-  Taken at Liverpool, Liverpool, Reino Unido • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.4068671,-2.9915074)
+  Taken at Aarhus, Denmark • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.162939,10.203921)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 550D |
-| Exposure Time | 1/100 |
-| Aperture      | 1.8 |
-| Focal Length  | 50.0 |
-| ISO           | 3200 |
-| Location      | Liverpool, Liverpool, Reino Unido (Reino Unido) |
-| Coordinates   | Latitude 53.4068671, Longitude -2.9915074 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Aarhus, Denmark (Denmark) |
+| Coordinates   | Latitude 56.162939, Longitude 10.203921 |
 
 </details>
 
