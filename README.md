@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-and-black-guitars-BWL5hMXBhcQ"><img width="720" src="https://images.unsplash.com/photo-1568827441676-76004aa95f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIwNDU4Nzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown and black guitars"></a>
+  <a href="https://unsplash.com/photos/brown-acoustic-guitar-on-brown-textile-yDzcAIEXO9w"><img width="720" src="https://images.unsplash.com/photo-1588729827997-c0c0e1837e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIxMzIyNDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown acoustic guitar on brown textile"></a>
   
-  <em>brown and black guitars</em>
+  <em>brown acoustic guitar on brown textile</em>
   
-  <em>Perfect 4K Guitar Wallpaper for desktop.</em>
+  <em>Gibson Hummingbird Pro</em>
 
-  Photo by [Yurii Stupen](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yurii.stupen)
+  Photo by [Chris Hardy](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chrishardy.photography)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 1200D |
-| Exposure Time | 1/160 |
-| Aperture      | null |
-| Focal Length  | 50.0 |
-| ISO           | 800 |
+| Camera Model  | Canon EOS REBEL T5i |
+| Exposure Time | 1/100 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 400 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
