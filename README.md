@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-and-brown-acoustic-guitar-tETF6V6Lwxs"><img width="720" src="https://images.unsplash.com/photo-1588729827829-cbf5023cd78e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI1NjQyNzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="black and brown acoustic guitar"></a>
+  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-with-a-black-background-IUGuNaOZGdI"><img width="720" src="https://images.unsplash.com/photo-1706871111090-f76a31abecea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI2NTA2NTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar with a black background"></a>
   
-  <em>black and brown acoustic guitar</em>
+  <em>a close up of a guitar with a black background</em>
   
-  <em>Gibson Hummingbird Pro</em>
+  <em></em>
 
-  Photo by [Chris Hardy](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chrishardy.photography)
+  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T5i |
-| Exposure Time | 1/100 |
-| Aperture      | 1.8 |
-| Focal Length  | 50.0 |
-| ISO           | 400 |
+| Camera Model  |  EOS 20D |
+| Exposure Time | 1/6 |
+| Aperture      | 2.8 |
+| Focal Length  | 100.0 |
+| ISO           | 200 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
