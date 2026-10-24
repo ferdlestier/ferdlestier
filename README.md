@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-red-electric-guitar-4VRBKizR2vk"><img width="720" src="https://images.unsplash.com/photo-1660577720319-24af66a104fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI3MzcwNTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a red electric guitar"></a>
+  <a href="https://unsplash.com/photos/brown-and-black-guitars-BWL5hMXBhcQ"><img width="720" src="https://images.unsplash.com/photo-1568827441676-76004aa95f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI4MjMyNzh8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown and black guitars"></a>
   
-  <em>a red electric guitar</em>
+  <em>brown and black guitars</em>
   
-  <em>Gibson Les Paul Standard 50s</em>
+  <em>Perfect 4K Guitar Wallpaper for desktop.</em>
 
-  Photo by [SHAN LU](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/TOYAMAKANNA)
+  Photo by [Yurii Stupen](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yurii.stupen)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6400 |
-| Exposure Time | 1/80 |
-| Aperture      | 1.8 |
+| Camera Model  | Canon EOS 1200D |
+| Exposure Time | 1/160 |
+| Aperture      | null |
 | Focal Length  | 50.0 |
-| ISO           | 400 |
+| ISO           | 800 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
