@@ -5,9 +5,9 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-and-black-guitars-BWL5hMXBhcQ"><img width="720" src="https://images.unsplash.com/photo-1568827441676-76004aa95f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI4MjMyNzh8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown and black guitars"></a>
+  <a href="https://unsplash.com/photos/guitar-fret-board-eV0iFMBipMA"><img width="720" src="https://images.unsplash.com/photo-1568827441664-0d68422e6b5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI5MDk2ODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="guitar fret board"></a>
   
-  <em>brown and black guitars</em>
+  <em>guitar fret board</em>
   
   <em>Perfect 4K Guitar Wallpaper for desktop.</em>
 
