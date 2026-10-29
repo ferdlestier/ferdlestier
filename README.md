@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/guitars-displayed-in-a-store-window-YRY0Eo6Yq4s"><img width="720" src="https://images.unsplash.com/photo-1773093219310-711be04f4fa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMxNjg2MDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="Guitars displayed in a store window"></a>
+  <a href="https://unsplash.com/photos/brown-electric-guitar-j00HgA1cWFU"><img width="720" src="https://images.unsplash.com/photo-1559466170-72a11c6586c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMyNTUwMDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown electric guitar"></a>
   
-  <em>Guitars displayed in a store window</em>
+  <em>brown electric guitar</em>
   
-  <em>Shop window filled with electric guitars in various shapes and colors. Music store display, instruments, urban lifestyle, reflections, retail photography.</em>
+  <em>A custom made Les Paul guitar with natural red colour from the carob wood used by the guitar maker. An art piece from a French guitar maker.</em>
 
-  Photo by [masha.uu](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/masha.uu)
+  Photo by [Maxime Favier](https://favierguitars.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/favierguitars) / [portfolio](https://favierguitars.com/)
   
-  Taken at Paris, France • 
+  Taken at France • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100VI |
-| Exposure Time | 1/160 |
-| Aperture      | 3.6 |
-| Focal Length  | 23.0 |
-| ISO           | 500 |
-| Location      | Paris, France (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | EOS 6D MkII |
+| Exposure Time | 1/125 |
+| Aperture      | 8.0 |
+| Focal Length  | 55 |
+| ISO           | 100 |
+| Location      | France (France) |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
