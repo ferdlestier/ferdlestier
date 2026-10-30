@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-electric-guitar-j00HgA1cWFU"><img width="720" src="https://images.unsplash.com/photo-1559466170-72a11c6586c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMyNTUwMDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown electric guitar"></a>
+  <a href="https://unsplash.com/photos/brown-electric-guitar-gvYaP-wAaDs"><img width="720" src="https://images.unsplash.com/photo-1565829577122-f1c838600f52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMzNDEzODR8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown electric guitar"></a>
   
   <em>brown electric guitar</em>
   
-  <em>A custom made Les Paul guitar with natural red colour from the carob wood used by the guitar maker. An art piece from a French guitar maker.</em>
+  <em>Gibson 1958 Les Paul Standard Sunburst Slash of Guns N Roses</em>
 
-  Photo by [Maxime Favier](https://favierguitars.com/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/favierguitars) / [portfolio](https://favierguitars.com/)
+  Photo by [Caught In Joy](https://caughtinjoy.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/caught_in_joy) / [portfolio](https://caughtinjoy.com) / [Twitter](https://twitter.com/caughtinjoy)
   
-  Taken at France • 
+  Taken at Unknown • 
   
   ---
   
@@ -22,12 +22,12 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | EOS 6D MkII |
-| Exposure Time | 1/125 |
-| Aperture      | 8.0 |
-| Focal Length  | 55 |
-| ISO           | 100 |
-| Location      | France (France) |
+| Camera Model  | Canon EOS M50 |
+| Exposure Time | 1/60 |
+| Aperture      | null |
+| Focal Length  | 0.0 |
+| ISO           | 800 |
+| Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 </details>
