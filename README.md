@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-electric-guitar-d96W1K0kgEM"><img width="720" src="https://images.unsplash.com/photo-1532543639288-75370b72d9e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM2ODY4MTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="black electric guitar"></a>
+  <a href="https://unsplash.com/photos/macro-shot-photo-of-black-electric-guitar-TVgcpjm7jxc"><img width="720" src="https://images.unsplash.com/photo-1456948927036-ad533e53865c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM3NzMyNTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="macro shot photo of black electric guitar"></a>
   
-  <em>black electric guitar</em>
+  <em>macro shot photo of black electric guitar</em>
   
-  <em></em>
+  <em>Black and gold guitar</em>
 
-  Photo by [freestocks](https://freestocks.org) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/freestocks) / [portfolio](https://freestocks.org) / [Twitter](https://twitter.com/FreestocksOrg)
+  Photo by [Matija Sundalic](https://dribbble.com/MatijaSundalic) on [unsplash.com](https://unsplash.com/) • [portfolio](https://dribbble.com/MatijaSundalic)
   
-  Taken at Warsaw, Poland • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.2296756,21.0122287)
+  Taken at Zagreb, Croatia • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.8150108,15.9819190000001)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
+| Camera Model  | X-M1 |
 | Exposure Time | 1/125 |
-| Aperture      | 4.0 |
-| Focal Length  | 85.0 |
-| ISO           | 1000 |
-| Location      | Warsaw, Poland (Poland) |
-| Coordinates   | Latitude 52.2296756, Longitude 21.0122287 |
+| Aperture      | null |
+| Focal Length  | 50.0 |
+| ISO           | 400 |
+| Location      | Zagreb, Croatia (Croatia) |
+| Coordinates   | Latitude 45.8150108, Longitude 15.9819190000001 |
 
 </details>
 
