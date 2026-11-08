@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-guitar-sitting-on-top-of-a-hard-case-et5iZZPe0j4"><img width="720" src="https://images.unsplash.com/photo-1687586370612-2cc016d3b318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQwMzIyNzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a guitar sitting on top of a hard case"></a>
+  <a href="https://unsplash.com/photos/brown-guitar-head-stock-in-close-up-photography-N-KfjGorsEk"><img width="720" src="https://images.unsplash.com/photo-1588729827610-bcc50cc259a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQxMTg2ODZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown guitar head stock in close up photography"></a>
   
-  <em>a guitar sitting on top of a hard case</em>
+  <em>brown guitar head stock in close up photography</em>
   
-  <em></em>
+  <em>Gibson Hummingbird Pro</em>
 
-  Photo by [Jackie Alexander](https://jac-kie.co) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jac.kie.co) / [portfolio](https://jac-kie.co) / [Twitter](https://twitter.com/jackalexander_)
+  Photo by [Chris Hardy](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chrishardy.photography)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D3300 |
-| Exposure Time | 1/80 |
-| Aperture      | 1.4 |
+| Camera Model  | Canon EOS REBEL T5i |
+| Exposure Time | 1/100 |
+| Aperture      | 2.5 |
 | Focal Length  | 50.0 |
-| ISO           | 1600 |
+| ISO           | 400 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Coordinates   | Latitude null, Longitude null |
 
 </details>
 
