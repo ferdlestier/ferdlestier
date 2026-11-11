@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/guitar-fret-board-eV0iFMBipMA"><img width="720" src="https://images.unsplash.com/photo-1568827441664-0d68422e6b5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQyOTE1ODd8&ixlib=rb-4.1.0&q=80&w=1080" alt="guitar fret board"></a>
+  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-on-a-black-background-94XqdqjFAZ0"><img width="720" src="https://images.unsplash.com/photo-1706871111135-1e530458eafc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQzNzgwMTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar on a black background"></a>
   
-  <em>guitar fret board</em>
+  <em>a close up of a guitar on a black background</em>
   
-  <em>Perfect 4K Guitar Wallpaper for desktop.</em>
+  <em></em>
 
-  Photo by [Yurii Stupen](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yurii.stupen)
+  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 1200D |
-| Exposure Time | 1/160 |
-| Aperture      | null |
-| Focal Length  | 50.0 |
-| ISO           | 800 |
+| Camera Model  |  EOS 20D |
+| Exposure Time | 1/5 |
+| Aperture      | 2.8 |
+| Focal Length  | 70.0 |
+| ISO           | 200 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
