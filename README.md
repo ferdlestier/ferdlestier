@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-group-of-guitars-sitting-on-top-of-a-wooden-floor-8axkoTFnVMM"><img width="720" src="https://images.unsplash.com/photo-1635468324924-8d53dd3f8c9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ2MzcwNzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a group of guitars sitting on top of a wooden floor"></a>
+  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-with-a-black-background-CLGPmaRhD5s"><img width="720" src="https://images.unsplash.com/photo-1706871111120-2f3b752885d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ3MjM0OTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar with a black background"></a>
   
-  <em>a group of guitars sitting on top of a wooden floor</em>
+  <em>a close up of a guitar with a black background</em>
   
   <em></em>
 
-  Photo by [Evgeny Ndn](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/evs.nd)
+  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 250D |
-| Exposure Time | 1/80 |
-| Aperture      | 1.8 |
-| Focal Length  | 50.0 |
-| ISO           | 1250 |
+| Camera Model  |  EOS 20D |
+| Exposure Time | 1/5 |
+| Aperture      | 2.8 |
+| Focal Length  | 70.0 |
+| ISO           | 200 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
