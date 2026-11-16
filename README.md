@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-with-a-black-background-CLGPmaRhD5s"><img width="720" src="https://images.unsplash.com/photo-1706871111120-2f3b752885d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ3MjM0OTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar with a black background"></a>
+  <a href="https://unsplash.com/photos/macro-shot-photo-of-black-electric-guitar-TVgcpjm7jxc"><img width="720" src="https://images.unsplash.com/photo-1456948927036-ad533e53865c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ4MTA2OTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="macro shot photo of black electric guitar"></a>
   
-  <em>a close up of a guitar with a black background</em>
+  <em>macro shot photo of black electric guitar</em>
   
-  <em></em>
+  <em>Black and gold guitar</em>
 
-  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
+  Photo by [Matija Sundalic](https://dribbble.com/MatijaSundalic) on [unsplash.com](https://unsplash.com/) • [portfolio](https://dribbble.com/MatijaSundalic)
   
-  Taken at Unknown • 
+  Taken at Zagreb, Croatia • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.8150108,15.9819190000001)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 20D |
-| Exposure Time | 1/5 |
-| Aperture      | 2.8 |
-| Focal Length  | 70.0 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | X-M1 |
+| Exposure Time | 1/125 |
+| Aperture      | null |
+| Focal Length  | 50.0 |
+| ISO           | 400 |
+| Location      | Zagreb, Croatia (Croatia) |
+| Coordinates   | Latitude 45.8150108, Longitude 15.9819190000001 |
 
 </details>
 
