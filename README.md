@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-and-white-electric-guitar-TW-wknV1oZo"><img width="720" src="https://images.unsplash.com/photo-1625159510807-03f1d1b52bff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ4OTY0NDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="black and white electric guitar"></a>
+  <a href="https://unsplash.com/photos/a-close-up-of-a-guitar-with-a-black-background-CLGPmaRhD5s"><img width="720" src="https://images.unsplash.com/photo-1706871111120-2f3b752885d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTQ0OTd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ5ODI4MzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close up of a guitar with a black background"></a>
   
-  <em>black and white electric guitar</em>
+  <em>a close up of a guitar with a black background</em>
   
   <em></em>
 
-  Photo by [Tyler Clemmensen](http://www.Instagram.com/tyler_clemmensen) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/tyler_clemmensen) / [portfolio](http://www.Instagram.com/tyler_clemmensen)
+  Photo by [Michael Heise](https://www.michaelheise.com) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/momheise) / [portfolio](https://www.michaelheise.com)
   
   Taken at Unknown • 
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5200 |
-| Exposure Time | 1/25 |
-| Aperture      | 5.6 |
-| Focal Length  | 55.0 |
-| ISO           | 1000 |
+| Camera Model  |  EOS 20D |
+| Exposure Time | 1/5 |
+| Aperture      | 2.8 |
+| Focal Length  | 70.0 |
+| ISO           | 200 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
